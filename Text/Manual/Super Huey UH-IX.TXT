@@ -1,0 +1,432 @@
+                     ATARI (R) 7800 (TM) Game Manual
+
+                             Super Huey UH-1X
+
+ATARI (R)
+Super Huey (TM)
+
+7800 (TM) Game Manual
+
+Every effort has been made to ensure the accuracy of the product
+documentation in this manual. However, because we are constantly improving
+and updating our computer software and hardware, Atari Corporation is
+unable to guarantee the accuracy of printed material after the date of
+publication and disclaims liability for changes, errors, and omissions.
+
+Reproduction of this document or any portion of its contents is not allowed
+without the specific written permission of Atari Corporation.
+
+Super Huey (TM) is a registered trademark of COSMI, a Corporation, (C) 1986.
+
+Atari (R), the Atari logo, and 7800 (TM) are trademarks or registered
+trademarks of Atari Corporation.
+
+ATARI (R)
+Copyright (C) 1988, Atari Corporation.
+Sunnyvale, CA 94086.
+All rights reserved.
+
+
+TABLE OF CONTENTS
+
+INTRODUCTION                    1
+  Calling All 'Copter Pilots    1
+  Getting Started               1
+
+PLAYING THE GAME                2
+  Instrument Panel              2
+  Arcade Mode                   4
+  Flight School                 5
+    Taking Off                  6
+    Navigating                  6
+    Landing                     7
+  Reality Mode                  8
+    Piloting the Huey           8
+    Fighting the Enemy          8
+
+SPECS AND CONCEPT OF OPERATIONS 10
+  Super Huey Specs              10
+  Concept of Operations         11
+
+STRATEGY                        12
+
+
+INTRODUCTION
+
+Calling All 'Copter Pilots
+
+Super Huey. That's what they're calling the experimental UH-1XA helicopter
+you've been ordered to test. Not that you're complaining -- this baby
+sports a super-strong light-weight engine and state-of-the-art control
+panel. From the moment you slid in to the streamlined cockpit you knew the
+two of you could make sweet music together.
+
+First, try her out in flight school, or go after some gutsy aerial combat
+in arcade mode. Then maybe, just maybe, you'll be ready to test your
+piloting and target skills in reality mode.
+
+Turn on the power, start the engine, engage the rotor, then go for
+altitude. They've finally designed a helicopter the way you always knew
+they should, and it's up to you to put it to the test.
+
+
+Getting Started
+
+1.  Insert the Super Huey cartridge into your Atari 7800 Video Game System
+    as explained in your 7800 Owner's Manual.
+
+2.  Switch on your television; then press [Power] on your 7800 console. The
+    title screen appears.
+
+3.  Press [Select] or move the directional control on your controller until
+    the game mode you want appears: Arcade Mode, Flight School, or Reality
+    Mode. To see a demo, wait a few moments.
+
+4.  Press a controller button or [Reset] to begin the game in your selected
+    mode.
+
+5.  Press [Pause] to pause a game. Press it again to resume play.
+
+6.  Press [Reset] at any time to start a new game with the same mode; press
+    [Select] to return to the title screen to select a different mode.
+
+
+PLAYING THE GAME
+
+Instrument Panel
+
+Whether you're a novice or seasoned 'copter pilot, you should become
+familiar with the instrument panel before you take off. So, slide into the
+cockpit and take a gander at the instruments before you. You can view the
+instrument panel from the title
+screen or any of the mode screens.
+
+NOTE: For specific information on using the instruments, see the section
+that describes your chosen mode.
+
+{diagram of Instrument Panel}
+
+Instrument         Function
+
+1. AMO             Counts ammunition.
+
+2. KIL             Counts destroyed enemy aircraft.
+
+3. Radar Screen    Shows how close enemy aircraft and enemy base
+                   locations are to the Huey.
+
+4. GUN             Indicates whether your machine gun is on.
+
+5. MIS             Indicates which air-to-ground missile bays (1, 2,
+                   3, and 4) are loaded and firing. A bay's number
+                   flashes when you launch a missile and disappears
+                   when the missile hits or misses its target.
+
+6. Viewing Window  Shows your view from the cockpit.
+
+7. Cross Hairs     Cross hairs appear on the viewing window constantly
+                   in arcade mode and when the gun is on or missiles
+                   are loaded in Reality Mode. For accurate shooting,
+                   center the cross hairs on the enemy target. The
+                   cross hairs change color when the enemy is
+                   "locked on."
+
+8. FUEL            The fuel gauge.
+
+9. PCH             Collective rotor pitch gauge. Pitch is the angle of
+                   the rotor.
+
+10. RISE           The rise meter shows how fast you are gaining or
+                   losing altitude.
+
+11. EN             Engine rpm readout and needle gauge.
+
+12. ROT            Rotor rpm readout and needle gauge.
+
+13. COM            Compass heading in degrees.
+
+14. HOR            Artificial horizon indicator. This indicator shows
+                   if the Huey is headed up or down or banking left or
+                   right.
+
+15. On-Board       Shows Computer Display commands and options to the
+                   pilot. Press the right fire button to turn the on-
+                   board computer on or off.
+
+                   Push the controller forward or pull it backward to
+                   show in sequence each of the seven commands. Press
+                   the left fire button to select a command.
+
+                   Power Off/Power On
+                   Abort Mission
+                   Map Mode/Radar Mode
+                   Machine Guns Off/Machine Guns On
+                   Load and Arm Missiles/Disarm Missiles
+                   Set Auto Alt
+
+16. ALT            Altimeter readout and needle gauge. The altimeter
+                   shows the Huey's altitude.
+
+17. SPD            Speedometer readout and needle gauge.
+
+18. OIL            Oil pressure indicator. The optimum reading is the
+                   center mark.
+
+19. TEMP           Engine temperature indicator. Normal reading is the
+                   center mark.
+
+
+Arcade Mode
+
+When you select Arcade Mode you shoot at enemy aircraft and try to avoid
+getting shot down. You have an unlimited number of weapons to fire, and the
+Huey is already airborne, so all you have to do is maneuver and shoot at
+targets. If you want to see a demo of Arcade Mode, wait a few moments after
+selecting this mode.
+
+To maneuver, move the directional control on your controller up and down
+and left and right.
+
+To shoot targets, keep your eye on the radar screen. The moving blips
+(dots) show how close you are to the targets. When a target is centered in
+the cross hairs and "locked on" appears on the on-board computer screen,
+the cross hairs change color. Press the right controller button to fire
+missiles and the left button to fire machine guns. The KIL indicator
+displays a running count of all targets you've destroyed.
+
+NOTE: If the on-board computer is busy, you won't get a "locked on"
+message. Watch the cross-hairs. As soon as they change color, launch a
+missile!
+
+Play continues until you are shot down. If an enemy shot inflicts minor
+damage to the Huey, you lose the use of an instrument. The on-board
+computer terminal displays a message telling you which instrument you've
+lost. When all of your instruments are gone, you crash. If you take a
+particularly bad hit, you may go down all at once.
+
+If you're good, you'll be out there a long time. But if you're not...
+
+
+Flight School
+
+When you select Flight School, you learn how to take off, navigate, and
+land with the assistance of the on-board computer. Flight School tests
+your ability to follow procedures, fly competently, and become comfortable
+with the Huey. You learn by experience to keep a gentle, yet firm hand on
+the controls so you can smooth your way from one maneuver to another. While
+in Flight School, you're flying in friendly territory, so you won't have to
+worry about enemy attacks and you don't carry weapons.
+
+In Flight School, the on-board computer screen displays commands and
+command options that guide you every step of the way. Commands appear
+brighter than options. Once a command appears, select its option mode by
+pressing the right controller button.
+
+Scroll through options by repeatedly moving the directional control left.
+Select options by pressing the left controller button. Memorize the order
+of steps for taking off, navigating, and landing. You will need to know
+these steps by heart when you try Reality Mode.
+
+Only you will know how you did; you are on the honor system to learn the
+Huey inside and out.
+
+
+Taking Off
+
+Select flight school from the title screen, then perform the following
+steps to take off from the base. (All commands and options appear on the
+on-board computer display.)
+
+1. TURN ON THE POWER. Press the right controller button to select the Power
+   On option. Move the controller until the Power On option appears, select
+   it by pressing the left button. The instrument gauges turn on and are
+   set to zero. (Power Off appears as the next option and does not indicate
+   a power off condition.)
+
+2. START THE ENGINE. Press the right controller button and move the
+   directional control until the Start Engine option appears. Press the
+   left button to start the engine. Increase engine rpm to 1200.
+
+3. ENGAGE THE ROTOR. Move the directional control until the Engage Rotor
+   option appears and press the left button to select it. Increase engine
+   rpm to 3500. Let the rotor rpm catch up to the engine rpm at a 10:1
+   ratio. For example, if the engine is running at 3500 rpm, the rotor
+   should be spinning at 350 rpm.
+
+4. RISE TO 1000 FEET. To increase pitch, press and hold the left controller
+   button and pull backwards on the directional control. Decrease pitch
+   when the ALT gauge reads 1000.
+
+Once you are airborne, watch the on-board computer display for more
+instructions.
+
+
+Navigating
+
+Navigating requires a sharp mind and a steady hand. Keep your eye on the
+on-board computer display for instructions.
+
+To determine direction, push forward on your directional control to go
+forward, pull back to fly backwards. Bank left or right or change altitude
+by pushing the directional control in the desired direction. Keep the
+engine speed and rotor rpms at a steady rate in order to navigate smoothly.
+
+{diagram "Changing Direction with the Controller"}
+
+The compass shows your direction of travel in compass heading numbers. For
+example, 0 is north and 180 is south. The following illustration shows how
+the compass heading numbers correspond to the cardinal points north, east,
+south, west and so on.
+
+{compass}
+
+To control pitch, press the left controller button and push the directional
+control in one of the following ways: forward to decrease pitch and drop
+altitude, backwards to increase pitch and gain altitude, left to increase
+engine throttle, and right to decrease engine throttle.
+
+{diagram; "Changing Pitch with the Controller"}
+
+
+Landing
+
+You land when the on-board computer issues you landing commands. The
+following is the usual order of landing commands.
+
+1. TURN TO 0 DEGREES. Level off just before you reach this compass reading
+   on your COM instrument.
+
+2. HOVER AT 0 KPH. Push forward or backwards on the directional control
+   until the SPD gauge reads 0.
+
+3. DROP TO 100 FEET. Decrease pitch until the ALT gauge reads 100.
+
+4. DROP TO 20 FEET. Decrease pitch until the ALT gauge reads 20.
+
+5. TOUCH DOWN SOFTLY. Decrease pitch. When the ALT gauge reads zero, you've
+   landed.
+
+
+Reality Mode
+
+Piloting the Huey
+
+Your mission in Reality Mode is to bomb the enemy base and return to home
+base. You're on your own in Reality Mode. Unlike Flight School, the on-
+board computer screen doesn't prompt you. Remember all those skills you
+learned in Flight School? You'll need every one of them and maybe more.
+
+TIP: Use the Map Mode option to find the enemy base.
+
+Fighting the Enemy
+
+You're in combat against an unidentified enemy helicopter force. This force
+changes their field of operations often, so no heading from the base is
+safe.
+
+TIP: Don't forget to load and arm missiles.
+
+The skies won't be friendly until you have eliminated all enemies. It takes
+skillful flying to evade their deadly attacks, and true aim to shoot 'em
+down.
+
+Your defense weapons are missiles and machine guns. They are fix-mounted
+and aimed straight ahead. While machine gun fire is extremely accurate, the
+missiles are heat seekers that arm in flight. As long as the on-board
+computer displays "locked on" when you fire the missiles, they will strike
+their target. The missiles are capable of destroying the enemy without a
+true direct hit, but machine gun fire travels more quickly and works best
+if the target is exactly within the cross hairs.
+
+
+SPECS AND CONCEPT OF OPERATIONS
+
+The Super Huey was designed to conform to military specifications and to
+operate according to standard helicopter theories and principles.
+
+The following specs and theory of op will help you, the serious helicopter
+pilot, to better understand this remarkable aircraft.
+
+WARNING: The following is highly classified information DO NOT leak this
+information to other personnel unless directed to do so by the base
+commander. Violators will be severely reprimanded.
+
+
+Super Huey Specs
+
+The Super Huey is a UH-1XA type military classified helicopter that employs
+the latest in electronic instrument and stabilization systems.
+
+Engine          Vertical mount VLW (Very Light Weight) piston engine molded
+                of super-strong, super-light composite metal.
+
+Transmission    Direct drive with an automatic clutch. The clutch has a
+                10-to-1 engine to rotor reduction ratio.
+
+Rotor Assembly  Semi-rigid blades with a hub articulation system that
+                servo-electronically responds to flight conditions. Flight
+                drag reduction is 40 to 60%.
+
+Fuselage        Laminated carbon-fiber for optimum aerodynamic
+                characteristics, low weight, and resistance to direct hits.
+
+Cockpit         Seats one pilot in front and a navigator or copilot in
+                back. Mid-ship space for three additional personnel.
+
+Weapon Systems  Four bays that hold a maximum of 20 missiles. Two machine
+                guns that fire in tandem and can be loaded with a maximum
+                of 2000 rounds.
+
+
+Concept of Operations
+
+The following is a discussion of how rotary-wing aircraft (like the Huey)
+operate.
+
+NOTE: The post library has more information on how helicopters work.
+Civilians can find this information in their local library.
+
+One factor that allows helicopters to rise is the design of the rotor
+blades. These blades are curved so there is more air pressure beneath the
+blades than above them. The force of the air pressure beneath the blades,
+combined with the engine, push the helicopter up. This ability to push the
+helicopter up is called lift.
+
+The amount of lift is controlled by the angle, or pitch of the rotor blade
+on the top of the helicopter. Greater pitch allows the helicopter to rise
+higher. But greater lift produces more wind drag which tends to slow down
+the helicopter. When piloting a helicopter, you always have to keep in mind
+that the greatest lift sacrifices speed, and the greatest speed sacrifices
+lift.
+
+The helicopter's top rotor makes it unstable by nature. When the top rotor
+spins it creates a force that makes the body of the craft spins in the
+opposite direction. To counteract this spin and stabilize the craft, the
+tail rotor spins in the opposite direction.
+
+
+STRATEGY
+
+To hit your target you must anticipate the enemy's flight path.
+
+Use the Set Auto Alt command, from the on-board computer, to maintain your
+altitude. With the altitude set for auto, you can fight and not worry about
+losing altitude. If you forget to use the Set Auto Alt command, you could
+fly too low and crash.
+
+To avoid getting shot down you have to evade the enemy, use your weapons
+aggressively, and fly with skill and confidence. You must also know when to
+leave a bad situation!
+
+In reality mode, return to home base when necessary to refuel, reload
+weapons, and repair instruments.
+
+
+ATARI (R)
+Copyright (C) 1988, Atari Corporation
+Sunnyvale, CA 94086
+All rights reserved.
+
+Printed in Hong Kong.
+B.T.3.1989                  C300018-028 Rev. A
+

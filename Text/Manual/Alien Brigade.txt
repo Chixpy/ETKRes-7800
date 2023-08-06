@@ -1,0 +1,371 @@
+ATARI(R) 7800(TM) Game Manual
+ALIEN BRIGADE(TM)
+
+Atari Corporation is unable to guarantee the accuracy of printed material
+after the date of publication and disclaims liability for changes, errors,
+or omissions.  Reproduction of this document or of any portion of its contents
+is not allowed without the specific written consent of Atari Corporation.
+
+Atari, the Atari logo, Alien Brigade, and 7800 are trademarks or registered
+trademarks of Atari Corporation.
+
+ATARI(R)
+Copyright (C) 1990, Atari Corporation
+Sunnyvale, CA  94089-1302
+All rights reserved
+
+TABLE OF CONTENTS
+
+ALIENS BRAINWASH HUMANS.............1
+   Getting Started..................2
+   Optional Game Controls...........2
+PLAYING THE GAME....................2
+   Weapons..........................4
+SCREEN..............................5
+   Transceiver Box..................5
+   Weapons Box......................5
+   Ammunition Box...................5
+   Weapons Boxes....................6
+   Health/Score.....................6
+ITEMS...............................6
+SCENARIOS...........................8
+   Deep Jungle Camp.................8
+   South American River Resort......8
+   Underwater.......................8
+   Alien Cave Base..................9
+   Main Alien Mountain Base.........9
+STRATEGY............................9
+SCORING............................10
+
+ALIENS BRAINWASH HUMANS
+
+Some of the guys in the barracks have been acting a little odd lately.  You
+were assigned to a special task force investigating the soldiers' strange,
+almost alien behavior.
+
+The investigation revealed the astounding fact that aliens from another
+dimension have invaded the Earth.  The aliens have brainwashed soldiers
+into M-16 toting zombies who will instantly obey their alien masters.  (Sort
+of like boot camp.)
+
+Worse yet, some aliens have actually taken over the bodies of soldiers and
+civilians.  Every day more humans are being mysteriously possessed or
+brainwashed.
+
+You also discovered that the aliens posess a deadly secret weapon.  If the
+aliens are not stopped, this weapon will brainswash the entire human population
+of Earth!  Ok, so you realize that in most people the difference would go
+unnoteiced; still, it is your job to try to save the people of Earth.  Your
+task force must seek out all the alien fiends, destroy them, and save the
+Earth.
+
+Think you can handle it?  Your Alien Brigade quest leads you through five
+different scenarios of increasing difficulty.  Your mission is to blast aliens,
+rescue hostages, collect weapons and other helpful items, and stay alive!  The
+bloodthirsty alien nasties are on to you.  If you fail in your quest, the
+Earth is doomed.
+
+Now don't you wish you'd listened to your mother and enrolled in law school?
+
+GETTING STARTED
+
+1. With your 7800 game system switched off, insert the Alien Brigade cartridge
+into the cartridge slot as described in your owner's manual.
+
+2. Connect a controller or light gun to controller port one.  Press the
+POWER button on your console.
+
+3. Switch on your TV.
+
+4. The Alien Brigade title screen appears.  The difficulty level displays
+near the bottom of the title screen.  Press SELECT or move the controller
+to scroll through the various levels (Novice, Standard, Advanced, Expert).
+The more difficult the level, the more enemies appear on the screen and
+the faster those enemies move to attack.  To choose the displayed difficulty
+level and begin play, press the left controller fire button or pull the
+light gun trigger.
+
+Optional Game Controls
+
+The following optional game controls allow you to paus and restart the game:
+
+* To pause the game press PAUSE.  Repeat to resume play
+
+* To return to the title screen and restart the game, press RESET
+
+* To return to the title screen and restart the game with the currently
+selected options, press SELECT
+
+PLAYING THE GAME
+
+Alien Brigade is an exciting arcade-style action shooter.  You destroy alien
+invaders in five different scenarios.  Each scenario is progressively more
+difficult as the aliens increase in population, strength, and firepower.  You
+gain points by destroying the aliens and successfully completing each
+scenario's unique objective.  You lose points if you shoot innocent bystanders
+or hostages, so you must aim with care!
+
+In each scenario of Alien Brigade, aliens, soldiers and civilians move from
+right to left across your screen.  Aim your light gun or position the target
+sight with your controller and fire to blast the ugly, hunchbacked aliens
+and aliens disguised as human soldiers or civilians.  (Aliens in human form
+move more slowly than normal humans.)  You also earn points for destroying
+tanks, helicopters, and other enemy vehicles.  Vehicles explode and living
+targets fall to the ground when hit.
+
+The transceiver box in the far left section of the Status bar flashes to alert
+you of an incoming communication.  (See Transceiver.)  You can use your
+transceiver to communicate with your commanding officer and receive your
+mission objective at the beginning of each scenario.
+
+At the beginning of the game you receive a single shot, semi-automatic pistol,
+a five-burst automatic machine gun, one hundred 48-round clips of ammunition,
+eight grenades, and six extra lives.  In every scenario you can find more
+powerful weapons, ammunition, grenades, and canisters of military food rations
+to increase your health rating.  The weapons may be hidden, so search the area
+by shooting at small objects to reveal items hidden beneath them.  (See Items.)
+
+Each scenario of Alien Brigade ends when you successfully complete the
+scenario's objective.  The game ends with a final battle in the alien's main
+camp where your mission is to destroy all the aliens, the alien base, and the
+egg-laying alien queen.
+
+Weapons
+
+You can carry up to four weapons at a time.  The left and right Weapons boxes
+each contain two weapon slots.  The empty slots are filled when you pick up
+additional weapons.  Each box displays only one icon at a time.
+
+Use the left or right Weapons boxes on the Status bar to select the weapon
+in your arsenal that would be the most effective in each combat situation
+(see Items).  Follow these instructions to select a weapon/grenade, fire a
+weapon, or toss a grenade:
+
+Controller
+
+To select a weapon or grenade, move the target sight under the
+left or right Weapons box.  Press the left fire button until the desired
+weapon (or grenade) displays.
+
+To fire a weapon position the target sight over the desired target on the
+Action screen and press the appropriate fire button.  The left button fires
+the weapon displayed in the left Weapons box, and the right button fires the
+weapon displayed in the right Weapons box.
+
+To toss a grenade position the target sight over the grenade's destination.
+With the grenade icon displaying in the left Weapons box, press the right
+fire button.
+
+Light Gun
+
+To select a weapon or grenade, aim the light gun at the Weapons box.  Pull the
+trigger until the desired weapon (or grenade) displays.
+
+To fire a weapon aim the light gun at the desired target on the Action screen
+and pull the trigger.
+
+To toss a grenade aim the light gun at the grenade's destination on the Action
+screen and pull the trigger.
+
+SCREEN
+
+The action screen is where game play takes place.  The Status bar displays
+game information.
+
+[A drawing of the status bar, with the boxes labeled from left to right as:
+Transceiver Box, Left Weapons Box, Ammunition Box, Right Weapons Box, Health/
+Score Box]
+
+To select the transceiver, use the controller to move the target sight under
+the Transceiver box (or aim at the box with your light gun).  Press the left
+fire button (or pull the light gun trigger) to activate the transceiver.
+(These shots do not deplete your ammo supply.)
+
+The Transceiver box flashes at the beginning of each scenario.  Activate the
+transceiver to receive your mission objective.  If you have played the
+scenario before and you already know the objective, you do not need to
+activate the transceiver.
+
+Weapons Box
+
+Use the Weapons box to select a weapon.  You can display the desired icon by
+moving the target site under the Weapons box and pressing the left fire button
+(or aiming the light gun at the box and pulling the trigger).
+
+Ammunition Box
+
+The top section of the Ammunition box displays the number of grenades or
+bazooka rockets you have in your arsenal.  Each grenade or rocket icon
+represents a single grenade or rocket.  You can carry up to eight grenades or
+nine rockets at one time.  You cannot carry grenades and rockets at the same
+time.  Once you pick up a bazooka, you no longer have the grenade optoin.
+
+The numeral displayed below the Ammunition Clip icon represents the number of
+full ammunition clips you have in your arsenal.  The rows of small icons to
+the right of the clip icon represent the number of rounds remaining in the
+current clip.
+
+Weapons Boxes
+
+Use the Weapons boxes to select a weapon or grenade.  You can display the
+desired icon by moving the target site under the appropriate Weapons box and
+pressing the left fire button (or aiming the light gun at the box and pulling
+the trigger).
+
+Health/Score
+
+The soldier icons in the Health/Score box represent the number of lives
+remaining.  Each soldier represents one life.  Your current score displays
+below the soldier icons.
+
+ITEMS
+
+To pick up an item, move the target sight over the item and fire your weapon
+(or aim your light gun at the item and pull the trigger).  If your shot is
+successful, the item is added to your inventory.
+
+The following items can be picked upand added to your inventory:
+
+Food Canisters [Picture shows small, empty cylinders]  Retrieving a Food
+Canister increases your health rating by providing additional lives.
+
+Grenade/Rockets Box [Picture shows a grenade, oval with pineapple style
+mottling on the bottom, and a pin to be pulled]  Each retrieved Grenade/Rockets
+box replenishes your grenade/rocket supply to maximum capacity.  For example,
+if you have thrown two grenades or fired two rockets, a Grenade/Rockets box
+will increase your inventory by two greandes/rockets.  If you have thrown
+all your grenades or fired all your rockets, a Grenade/Rockets box will
+increase your inventory by eight grenades or nine rockets.
+
+Ammunition Clips [Picture shows a small rectangle]  Each Ammunition Clip icon
+represents a single clip and contains 48 rounds of ammunition.
+
+Weapons  Finding more powerful weapons increases your range and firepower.
+
+The following weapons are more powerful than semi-automatic pistols, but they
+also use ammunition at a faster rate.
+
+Five-Burst Automatic Machine Gun [Picture shows a long, thin gun with a
+thick, curved stock and a thin brace at the back] shoots five bullets at the
+target.
+
+Flamethrower [Picture shows gun with elaborate hose mechanism at the back]
+ignites everything in the immediate vicinity of the target.  The area covered
+by the flamethrower is no greater than the area covered by the 5-burst
+automatic machine gun, but the damage caused by the flamethrower is much
+greater.
+
+Laser [Picture shows a thicker, more solid gun] fire instantly vaporizes
+nearly everything it hits.  The exception is alien leaders.  To kill them
+requires multiple hits from laser fire.  You automatically receive this weapon
+when you enter the final scenario.
+
+Dart Gun [Picture shows smaller version of machine gun] is the only weapon
+that is effective against underwater foes.  Because you are firing underwater,
+darts move more slowly than the ammunition from regular weapons.  You
+automatically receive this weapon when you enter the underwater scenario.
+Your other weapons will be automatically returned to you at the end of this
+scenario.
+
+SCENARIOS
+
+The five Alien Brigade scenarios are briefly described below.
+
+Deep Jungle Camp
+
+You'll wish you were Rambo in this enemy infested jungle.  Aliens have
+established a hidden camp in this steamy tropical rain forest.  Soldiers and
+civilians are held captive in huts deep within the well-protected camp.
+Without the help of your squad, all of the prisoners will perish (or worse).
+To rescue the prisoners, blow off the door of the captive's hut.  Cover the
+prisoners as they run for the waiting helicopter.
+
+South American River Resort
+
+A popular resort has been overrun with aliens and brainwashed humans.  Your
+squad must go in and show the aliens that their Club Earth vacation is over!
+
+Underwater
+
+Aliens have besieged your government's underwater research lab.  You must
+destroy the alien frogmen to prevent them from taking over the lab.  Some
+peculiar deep-sea denizens will also try to impede your progress, so be
+careful!
+
+Alien Cave Base
+
+The alien cave base is where you will find the evil machines used by the
+aliens to brainwash and merge with humans.  Eerie geological formations
+provide perfect hiding places for the scores of deadly aliens in the cave.
+Some humans become fused with aliens as you watch in horror!  To rescue the
+humans, destroy the fusing machines.
+
+Main Alien Mountain Base
+
+The final challenge.  You must destroy the aline spacecraft and the
+Queen-Mother alien.  If you fail, all mankind will be brainwashed or possessed
+by evil aliens.  You think TV sitcoms are stupid now?  Just think how bad they
+will be if your mission fails!
+
+STRATEGY
+
+Watch out for the real humans you are supposed to protect.  Humans that have
+been taken over by aliens move more slowly.
+
+When your squad is hit by alien fire, your screen's border flashes red.  Try
+to avoid this!  Getting shot is bad for your health.
+
+Watch out for small mine-laying subs in the underwater scenario.
+
+Picking up items as you move thorugh each scenario is vitally important.
+Shoot small objects to reveal items hidden beneath.
+
+Don't ignore youru transceiver!  Understanding your mission is critical.
+
+SCORING
+
+You receive points for destroying enemy aliens and their vehicles.  You lose
+points for shooting innocent bystanders, animals, and friendly vehicles.
+
+Photographer...................0
+Large Soldier.................50
+Soldier......................100
+Parachute....................100
+Alien Civilian...............100
+Small Fish...................100
+Snake Alien..................100
+Small Soldier................150
+Flame Thrower Soldier........200
+Bazooka Soldier..............200
+Large Alien..................300
+Kid Alien....................500
+Alien........................500
+Small Alien..................700
+Tank........................1000
+Helicopter..................1000
+Rambo Alien.................1000
+Bomb........................1000
+Plane.......................1000
+Super Soldier...............1000
+Large Spaceship.............1500
+Bat.........................2000
+Space Ship..................3000
+Satellite Dish..............5000
+Mind Bender.................5000
+Door in Scenario 1..........5000
+Mother Alien...............10000
+
+Marine Life.................-100
+Civilian....................-500
+Fire Engine.................-500
+Mermaid....................-1000
+Panther....................-1000
+
+ATARI(R)
+Copyright (C) 1990, Atari Corporation
+Sunnyvale, CA  94089-1302
+All rights reserved.
+Printed in Hong Kong.  G. C. 7.  1990  C300018-055  Rev. A
+
+
+

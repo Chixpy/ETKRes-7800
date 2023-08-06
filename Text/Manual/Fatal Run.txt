@@ -1,0 +1,274 @@
+ATARI (R) 7800 (TM) Game Manual
+
+Fatal Run (TM)
+
+
+Atari Corporation is unable to guarantee the accuracy of printed material
+after the date of publication and disclaims liability for changes, errors,
+or omissions. Reproduction of this document or any portion of its contents
+is not allowed without the specific written consent of Atari Corporation.
+
+Atari, the Atari logo, Fatal Run, and 7800 are trademarks or registered
+trademarks of Atari Corporation.
+
+ATARI (R)
+Copyright (C) 1990, Atari Corporation
+Sunnyvale, CA 94089-1302
+All rights reserved.
+
+
+DRIVE FOR YOUR LIFE!
+
+The year is 2089. A collision with a comet has left the earth reeling from
+radiation poisoning. There's little hope for humanity's survival. It's up
+to you to help the few people remaining.
+
+You must leave the protective fortress Albagon and deliver the newly
+developed radiation vaccine to the few survivors. Your journey will not be
+an easy one. Nefarious henchmen are waiting to knock you off and steal the
+vaccine to ensure that they will survive to rule the planet. Every driver
+on the road is out to get you. Your only hope is to get them first.
+
+You must find the rocket poised to launch a satellite that can nullify the
+effects of this cosmic accident that turned the world upside down. If
+you're sharp enough to learn and remember the secret code words and tough
+enough to live to use them, you can launch the rocket and save the world!
+
+Good luck! Humanity is in your hands.
+
+
+GETTING STARTED
+
+Fatal Run is a challenging futuristic adventure that demands nerves of
+steel and Grand Prix driving skill. Follow the steps listed below to start
+the game.
+
+1.  With your 7800 game system switched off, insert the Fatal Run cartridge
+    into the cartridge slot as described in your owner's manual.
+
+2.  Connect a controller to the left controller port.
+
+3.  Press the POWER button on your console and switch on your TV. The
+    Fatal Run title screen appears.
+
+    NOTE: If you do not begin the game, the system shows a short
+    demonstration of game action.
+
+4.  You may choose to start a new game at the beginnng, or continue play at
+    a specific location. Select your play option as follows:
+
+    To begin a new game, move the controller left or right to highlight
+    NEW. Press the fire button and game will begin.
+
+    OR
+
+    To begin the game at a specific level, move the controller left or
+    right to highlight CONTINUE. Press the fire button. A screen displaying
+    a row of characters appears. Identify the code (up to seven characters)
+    of the level you wish to play by using the controller to position the
+    square Character Selector over the letter or number you wish to choose,
+    then pressing the fire button. After entering the code, move the
+    Character Selector to the end and press the fire button to start the
+    game.
+
+    NOTE: Level codes are shown after every fourth run. Each level has
+    several runs. You may wish to remember these codes to begin play at a
+    specific level later.
+
+To enhance play, the following optional game controls allow you to pause
+and restart the game.
+
+To pause the game press PAUSE. Repeat to resume play.
+
+To return to the title screen and restart the game, press either SELECT or
+RESET.
+
+
+PLAYING THE GAME
+
+The object of the game is to drive through all 32 levels and release the
+life-saving satellite. Along the way you must distribute the radiation
+vaccine throughout the major cities, while collecting the pieces of the
+launch code. If you complete the code and all levels, the satellite
+launches and you win the game.
+
+Use the controller to maneuver your vehicle. Move the directional control
+forward to accelerate and back to brake. Move the directional controller
+left or right to move the car in that direction. When the directional
+control is in the center position, the car will remain at its current
+speed.
+
+To survive, you must use sophisticated weapons to destroy the enemy. You
+begin with a machine gun and buy more powerful weapons along the way. Press
+the left fire button to use the currently selected weapon. Press the right
+button to select a new weapon from your arsenal.
+
+The Status Display at the bottom of the screen gives you the information
+you need to plan your strategy and complete your run. The Status Display
+shows you your current score and the speed at which your car is traveling.
+In addition you can see the status of your car's engine, tires, and armor;
+the number of shots you have left; and the amount of fuel remaining in
+your car.
+
+You receive points for using items and destroying enemies. You also receive
+bonus points for reaching each city quickly. The faster you get to the
+city, the more people will survive, resulting in additional points. Plus,
+you receive points for each level you complete. The Status Display shows
+the percentage of points which you have not yet received.
+
+As you move from city to city, you will encounter various obstacles. The
+black patches on the screen are oil slicks, which can damage your tires.
+Yellow and white striped roadblocks should be avoided at all costs; if you
+hit one of these, it can damage your car severely. Other roadside obstacles
+include trees, and other hazards you will discover along the way. Hitting
+obstacles will damage your car and slow you down.
+
+You must also be on the lookout for henchmen. They will try to run you off
+the road, often banding together to stop your progress. Press the fire
+button to destroy the enemy vehicles with your weapons.
+
+You can destroy cars by running into them, but this will also damage the
+part of your car with which you hit the enemy. In other words, if you
+sideswipe an enemy vehicle, you will damage your armor; if you hit an enemy
+with the front or rear end of your car, you will damage the bumpers.
+
+To survive a side-attack, you must smash into the vehicle and destroy it.
+If the enemy car gets you first, you will receive damage.
+
+When you reach a city, you will see a side view of your car as it
+approaches the city and the waiting survivors. If you are too late to save
+the city when you arrive, fewer survivors appear and you receive fewer
+bonus points.
+
+If you arrive safely at the rocket base, the rocket will launch the
+world-saving satellite and you will win the game.
+
+After saving the world and completing the game, if you wish to begin a new
+game you must press RESET to return to the title/option screen.
+
+
+SHOPS
+
+You can buy parts to repair or upgrade your car. Upgrading is very
+important. As you reach higher levels, the enemies get tougher and the
+demands upon your vehicle increase. Display the shop screen to access a
+complete list of items available for sale.
+
+Each city shop is divided into two sections: Repairs (lower section of the
+screen) and items for Sale (upper section). When you enter a shop, Repairs
+displays a diagram of your car. Use the controller to move the cursor from
+one section of your car to another. When the cursor moves over a section,
+that section is highlighted. The statistics for that section display: the
+amount of damage sustained, the parts needed for repair, and the cost of
+each repair.
+
+Refer to the following list for repairs available and the cost of each
+repair.
+
+$30 TIRES will improve your traction on curves. Each set of tires can be
+repaired individually.
+
+$40 BUMPERS (2) protect you during collisions, if the bumpers are in good
+shape. Damaged bumpers will fail to protect your car from general damage
+sustained in collisions.
+
+$50 BRAKES (4) increase the response time of braking maneuvers. Brakes are
+especially important for surviving sudden curves and oil spills on the
+road.
+
+$50 SIDE ARMOR (2) protects the sides of your car the same way bumpers
+protect the front and rear.
+
+$50 WINDSHIELD lowers wind resistance and thereby increases speed and gas
+mileage.
+
+$70 GAS TANK improves gas mileage. The better the condition of the tank,
+the better your mileage.
+
+$100 ENGINE will increase speed and acceleration.
+
+$150 GENERAL repairs overall car condition and performance.
+
+The Items for Sale area in the upper half of the screen displays the items
+available for purchase. Use the controller to move the cursor over the item
+you want to buy. A description of that item and the price will appear on
+the screen. Press the left button to buy the item and repair your vehicle.
+You can also use the right button to sell items back to the shop. You can
+not sell fuel back -- once you buy fuel it's yours to keep.
+
+You must determine which items to buy based on the repairs you need and the
+amount of money you have. Just like real life!
+
+
+WEAPONS
+
+The following list describes each weapon available in the game. Not all
+weapons are available in every shop. More powerful weapons become available
+as the game gets more difficult. Display the Shop screen to access a
+complete weapons price list.
+
+DYNAMITE destroys all vehicles behind you.
+
+DEATH CRYSTAL destroys any vehicle you crash into, without damaging your
+vehicle.
+
+ROCKET blasts vehicles in the distance ahead of you.
+
+OIL slows down all vehicles behind you. The slowed vehicles will also
+sustain some damage.
+
+GUNS shoot the enemies directly in front of you. The closer the enemy, the
+more damage that enemy will sustain.
+
+SHIELD protects you from collision damage for 5 to 10 seconds.
+
+NITRO increases acceleration and gas mileage.
+
+SMOKE decreases the speed of cars following you.
+
+
+STRATEGY
+
+Don't waste money buying items you don't need. You may need the cash for
+future repairs and upgrades.
+
+Get to cities as quickly as possible. Your main mission is to rescue
+survivors. Their lives depend on your speed.
+
+Use the right weapon at the right time. It won't do you any good to fire a
+rocket when there is a swarm of enemies behind you.
+
+Write down the codes at each level. That way you won't have to replay
+levels you've already finished.
+
+
+SCORING
+
+You score points for using each specific weapon and for destroying vehicles
+with a specific weapon.
+
+Weapon           Use    Destruction
+
+Dynamite         100       500
+Death Crystal    500      1000
+Rocket          1000       500
+Oil              200       500
+Guns              25       500
+
+You also receive points for using your shield, nitro, and smoke, as shown
+below.
+
+Shield          500 points
+Nitro             0 points
+Smoke           200 points
+
+When you complete a level, you will receive 5000 bonus points.
+
+
+ATARI (R)
+Copyright (C) 1990, Atari Corporation
+Sunnyvale, CA 94089-1302.
+All rights reserved.
+
+Printed in Hong Kong.          G.C.12.1990            C300018-054 Rev. A
+

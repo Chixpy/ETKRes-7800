@@ -1,0 +1,119 @@
+VIDEO GAME CARTRIDGE FOR THE
+ATARI (R) 7800 (TM) ProSystem
+
+                            POLE POSITION * II
+
+                   High-Performance Racing at its Best
+
+Are you good enough to race with the best? Do you have the nerve and skill
+to be a professional race car driver? Pit yourself against the clock and
+the competition -- the world's top high-performance Formula 1 racers --
+and let's find out.
+
+Choose among four race courses. There's the easy TEST course. On the FUJI
+track you'll encounter some obstacles -- billboards, puddles, and other
+cars. The SEASIDE track is the intermediate course, set in a landscape by
+the sea. And the SUZUKA is the most difficult of the tracks, set in the
+midst of a traveling carnival.
+
+* POLE POSITION II is engineered and designed by Namco Ltd.
+Manufactured under license by Atari, Inc. Trademark and (C) Namco 1982, 1983.
+
+DRIVERS START YOUR ENGINES!!
+
+Insert the Pole Position II cartridge as explained in your 7800 (TM)
+ProSystem Owner's guide, and turn on your system. Plug a controller into
+jack 1.
+
+The four tracks are listed on screen, one in each corner. Move the joystick
+in the direction of the track that you want, or press the SELECT key -- the
+name of the track you choose will blink.
+
+The first lap in a race has a maximum time limit of 75 seconds. Each race
+has a total of five laps you must complete. You begin a new lap -- with an
+additional 60 seconds to complete it -- only if you've finished the
+previous lap in the allotted time.
+
+When you're ready to qualify for a race, press either fire button. Once
+you've qualified, the race you've selected begins in a matter of seconds.
+
+If you're in the middle of a race and want to start over, press RESET.
+Pressing SELECT will return you to the screen where you can choose the race
+you want.
+
+Press PAUSE to pause during a game; press it again to resume play. After a
+pause of 15 to 30 minutes, the screen will go blank. Simply move your
+joystick and the game will reappear.
+
+MANEUVERING YOUR RACER
+
+Steer your racer by moving your joystick to the left or right. Press the
+left fire button on your controller to accelerate. Press the right fire
+button to brake. Start out in low gear by pulling back on your joystick. To
+shift into high gear, push your joystick forward.
+
+QUALIFYING
+
+Before you can compete in any of the races, you must qualify for one of the
+eight starting positions. You have 120 driving seconds in the qualifying
+run, but must achieve a lap time of 73 seconds or better to qualify for a
+race.
+
+When you qualify for the pole position you're given the prime starting
+position in the inside lane. This is the "pole position." If you don't
+qualify, you'll be allowed to continue driving for the remainder of the 120
+seconds.
+
+GO FOR IT!
+
+If you hit another car, you and the obstacle you've hit will explode,
+costing you precious time. You'll also wipe out if you run into a road
+sign. Hitting a puddle will slow you down considerably. No matter how many
+times you crash, you'll receive another car until your time runs out.
+
+Try to keep your car on the road -- you lose time when you drive off the
+track. Skidding also causes your car to slow down. Gun it on the straight-
+aways. If you find yourself going to fast, downshift for the difficult
+turns.
+
+SCORING
+
+*  Every lap traveled is worth 10,000 points.
+
+*  Each car you pass is worth 50 points.
+
+*  When you finish the race, each second of time left on the Time clock is
+   worth 200 points.
+
+BONUS POINTS
+
+The chart below lists the qualifying lap times for the eight starting
+positions in the race, and the number of bonus points awarded for each
+qualifying time.
+
+STARTING        LAP TIME        BONUS
+POSITION
+   1             58"50           4000
+   2             60"00           2000
+   3             62"00           1400
+   4             64"00           1000
+   5             66"00            800
+   6             68"00            600
+   7             70"00            400
+   8             73"00            200
+
+
+Reproduction of this document or any portion of it's contents is not
+allowed without specific written permission of Atari, Corp. Sunnyvale,
+CA 94086
+
+
+{Fuji}
+ATARI
+Printed in Taiwan
+(C) 1987
+Atari, Corporation. for graphics and layout only.
+All rights reserved.
+
+C024857-08 Rev. A
+

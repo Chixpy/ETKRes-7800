@@ -1,0 +1,112 @@
+                                                                   SUPER
+                                                                   GAME
+
+                     ATARI (R) 7800 (TM) Game Manual
+
+                              Karateka (TM)
+
+KARATE IN ACTION!
+
+You've just scaled a treacherous cliff to the castle of Akuma, the evil
+warlord who burned your village and kidnapped your bride-to-be. Now you
+stand before a massive gate. The first of many powerful Palace Guards
+blocks your way. Beyond looms Akuma's palace, where Princess Mariko
+languishes. You must save her from Akuma's cruel clutches. Your only
+weapon -- karate.
+
+Remain calm, and focus your will on your goal. That is the way of the
+Karateka.
+
+GETTING STARTED
+
+1.  Insert the Karateka cartridge into your ATARI 7800 Pro System as
+    explained in your Owner's Manual.
+
+2.  Plug your controller into the left controller jack.
+
+3.  Press the [Power] button to turn on your console.
+
+4.  Press [Select] to start the game.
+
+5.  Press [Pause] to pause the game; press it again to resume play.
+
+6.  Press [Select] to restart the game, or press [Reset] to return to the
+    title screen.
+
+PLAYING THE GAME
+
+You start the game in the standing position, facing the first Palace Guard.
+The red arrows at bottom left of the screen tell how many karate hits you
+can withstand. Each time you get hit, you lose an arrow. When you avoid
+getting hit, your arrow supply is gradually refilled. If you lose all your
+arrows, you lose the game.
+
+The blue arrows at bottom right of the screen tell how many karate hits the
+Guard can withstand. Each time you hit your opponent, he loses an arrow.
+When he is not getting hit, his arrow supply is refilled. When all blue
+arrows are gone, the enemy is defeated.
+
+You can vary your game difficulty level by using the left switch on the
+front of your console (next to the left controller jack). Pushing the
+switch to the left decreases game difficulty; pushing the switch to the
+right increases game difficulty.
+
+The game ends when you defeat all Palace Guards, or when you lose your last
+arrow.
+
+SURVIVAL TIPS
+
+You face the Guards one at a time. If you don't fight, your opponent
+advances to attack you.
+
+Each guard has a unique karate skill, and guards get tougher as you move
+farther into the Palace.
+
+When you defeat an enemy, run forward to face a new opponent.
+
+Beware of danger when standing or running. In these positions you're
+unprotected. One blow from a guard will destroy you.
+
+MOVING YOUR PLAYER
+
+Use your controller to move, punch, and kick. Follow the chart:
+
+
+Standing
+
+ACTION                  CONTROLLER OPERATION
+Assume fighting stance. Press right button.
+Run forward.            Move handle right.
+
+Fighting Stance
+
+ACTION                  CONTROLLER OPERATION
+Advance.                Hold down left button, move handle right.
+Retreat.                Hold down left button, move handle left.
+
+Kick.                   Move handle right.
+Kick high.              Move handle to upper right.
+Kick low.               Move handle to lower right.
+
+Punch.                  Move handle left.
+Punch high.             Move handle to upper left.
+Punch low.              Move handle to lower left.
+
+Resume standing.        Press right button.
+
+
+Atari Corporation is unable to guarantee the accuracy of printed material
+after the date of publication and disclaims liability for changes, errors,
+or omissions. Reproduction of this document or any portion of its contents
+is not allowed without the specific written permission of Atari Corporation.
+
+Atari and 7800 are trademarks or registered trademarks of Atari Corporation.
+Karateka is a trademark of Broderbund Software, Inc.
+
+Copyright (C) 1984, Broderbund Software, Inc. All rights reserved.
+Copyright (C) 1988, Atari Corporation, Sunnyvale, CA 94086. All rights
+reserved.
+
+Printed in Hong Kong
+C024857-022 Rev. A      WA-TA 1988.1
+

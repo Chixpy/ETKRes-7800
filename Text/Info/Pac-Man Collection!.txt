@@ -1,0 +1,22 @@
+This, as its name implies, is a collection of Pac-Man games, both the official versions and the unauthorized versions.
+
+These are:
+
+1. Pac-Man: The original
+2. Puck-Man: The same as Pac-Man but with more difficult mazes.
+3. Hangly Man: A Pac-Man clone by Nittoh that has different mazes and sometimes the maze disappears.
+4. Ultra Pac-Man: Adds six new mazes to Pac-Man.
+5. Random Mazes: Chooses randomly from among the Pac-Man games
+6. Ms. Pac-Man: The original sequel
+7. Ms. Pac-Attack: The same as Ms. Pac-Man but with more difficult mazes
+8. Ms. Random Mazes: Chooses randomly from among the Ms. Pac-Man games
+
+There are also options for 'Fast' and 'Plus'. 'Fast', obviously, speeds up the game play. 'Plus' adds elements to all games that were found in the unauthorized Bally Midway coin-op game Pac-Man Plus. These are:
+
+1. Bonus prize graphics are altered
+9. Bonus items act as an energizer pellet except the value of the monsters are doubled and the monsters are invisible during the energizer duration.
+10. Eating a standard energizer doesn't always turn all the monsters blue
+11. Eating a standard energizer may make the maze and dots disappear for the duration of the energizer.
+12. The maze colors are different to indicate 'Plus' mode
+
+If you have the High Score Cartridge, it can save the high scores of each variation separately.

@@ -1,0 +1,118 @@
+                     ATARI (R) 7800 (TM) Game Manual
+
+                              Commando (TM)
+
+Combat Action!
+
+You are the crack shot Commando, battling overwhelming odds to defeat
+advancing rebel forces! You carry out your lone crusade through hostile
+territory, armed with only a rifle and a few hand grenades.
+
+Enemy fire flies past you from every direction. Rebel forces leap from
+caves, trenches, and strongholds to block your progress.
+
+You need to break through the enemy lines to reach the fortress at the end
+that serves as enemy headquarters. If you're clever, you can replenish your
+supplies along the way from defeated outposts.
+
+Once you begin your mission, there is no retreat. The fate of the free
+world rests in your hands!
+
+System Requirements
+
+Atari 7800 game system
+Color television
+One or two controllers
+
+Getting Started
+
+1.  With your 7800 game system turned off, insert the Commando cartridge
+    into the slot on your console as explained in your owner's manual.
+
+2.  Plug a controller into port 1 for a one-player game; plug a second
+    controller into port 2 for a two-player game.
+
+3.  Switch on your television; then press [Power] to switch on your system.
+    The Commando title screen appears.
+
+4.  Press [Select] or use the controller to choose the number of players
+    and the difficulty level. Move the directional controller up or down
+    for a one- or two-player game. Move the directional controller left or
+    right for Advanced, Expert, Novice, or Standard difficulty levels.
+
+5.  Press [Reset] or the fire button to begin the game.
+
+6.  Press [Select] during play to return to the title screen.
+
+7.  Press [Pause] to pause the game. Press [Pause] again to resume play.
+
+Playing the Game
+
+As the crack shot Commando, your mission is to make your way through enemy
+territory. Your ultimate goal is to pass through the Iron Walls and destroy
+the enemy base.
+
+Move the controller to maneuver your Commando through the enemy's terrain.
+Trees and other obstacles can provide cover from enemy bullets and
+grenades.
+
+While moving through enemy territory, take care not to fall into rivers or
+ponds. You will lose a life if you do. You will also lose a life if a
+motorcycle or jeep runs over you, so dodge or destroy them.
+
+Watch for the enemy's dynamite trucks. If you have any grenades, lob one
+into a dynamite truck to destroy the truck and its cargo. This is the only
+enemy vehicle you can destroy.
+
+Press the left fire button to shoot. To launch grenades, press the right
+fire button.
+
+To increase your grenade supply, pick up any boxes that you find at
+defeated outposts. Each box contains one grenade. The number of grenades
+you have left is shown at the top of the screen.
+
+You score bonus points for rescuing prisoners, destroying enemy officers,
+and blowing up the enemy's pillboxes and vehicles. Rescue a prisoner by
+killing the escorts. Lob two grenades on a pillbox to destroy it.
+
+Strategy
+
+It is important to keep moving forward at all times. Do not remain in one
+place for too long to fight the enemy.
+
+Be on the lookout for underground enemy camps. Grenade explosions will
+reveal their locations.
+
+Acquire as many grenades as possible.
+
+Watch for weapons. Any weapon you find could help you through an area.
+
+Scoring
+
+Destroying an enemy              300 points
+Destroying a vehicle             500 points
+Blowing up a pillbox             500 points
+Picking up a grenade box        1000 points
+Rescuing a prisoner             2000 points
+Destroying an enemy officer     2000 points
+
+You receive 5000 bonus points each time you successfully complete an area
+and 10,000 points for a mission. You receive a new life at every 60,000
+points.
+
+Atari Corporation is unable to guarantee the accuracy of printed material
+after the date of publication and disclaims liability for changes, errors,
+or omissions. Reproduction of this document or any portion of its contents
+is not allowed without the specific written permission of Atari Corporation.
+
+Atari, the Atari logo, and 7800 are trademarks or registered trademarks of
+Atari Corporation. Commando is a trademark of Data East USA, Inc.
+
+Copyright (C) 1986 Data East USA, Inc. All rights reserved. Manufactured
+under license from Data East USA, Inc. and CAPCOM U.S.A., Inc.
+
+Copyright (C) 1989, Atari Corporation, Sunnyvale, CA 94086. All rights
+reserved
+
+Printed in Hong Kong        C300018-038 Rev. B                B.T.9.1989
+

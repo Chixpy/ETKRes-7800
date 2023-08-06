@@ -1,0 +1,161 @@
+"Tower Toppler"
+
+
+High-Rise Hysteria!
+
+In a toxic sea on the distant planet Nebulus, far from the sight of land,
+stand eight mysterious rotating towers. They're the power bases of a mad
+scientist who's trying to control the universe. That's why you're here --
+you're going to stop him by blowing his towers back into the sea!
+
+After all, you're the top explosives expert at Destructo, Inc. At least
+that's what your boss said to sweet-talk you into this job. When he hinted
+at a pay raise and said you'd be cruising the poison sea in the
+experimental BA-1 minisub, you couldn't say no.
+
+Only there's a slight problem. You have to climb to the top of each tower
+to blow it down. And each one is guarded by different enemies:
+indestructible mutant molecules, weird flying eyes, vicious robots, and
+huge cannonballs that barrel out of nowhere!
+
+You're armed, sure, but your gun won't always stop your enemies. When
+you're not quick enough, they'll knock you off the tower for an unplanned
+swim in the poison sea! Even if you survive your bath, you've got to start
+all over again at the bottom of the tower.
+
+But you know you can do it! So put on your frog suit, grab your snowball
+gun, and wave goodbye. Your minisub awaits you!
+
+Getting Started
+
+1.  With your Atari 7800 set up, insert the Tower Toppler cartridge into
+    the console and plug a controller into the left port. For two players,
+    plug another controller into the right port.
+
+2.  Turn on your television and press [Power] to turn on your Atari
+    console. The Tower Toppler title and selection screen appears.
+
+3.  Press [Select] or move player 1's directional control to highlight the
+    game options you want. Move the control left or right to select sound
+    on or off. Move the control up or down to select 1 or 2 players.
+
+4.  Before playing the game, make sure that both difficulty switches are
+    in the right position.
+
+5.  Press the fire button or [Reset] to start the game.
+
+6.  Press [Pause] to pause a game. Press it again to resume play.
+
+7.  Press [Reset] at any time to start a new game with the same game
+    options, or press [Select] to return to the selection screen.
+
+Playing the Game
+
+Your mission is to run, jump, and climb your way to the top of each tower.
+The clock starts ticking the moment you step out of your sub. It will take
+all of your coordination, judgement, and speed to reach the upper level of
+the tower and set off the automatic destruction sequence before your time
+runs out.
+
+Each tower is guarded by different enemies, and you've got to figure out
+how to get past them. Here's how to move:
+
+Action                                  Controller Movement
+Walk left or right                      Move controller left or right.
+Enter a tunnel or take elevator up      Move controller up.
+Take elevator down                      Move controller down.
+Jump                                    Press fire button while walking.
+Shoot enemies                           Press fire button while standing
+                                        still.
+Shoot fish                              Press fire button while in the
+                                        minisub.
+
+You're armed with a snowball gun, and you can destroy flashing block
+barricades by shooting them. You have to do that in order to get past them.
+You can also destroy all the rolling cannonballs except the ones that slide
+back and forth instead of bouncing. You can stun these for a few seconds,
+but you can't get past them.
+
+All other creatures are indestructible. You have to time your movements to
+avoid them, or they'll knock you down the tower and maybe even into the
+water.
+
+Your footing on the tower is shaky at best. Some ledges are slippery;
+others crumble beneath you. If you're lucky, you'll just fall partway down
+when you slip. If you're not so lucky, you'll find yourself taking an
+unplanned bath.
+
+You start your mission with only three lives, and you use one up every time
+you go for a swim. You gain a bonus life every time you earn 5,000 points.
+
+When you reach the top, the automatic destruction sequence sets itself off
+while you make your getaway. Between towers, you can relax in the minisub,
+racking up bonus points by stunning and catching fish as you speed to the
+next tower. As soon as you get there, the clock starts again.
+
+The game ends when you topple the last tower or lose your last life.
+
+Towers
+
+Tower of Eyes: This is the easiest tower to topple, but watch out for the
+flying eyeballs that see every move you make.
+
+Realm of Robots: Mechanical enemies make your life miserable until you
+topple this tower.
+
+Trap of Tricks: Be careful going through doorways. Some of them lead
+nowhere.
+
+Slippery Slide: You'll wish you had grips on your shoes when you take on
+this tower.
+
+Broken Path: Get ready to do some real jumping. That's the only way you'll
+make it up the crumbling ledges of this tower.
+
+Swimmer's Delight: It's delightful only if you don't mind losing a few
+lives.
+
+Nasty One: If you get to this tower, your enemies will be hopping mad --
+and meaner than ever!
+
+Edge of Doom: This is the hardest tower to topple and will take you right
+to the edge of fright!
+
+Scoring
+
+Your final score is based on the amount of time you take to topple a tower,
+the number of mistakes you make in your climb, and the number of times your
+knocked partway or all the way down. You also score points as follows:
+
+Destroy a bouncing cannonball                   100 points
+Destroy a flashing block                         50 points
+Catch a fish                                     50 bonus points
+Step up onto some elevators                      50 points
+Go up some angled stairways (first time only)    40 points per stair
+
+The points you earn for an elevator ride depend upon the length of the
+ride. You gain an extra life at every 5,000 points.
+
+Use your controller to enter your initials in the high-score chart. Move
+the controller up or down to select a letter, and press the fire button to
+enter the selected letter in the chart.
+
+Atari Corporation is unable to guarantee the accuracy of printed material
+after the date of publication and disclaims liability for changes, errors,
+or omissions. Reproduction of this document or of any portion of its
+contents is not allowed without the specific written consent of
+Atari Corporation.
+
+
+Atari (TM), the Atari logo, and 7800 (R) are trademarks or registered
+trademarks of Atari Corporation.
+
+Tower Toppler (R) is a trademark of U.S. Gold Ltd., U.K. Tower Toppler
+game program from U.S. Gold Ltd., copyright (C) 1987.
+
+Copyright (C) 1988, Atari Corporation, Sunnyvale, CA 94086. All rights
+reserved.
+
+Printed in Hong Kong        C300018-056 Rev. A                B.T.6.1989
+
+

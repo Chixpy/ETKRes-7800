@@ -1,0 +1,298 @@
+                                                                   SUPER
+                                                                   GAME
+
+                     ATARI (R) 7800 (TM) Game Manual
+
+                            WINTER GAMES (TM)
+                               by Epyx (R)
+
+
+                             MOMENT OF TRUTH
+
+You're an athlete at the 1988 Winter Games at Calgary, Alberta, Canada.
+You're about to move across snow and ice with as much speed, strength,
+endurance and grace as you can muster in the blustery cold.
+
+This is the winter portion of the world's foremost amateur sports
+competition. You'll match your skills against the top athletes.
+
+Be proud. Today you stand among the elite few whose courage and stamina
+will be tested by these Winter Games. Listen. A fanfare of trumpets sound
+as thousands of white doves are releases, symbolically to fly to the
+countries of the world with the message of peace -- and the news that the
+Winter Games have begun. This is it -- your chance to go for the gold!
+
+                                OBJECTIVES
+
+WINTER GAMES challenges your competitive skills with a series of athletic
+contests for 1 to 8 players. You can compete in four challenging winter
+events -- Biathlon (cross-country skiing and rifle shooting),
+Speed Skating, Ski Jump, and Bobsled.
+
+Practice each event first to hone your skills. Then choose from the 18
+countries you can represent in the competition, and go for the gold!
+
+WINTER GAMES provides judges, keeps scores, and awards medals to the
+winners -- the Gold for the first, Silver for second, and the Bronze for
+third place.
+
+Get ready to give it your best -- and remember the motto of the ancient
+Greek athletes:
+
+                       Citius -- Altius -- Fortius
+
+                     "Faster -- Higher -- Stronger!"
+
+
+                             GETTING STARTED
+
+1.  Insert the WINTER GAMES Cartridge into your Atari 7800 as explained in
+    your owner's manual.
+
+2.  Plug a controller into the left controller jack. This is Player 1's
+    controller. For two or more players, you may plug a second controller
+    into the right controller jack.
+
+3.  Turn on your television, then press the POWER button to turn on your
+    console. The WINTER GAMES Opening Ceremonies will appear.
+
+4.  Press RESET or the left joystick's FIRE button to enter the Main Menu.
+
+
+                              STARTING PLAY
+
+Opening Ceremony
+
+A spectacular opening ceremony welcomes you to WINTER GAMES. An athlete
+bearing the flaming torch mounts the steps to light the sacred fire that
+burns night and day throughout the WINTER GAMES. White doves are released
+over the stadium, to symbolize peace on earth. Let the games begin!
+
+How to Play
+
+Once the opening ceremony concludes, a menu screen offers you a choice of
+six options. To make a selection, use your joystick or the SELECT key to
+move the cursor to your choice, then press the FIRE button or RESET.
+
+
+OPTION 1: Compete in All Events
+
+Compete in all four events, in this order: Biathlon, Speed Skating,
+Ski Jump, and Bobsled. The computer keeps a running tally of medals awarded
+to each player.
+
+*  To enter your name, use the joystick and press the FIRE button. Select
+   END to continue after all letters are entered.
+
+*  To choose your country, use the joystick to move the cursor to the flag
+   of your choice, then press the FIRE button to select that country.
+
+*  Repeat name and country selection for each additional player (up to
+   eight). When all players' names and countries are entered select END and
+   press the FIRE button again.
+
+OPTION 2: Compete in Some Events
+
+Similar to OPTION 1, but you only compete in the two or three events you
+select.
+
+*  Use the joystick to choose the events, then press the FIRE button to
+   select. An asterisk will appear next to the event's name. Select
+   GO COMPETE to begin play.
+
+OPTION 3: Compete in One Event
+
+Similar to OPTION 1, but you only compete in one event which you select.
+
+*  Use the joystick to choose the event, then press the FIRE button.
+
+OPTION 4: Practice One Event
+
+No medals are awarded for practice round scores.
+
+*  Move the joystick to choose the event, then press the FIRE button.
+
+OPTION 5: Number of Joysticks
+
+For one player, select 1.
+
+For two or more players, be sure both joysticks are plugged in an select 2.
+
+*  Select 1 or 2 by pressing the FIRE button.
+
+OPTION 6: Opening Ceremonies
+
+Repeats the opening ceremonies.
+
+
+Awards Ceremony
+
+After every event, the names, countries, and scores of all competitors are
+listed in the order they placed. The name of the Gold Medal winner appears
+at the top of the screen.
+
+
+Continuing Play
+
+To restart WINTER GAMES at any time, press RESET. The program will return
+to the main menu.
+
+
+                                THE GAMES
+
+Biathlon
+
+Race over a cross-country track on skis with a .22 caliber rifle slung over
+your shoulder. You have only a few cartridges to fire at the required
+targets, so steady your sights and develop an eagle eye before you fire
+away!
+
+*  Move your joystick left and right to move your skier's legs in steady,
+   rhythmic kicks and glides.
+
+*  On LEVEL GROUND, keep up a steady pace by moving your joystick back and
+   forth.
+
+*  For UPHILL terrain, move the joystick faster to increase speed.
+
+*  DOWNHILL stretches go fastest if you use the double-pole technique. Pull
+   the joystick down when the skier's hands are in front, to get the
+   maximum push down the slope.
+
+*  SHOOTING: You are issued five cartridges to shoot at five targets, and
+   every miss is a 5-second penalty. The gun must be loaded and the shell
+   ejected after each shot. Pull the joystick BACK to open the gun chamber.
+   Push the joystick FORWARD to load the shell. Push the FIRE button to
+   shoot. Repeat for the next shot. The skier's heart rate affects your
+   accuracy -- so cool down, and take careful aim before you fire!
+
+*  The winner or high score is the skier with the fastest total time.
+
+Speed Skating
+
+Speed Skaters can move at 30 miles per hour -- much faster than athletic
+track runners. In fact, Speed Skating champions are the fastest self-
+propelled human beings over level earth!
+
+In Speed Skating, two racers skate side-by-side, in separate lanes, as fast
+as they can go!
+
+*  When "PRESS YOUR BUTTON" appears at the bottom of the screen, the player
+   whose name appears  must press the joystick FIRE button. This begins the
+   countdown.
+
+*  When the countdown reaches "GO," begin skating by moving the joystick to
+   the LEFT and RIGHT to move your skater's legs. The trick is to make the
+   skaters legs move back and forth as in real skating.
+
+*  Continue skating by moving the joystick back and forth in rhythmic
+   strokes to move your racer's legs. Build your natural skating rhythm
+   faster to get up to speed -- and GO FOR IT!
+
+*  The skater with the fastest time wins the race.
+
+*  When the race is over, press the FIRE button to begin the next event.
+
+Ski Jump
+
+Every gust of wind chills your body as you look down from the top of the
+jump tower to the runway far below. The judges and spectators look like
+insects from this height. GO! Your coiled body lurches forward and suddenly
+you're into another world!
+
+You crouch down low, in a tucked position, to accumulate as much speed as
+possible. At the take-off, you leap out, push up, and lean forward, over
+the edge of your skis, to reduce wind resistance and increase the length of
+your jump.
+
+*  Press the FIRE button to begin your approach.
+
+*  When you reach the takeoff point, press the FIRE button.
+
+*  In the air, watch the upper right-hand corner of the screen for faults.
+   Correct faults quickly to get maximum style points and distance.
+
+     *  If your knees are BENT, move the joystick UP to correct.
+     *  If you're TOO FAR FORWARD, move joystick LEFT.
+     *  TOO FAR BACK, move joystick RIGHT.
+     *  SKIS CROSSED, move joystick DOWN.
+
+If you don't correct your faults in time, your Ski Jumper's wild antics
+will cause wind resistance and lose style points.
+
+Ski Jump scores are based on distance and form.
+
+DISTANCE: is based on the timing of the takeoff, and the aerodynamics of
+the Jumper in the air.
+
+STYLE: You'll get more points if you recover quickly from faults and don't
+fall.
+
+Scores
+
+Your maximum is tallied by multiplying your DISTANCE (x) 3 (+) STYLE POINTS.
+A respectable Ski Jump score would be a flight of 60 meters and 20 style
+points for a total of 200 points.
+
+Bobsled
+
+Prepare to careen down a track of solid ice -- while you crouch in a
+precision-built machine of steel and aluminum. You'll fly around hair-
+raising turns, then plummet down the bumpy straightaways at speeds
+exceeding 90 miles per hour!
+
+*  Press the FIRE button to begin the race.
+
+*  Move the joystick left and right to guide your sled.
+
+HINTS: Steer hard! To avoid capsizing at the turns, try to anticipate the
+pull of centrifugal force, and steer hard in the opposite direction.
+
+Watch your speed! The power bar at the bottom of the screen shows how fast
+you're going. The faster you go, the harder you have to steer to keep
+plummeting toward the finish.
+
+Learn the course! An intimate knowledge of the course is important, so you
+learn the best position to take each corner.
+
+*  The winning bobsled's score is based upon the fastest time through the
+   tracks.
+
+                         THE WINTER OLYMPIC GAMES
+
+The first winter games were held as Chamonix, France in 1924, when they were
+accepted as a celebration comparable to the Summer Games and given the
+official blessing of the International Olympic Committee. Since then, the
+winter games have been held at the following locations.
+
+                           WINTER OLYMPIC GAMES
+
+                 Date    Place
+                 1924    Chamonix, France
+                 1928    St. Moritz, Switzerland
+                 1932    Lake Placid, New York
+                 1936    Garmisch-Partenkirchen, Germany
+                 1948    St. Moritz, Switzerland
+                 1952    Oslo, Norway
+                 1956    Cortina, Italy
+                 1960    Squaw Valley, California
+                 1964    Innsbruck, Austria
+                 1968    Grenoble, France
+                 1972    Sapporo, Japan
+                 1976    Innsbruck, Austria
+                 1980    Lake Placid, New York
+                 1984    Sarajevo, Czechoslovakia {?}
+                 1988    Calgary, Ontario {?}
+
+
+Atari Corporation is unable to guarantee the accuracy of printed material
+after the date of publication and disclaims liability for changes, errors,
+or omissions. Reproduction of this document or any portion of its contents
+is not allowed without the specific written permission of Atari Corporation.
+
+ATARI and 7800 are trademarks or registered trademarks of Atari Corporation.
+Winter Games is a trademark of Epyx Inc.
+
+Copyright (C) 1987, Atari Corporation, Sunnyvale, CA 94086.
+All rights reserved. Printed in Taiwan. C024857-31      K.I.1.1988
+

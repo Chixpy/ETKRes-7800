@@ -1,0 +1,219 @@
+                     ATARI (R) 7800 (TM) Game Manual
+
+                             Ninja Golf (TM)
+
+TABLE OF CONTENTS
+
+BATTLE FOR EVERY HOLE           1
+GETTING STARTED                 1
+  Optional Game Controls        2
+PLAYING THE GAME                2
+SCREEN                          4
+  Status Window                 4
+ITEMS                           5
+STRATEGY                        6
+SCORING                         6
+
+Atari Corporation is unable to guarantee the accuracy of printed material
+after the date of publication and disclaims liability for changes, errors,
+or omissions. Reproduction of this document or any portion of its contents
+is not allowed without the specific written consent of Atari Corporation.
+
+Atari, the Atari logo, Ninja Golf, and 7800 are trademarks or registered
+trademarks of Atari Corporation.
+
+ATARI (R)
+Copyright (C) 1990, Atari Corporation
+Sunnyvale, CA 94089-1302
+All rights reserved.
+
+BATTLE FOR EVERY HOLE!
+
+For ten years you've trained to be a Ninja. And now your Master tells you
+that it's time to take the final, most difficult test and become a Master
+Ninja. You must complete the game of death. You must play nine holes of...
+Ninja Golf?
+
+You knew your Master was a bit weird, but nothing prepared you for this!
+You must attempt to sneak in a birdie between karate kicks while you battle
+Ninja opponents. Par for this course means leaving the green littered with
+fallen foes.
+
+You gain points for both your golf game and defeating attacking Ninja. You
+can also earn points for finding treasures and other bonus items along the
+course.
+
+Once you've completed all nine holes successfully, be ready to challenge
+the disguised Master Ninja. This final battle will determine whether or not
+you become a Master Ninja. And if you win, it will improve your golf score.
+
+GETTING STARTED
+
+1.  With your 7800 game system switched off, insert the Ninja Golf
+    cartridge into the cartridge slot as described in your owner's manual.
+
+2.  Connect a controller to controller port one. Press the POWER button on
+    your 7800 game console.
+
+3.  Switch on your TV.
+
+4.  The Ninja Golf title screen appears. Press a controller button to view
+    game options. Move the controller left or right or press SELECT to
+    display the desired difficulty level (Easy, Normal, Hard, or Kamikaze).
+    The higher the difficulty level, the more enemies appear on the course.
+    And the enemies get progressively tougher to destroy! Press either fire
+    button or RESET to select the displayed option and begin your round of
+    Ninja Golf.
+
+Optional Game Controls
+
+The following optional game controls are available:
+
+To pause the game press PAUSE. Repeat to resume play.
+
+To return to the title screen and restart the game, press RESET.
+
+To return to the title screen and restart the game with the currently
+selected difficulty level, press SELECT.
+
+PLAYING THE GAME
+
+Ninja Golf is a fast moving game combining martial arts action and the
+challenge of video golf. At the beginning of the game you receive ten
+throwing stars and two extra lives. On every hole you can find additional
+throwing stars, magic shields to protect you from enemies, and items to
+increase your health rating or give you extra lives. (See Items.) The game
+is over when your health rating reaches zero and you have no lives
+remaining.
+
+The Action window shows game play, including enemy encounters and items to
+be retrieved. Move your controller right to move forward, left to move
+backward, and down to crouch. To pick up an item, position your Ninja over
+the item and crouch. To kick, press the right controller button. To leap,
+press the left controller button. To throw a star, push the right
+controller button when the controller is in the neutral position or when
+your Ninja is crouching.
+
+Each of the nine holes of Ninja Golf offers unique challenges. The first
+challenge on every hole is to aim your shot carefully to place the ball
+onto the green.
+
+Use the Golf window to aim your shot. Your tee off position is shown by the
+flashing white ball. Move your controller to change the trajectory of the
+shot. When the shooting white ball reaches the best destination, press
+either controller button to choose that destination and swing. Once the
+ball is hit, your Ninja jogs after it.
+
+On your way to retrieve your ball, you will be set upon by a variety of
+dangerous foes. Fierce frogs will leap at you, Ninja guards and warriors
+will attack without mercy, and golf course gophers will fling clods of mud.
+You must aim your shots carefully to avoid sand and water traps. Deadly
+snakes await you in the sand traps, and every water trap is infested with
+hungry sharks.
+
+After you land on the green you must face a special challenge to place the
+ball in the hole. Press the fire button to shoot Ninja stars directly into
+the mouth of the fire breathing guardian of the hole. You can only carry
+ten Ninja stars at one time. When you deplete your supply of stars, move to
+the far left to replenish your supply. Kill the guardian to progress to the
+next hole. Dodge while you shoot, or your Ninja will end up a crispy
+critter for the guardian to devour.
+
+When you have successfully destroyed the guardian, the hole SCORE screen
+appears. This screen displays information about your performance on the
+hole you just completed: the number of the hole, the number of strokes it
+took you to land on the green, and the number of bonus points you received.
+
+Press the fire button to display the game SCORE screen. This screen
+displays the total number of strokes you have used. (Press the fire button
+to resume play.)
+
+You earn points for destroying golf course foes and retrieving bonus items.
+You also receive points for making great golf shots. The less strokes you
+use to land on the green, the more points you receive.
+
+SCREEN
+
+The Action window is where game play takes place. The Golf window shows the
+trajectory of your golf shots, and the Status window displays game
+information.
+
+{screen diagram}
+
+Status Window
+
+The Status window displays the following game statistics:
+
+SCORE displays the score for the game in progress.
+
+HIGH SCORE is the highest score achieved during the current play session.
+
+HEALTH shows the life energy level of your current Ninja. When your health
+level reaches zero and you have an extra life remaining, your health rating
+returns to full force when the new Ninja takes over.
+
+NINJA STARS display the number of throwing weapons you have left.
+
+LIVES REMAINING displays the number of extra lives you have left.
+
+SHIELD TIME REMAINING displays the number of seconds your shield will
+remain active. This section of the Status window will only display when you
+have an active shield.
+
+ITEMS
+
+To pick up an item, move your Ninja over the item and crouch. The following
+items can be found on every hole.
+
+THROWING STARS allow you to attack your enemies from a safe distance.
+
+MAGIC SHIELDS provide total invulnerability for 15 seconds. The shielding
+begins when you pick up the Magic Shield.
+
+REVITALIZATION POTIONS increase your health rating.
+
+RESTORATION brings your health rating back to the maximum level.
+
+FREE MAN gives you one additional life.
+
+WARP teleports your Ninja to the green.
+
+
+STRATEGY
+
+Save your Ninja stars for the more difficult sections of the game (water and
+forest areas).
+
+For a higher score, take the shortest path beteen the tee and the green.
+
+Sometimes the Ninja that runs away (or jumps over his enemies) lives to
+fight another day!
+
+SCORING
+
+You receive points for eliminating enemies, making your golf shots, and
+picking up items.
+
+Golf Scores
+
+Eagle                   8,000 points
+Birdie                  7,000 points
+Par                     6,000 points
+
+Enemies
+
+Ninja Warriors          170 points
+Animals                 100 to 200 points
+
+Items
+
+Power ups and treasure  10 to 50 points
+
+
+ATARI (R)
+Copyright (C) 1990, Atari Corporation
+Sunnyvale, CA 94089-1302
+All rights reserved.
+
+Printed in Hong Kong.           G.C.8.1990            C300018-070 Rev. A
+

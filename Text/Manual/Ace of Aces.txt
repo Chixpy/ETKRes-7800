@@ -1,0 +1,345 @@
+ATARI(R) 7800(TM) Game Manual
+ACE OF ACES(R)
+by Accoloade
+
+INTRODUCTION
+
+Trump That Ace!
+
+It's World War II and Britain's Royal Air Force is up to its neck in Axis
+attacks.  As one of the RAF's most aggressive pilots, you're in on flying the
+most crucial missions to stall the enemy.
+
+They attack by land, air, and sea.  Your only allies are your DeHavilland
+Mosquito, your weapons, and your wits.  Chase the Nazi bombers, sink the
+U-boats before they can dive, outrun the V-1 buzz bombs, and stop the POW
+trains from reaching the enemy lines.
+
+Choose your ammunition and fuel wisely -- once you're on a mission, there's
+no turning back.  To be an Ace, you need four enemy defeats.  To be Ace of
+Aces, you've got to be the best!
+
+Getting Started
+
+1. Insert the Ace of Aces cartridge into your Atari 7800 Video Game System
+as explained in your Owner's Manual.
+
+2. Switch on your television; then press [Power] on your 7800 console.  The
+title screen appears, followed by the first select screen.
+
+3. From the title screen, press [Select] or a fire button.  In a midnight
+session your Group Captain offers you the choice of a practice flight or a
+mission.  Move the directional control of your game controller forward or
+back to mark your choice.  Then select a type to begin.
+
+4. Press [Reset] at any time to start a new game with the same mission.
+
+5. Press [Pause] or the right fire button to pause the game and display a
+status screen.  Press it again to resume play.
+
+PLAYING THE GAME
+
+Practice
+
+If you choose a practice flight, the Group Captain offers you three 
+alternatives:
+
+* Dog Fight  Go nose-to-nose with enemy ME109s and wax their tails.
+* Train  Practice bombing the enemy rail system.
+* U-Boat  Cruise over the North Atlantic for a dry run on a wet target.
+
+Move the directional control forward or back to mark your choice, then press
+the fire button to begin.
+
+Man your Mosquito -- it's already loaded with the necessary ammunition and
+fuel.  Now's the time to practice destroying the enemy.  (See the other
+sections of this manual for instructions.)  When your plane sustains damage
+or runs low on ammo or fuel, return to base.
+
+Use the practice flight to learn your aircraft and its controls.  Once you're
+back on base, you'll be called again into the Group Captain's pre-dawn session.
+
+Mission
+
+When you select a mission, the Group Captain gives you four alternatives.
+
+* V-1 Rocket  The enemy is tossing V-1 buzz bombs, accompanied by an unknown
+number of ME 109 fighters.
+* Bomber  JU88 and ME109 bomber planes control the skies.
+* Train  Rail transport of Allied POWs to enemy camps is underway.  ME109 air
+support is probable.
+* U-Boat  Enemy submarines are converging on Allied convoys.
+
+Each one is a known enemy threat.  The mission that's the most crucial at the
+moment depends on the enemy's total war effort.  After a few missions, it'll
+be up to you to choose the best strategic attack area.
+
+Move the controller's directinal control forward or back to point to a choice,
+then press the fire button to mark it.  You can choose more than one mission
+at a time.  Then point to "Begin Game" and press the fire button to start.
+
+Intelligence Report
+
+Intelligence agents, resistance groups, and aerial reconnaissance work
+ceaselessly to pinpoint exact enemy positions.  Headquarters now makes you
+privy to their report.  This report file contains information on weather
+conditions, recommended altitude, weapons, and target sequence.  Memorize the
+report -- this information could keep you alive.
+
+Move the directional control forward or back to either accept or reject the
+mission.  Then press the fire button or [Select].  Reject the mission when you
+want to choose another alternative.  Accept the mission and there's no turning
+back.  Your navigational map appears.
+
+Navigational Map
+
+The navigational map shows major European cities and enemy positions based
+on intelligence reports.  Take a good long look.  This information is vital
+to your success.
+
+[Navigational map graphic]
+
+Review the map often during your mission (see Views from the Mosquito table).
+Intercept the air and ground enemy weapon carriers before they reach their
+destinations.  Destroy the U-boat pen before the subs can set sail to attack
+Allied convoys in the Nort Atlantic.  Avoid storm clouds -- they spell trouble.
+
+Now press the fire button to prepare your plane.
+
+Selecting Ammunition and Fuel
+
+You now load your ammunition and fuel in the weapons room.  Your intelligence
+report recommended correct ammunition.  You'll use cannon shells and rockets
+for dog fights and bombs for surface targets.  If your targets are U-boats and
+trains, load up on bombs and add a few cannon shells and rockets for surprises
+(yours and theirs).  If you're going for Ace of Aces status by choosing all
+four missions, select your ammunition based on your bombing and dog fight
+prowess and the intelligence report.  Add fuel tanks for long-range missions.
+(You automatically have one fuel tank already loaded.)
+
+[Weapons Selection graphic]
+
+Next to each offering are plus (+) and minus (-) signs.  Move the directional
+control to mark a sign, then press the fire button.  Plus signs load ammunition
+and fuel; minus signs offload them.  When you've reached maximum load, you
+will not be able to load any more items.
+
+Once you're armed and fueled, move the directional control back to mark "Done"
+and press the fire button.  A seires of photos appear on screen showing your
+take-off.  Go get 'em!
+
+FLYING A MISSION
+
+While airborne, you've got five views from which to carry on your attack.  Use
+the directional control and the fire button to change views (follow the table).
+A double-press on the fire button means two quick clicks.
+
+            Views from the Mosquito
+
+View                Controller Action
+
+Cockpit             Double-press fire button, then push directional control
+                    forward.
+
+Engine room, port   Double-press fire button, then push directional control
+(left) wing         left.
+
+Engine room, star-  Double-press fire button, then push directional control
+board (right) wing  right.
+
+Navigational map    Double-press fire button, then pull back on the directional
+                    control.
+
+Bomb Bay            Double-press fire button with the directional control 
+                    centered.
+
+
+Cockpit
+
+You'll look forward from the cockpit into the skies (or cloud cover).  Use
+your controls to keep your Mosquito on course.  Press the fire button to fire
+cannon and rockets.  Crosshairs turn red when your target is in firing range.
+
+Compass.  The initial compass heading is south (S).  Change course by pushing
+the directional control left or right.  A dark line on the compass indicates
+the correct heading for the next target.  When all targets are destroyed, the
+dark line heading shows you the way home.
+
+[Cockpit graphic]
+
+Airspeed.  Your airspeed is show in miles per hour.  Adjust this reading with
+the boosters, throttle, and flaps in the engine room.
+
+Artificial Horizon.  This indicator shows your altitude and the angle of your
+wings relative to the fixed horizon.  Angling (moving the directional control
+left or right) turns your Mosquito in the direction of the lower wing.
+
+Altimeter.  This dial reads your altitude in thousands of feet, relative to
+the fixed horizon.
+
+Intercom.  The intercom monitors trouble spots in the Mosquito.  When a section
+of the plane lights up, move to that view and take care of the problem.  When
+the center of the plane lights up, the ground target is in sight or a fuel
+tank is empty.  The intercom appears in all views.
+
+Yoke.  The yoke steers your aircraft.  Move the yoke with the directional
+control -- forward to dive, back to climb, left or right to turn in that
+direction.
+
+Enemy Altitude.  This gauge monitors the altitude of oncoming enemy aircraft
+relative to your altitude.
+
+Radar.  This sweep dial tells you an enemy's distance relative to your
+position.
+
+Engine Room
+
+Control the mosquito's speed and flight position from the engine room, as well
+as contain damage.  Move the cross indicator by pushing the directional control
+left or right.  Then change a control panel setting by pressing the fire
+button and moving the directional control forward, back, left or right.
+
+[Engine Room graphic]
+
+Throttle and Throttle Gauge.  The throttle controls your engine speed, measured
+in revolutions per minute (RPMs) on the throttle gauge.  Move the lever up to
+increase speed.  The engine is over-revving if the RPM needle is in the red
+zone.  Decrease speed immediately.  If you can't slow down, the engine is on
+fire and you will have to go for the fire extinguisher.
+
+Booster and Booster Gauge.  The booster controls the pitch of your propellers,
+measured in angles on the booster gauge.  Move the lever forward to increase
+pitch.  The booster must be at the same setting as your throttle for top fuel
+efficiency.  If the throttle and booster aren't balanced the engine will either
+over-rev or lug.
+
+Landing Gear.  Keep this control in the up position unless you want to reduce
+speed quickly -- useful for evading enemy fighters.
+
+Trim.  Trim controls the tail rudder and determines your direction of flight.
+
+Flaps.  Wing flaps (ailerons) are your brakes.  Move the lever down to brake
+but be careful -- at high speeds the vibrations could damage the Mosquito.
+
+Fire Extinguisher.  Move the lever right to spray the fire extinguisher on
+engine fires.  Once an engine is doused, it's out of commission until repaired.
+
+Fuel.  Check your fuel condition frequently.  When a tank is empty, switch to
+the bomb bay view and take care of the problem.
+
+Bomb Bay
+
+The bomb bay view tells how much ammunition you have left.  Move the
+directional control left or right to position the cross indicator above a
+control, then hold down the fire button and move the directional control left
+or right to change a setting.
+
+Bomb Bay Doors Control.  Open the bomb bay doors to take aim on U-boats and
+trains.  When a target is in sight, crosshairs appear.  Move the directional
+control to position the target within the crosshairs.  Press the fire button
+to drop bombs.
+
+[Bomb Bay graphic]
+
+Fuel Tank Drop.  Drop empty tanks to improve your fuel use or for a quick
+getaway.  Be sure you have enough fuel to get home.
+
+Gun/Rocket Select.  Use this lever to choose either the gun (cannon) or
+rocket to fire on your target.
+
+STRATEGY
+
+Dog Fights
+
+Enemy fighters attack randomly without warning.  When an enemy aircraft turns
+up on your radar, your Mosquito position freezes on the navigational map.  You
+must down the enemy before he gets you.  And make it quick -- you're burning up
+fuel.
+
+Enemy aircraft attack in greater numbers once you have destroyed their trains
+and U-Boats.
+
+V-1s are slower than fighters.  If they're too close to you when they explode,
+their shrapnel may damage your Mosquito.
+
+Trains
+
+You must stop the POW train en route to Berlin.  Aim only at cars marked with
+the Iron Cross.  Cars marked with the Red Cross carry captured Allied troops
+and will cost you points if destroyed.  You get only one crack at the train
+so be precise about altitude and speed.  Your best attack position is 1,000
+feet at 100 mph.
+
+U-Boats
+
+The U-boats are preparing to attack Allied shipping in the North Atlantic.
+Stop them before they launch.  Once you open your bomb bay doors, the U-Boats
+will pick you up on instruments and begin diving.  Once underwater, they
+will not resurface for the duration of your mission.  You're in maximum
+attack position at 1,000 feet at 100 mph.
+
+Survival
+
+Intelligence advises the following survival tactics:
+
+* Check the intercom often for trouble spots.  Your chances of survival are
+greater if you can contain the damage early on.
+* You'll need extra speed in order to climb when you have a full load of
+weapons and fuel.
+* Speed increases as youdrop bombs and fuel tanks.
+
+SCORING
+
+Rocket hits earn twice the points of cannon hits.
+
+Destroying the Enemy
+
+Fighter (rocket)...............................1000 points
+Fighter (cannon)................................500 points
+V-1 (rocket)....................................300 points
+V-1 (cannon)....................................150 points
+Bomber (rocket).................................200 points
+Bomber (cannon).................................100 points
+Train Car.......................................200 points
+U-Boat..........................................250 points
+POW Car........................................-200 points
+
+Completing a Mission
+
+Safe Return....................................2000 points
+Bomb Intact......................................50 points
+Rocket Intact....................................50 points
+Cannon Shell Intact..............................10 points
+Fuel Tank Intact.................................10 points
+
+Every effort has been made to ensure the accuracy of the product documentation
+in this manual.  However, because Atari Corporation is constantly improving
+and updating its computer hardware and software, it is unable to guarantee
+the accuracy of printed material after the date of publication and disclaims
+liability for changes, errors, or omissions.
+
+Reproduction of all or any portions of this manual is not allowed without
+the specific written consent of Atari Corporation.
+
+Atari(R), the Atari logo, and 7800(TM) are trademarks or registered
+trademarks of Atari Corporation.  Ace of Aces(R) is a registered trademark of
+NOVA Game Design, Inc.
+
+Copyright(C) 1986,1987, Accolade Inc.  All rights reserved.
+Original license from Artech Digital Productions.
+
+
+ATARI(R)
+Copyright(C) 1988, Atari Corporation
+Sunnyvale, CA  94086
+All rights reserved.
+
+ATARI(R)
+Copyright(C) 1988, Atari Corporation
+Sunnyvale, CA  94086
+All rights reserved.
+
+Printed in Hong Kong.  B. T. 1 . 1989    C300018-046 Rev. A
+
+
+

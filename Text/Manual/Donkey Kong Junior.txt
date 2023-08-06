@@ -1,0 +1,148 @@
+                           ATARI 7800 Game Manual
+
+                             DONKEY KONG JUNIOR
+
+                                 by Nintendo
+
+                             Donkey Kong's Back!
+
+
+Donkey Kong the ape is back. Only this time the vengeful Mario is holding the
+ape prisoner. Luckily the ape has a son, Donkey Kong Junior, who will try to
+rescue Papa.
+
+To free his dad, Junior must make his way through a dark and treacherous
+jungle. Racing against time, the little fellow climbs and swings across
+vines, while avoiding the terrible Snapjaws.
+
+If he reaches the keys to Papa's cage, Junior must push them to the top of
+chains while staying clear of Snapjaws and a new flock of nasty Nitpickers.
+But even then his mission isn't over. Once he reaches Mario's hideout, he
+must pass yet another test against time.
+
+The kid needs help. Don't just stand there! Help poor Junior save his father!
+
+
+>> Getting Started
+
+1.  Insert the Donkey Kong Junior cartridge into your Atari 7800 as explained
+    in your Owner's Manual.
+
+2.  Plug a controller into the left controller port for one player; plug a
+    second controller into the right port for two players.
+
+3.  Turn on your television; then press [Power] to turn on your Atari
+    console.
+
+4.  Move controller forward or backward or press [Select] to choose 1 or 2
+    players.
+
+5.  Move controller left or right or press [Select] to choose a difficulty
+    level.
+
+6.  Press the fire button on your controller to start the game. Junior
+    appears at the bottom of the first vine, ready to begin his rescue
+    mission.
+
+7.  Press [Pause] to pause during a game, press it again to resume.
+
+8.  During a game, Press [Select] to return to the title screen. Press
+    [Reset] to restart.
+
+
+>> Moving Junior
+
+Hold the controller so that the fire button is in the top-left corner. The
+handle directs Junior's climbing and running, and the button controls his
+jumping.
+
+Climbing and Sliding
+
+Move the controller lever up to help the little ape climb up vines or chains;
+move it down to help him slide down. Junior can climb up two vines or chains
+faster than he can climb one. But he'll slide down one vine or chain faster
+than he'll slide down two. Junior can't climb through platforms.
+
+Swinging Through the Jungle
+
+Move the controller directional level left or right to position the little
+ape on the side of the vine or chain closest to his destination; then move
+the directional level again toward the adjoining vine or chain.
+
+Jumping
+
+Press the fire button to make Junior jump in place while standing. Press the
+button while Junior is running to make him jump in the direction he's facing.
+To move from a vine or a chain onto a platform, move the directional level in
+the direction of the platform. Junior must be on an adjoining vine or chain
+and above the platform before he can move onto it.
+
+
+>> Playing the Game
+
+The game begins with three Juniors. The first Junior begins "Operation
+Rescue" by climbing the vine just above him. He can't climb through a
+platform, so move him around to the left, and then continue climbing. Guide
+Junior through the jungle and up toward the key.
+
+If you manage to reach the key, Junior's on his way to freeing Papa. But you
+avoid the Snapjaws at all costs. When you reach the highest platform,
+continue to avoid the Snapjaws, and go for the key.
+
+You'll lose Junior if he falls off a vine or is caught by the Snapjaws.
+You'll also lose Junior if he jumps off a platform, misses a vine, and falls.
+
+While you're working your way upward, a bonus timer is counting down. If you
+reach the key, the number in the bonus timer is added to your score. But time
+can work against you. If you don't capture the key before the timer runs out.
+Junior is a goner.
+
+If Junior captures the key, he moves on to the springboard screen. He must
+avoid the pesky birds and the Nitpicks on his way to the top.
+
+Mario's hideout is next, where you must dash across coils and climb more
+vines to reach the hanging vine at the top. To avoid the globes and sparks,
+jump over them and keep moving toward Papa.
+
+On the Chains screen, Junior must push six keys into the locks at the top
+while avoiding Nitpickers and Snapjaws.
+
+As long as there are Juniors remaining, you will return to the jungle and
+start your mission all over again. The Snapjaws and Nitpickers make things
+even tougher than they did before. The game is over if you lose the last
+Junior during the rescue missions.
+
+
+>> Scoring
+
+Your score and lives remaining appear at the top of the screen.
+
+           Push a key into a lock. . . . . . . . . . . .200 points
+           Jump over Nitpicker, spark, or globe. . . . .100 points
+           Drop a fruit. . . . . . . . . . . . . . . . .400 points
+           Hit 1st object with fruit . . . . . . . . . .800 points
+           Hit 2nd object with fruit . . . . . . . . .1,200 points
+           Hit 3rd object with fruit . . . . . . . . .1,600 points
+           Extra life at . . . . . . . . . . . . . . 20,000 points
+
+                -*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+
+Copyright (c) 1988, Nintendo of America Inc. All rights reserved.
+
+Copyright (c) 1988, Atari Corporation, Sunnyvale, CA 94086. All rights
+reserved.
+
+Printed in Hong Kong. B. T. 8. 1988                      C300018-049 Rev A.
+
+----------------------[ end Donkey Kong Jr Manual here ]----------------------
+
+___ Blue Wave/QWK v2.12
+
+
+---
+{    Presentation of the preceding message was made possible by    }
+{      Nick's World BBS - (516) 981-4689 or (516) 981-4941         }
+{    Email: sysop@schibbs.netusa.net  Empire Net: 495:1000/100     }
+{  For a fun place in cyberspace, come on down to Nick's World!    }
+{                     "A BBS FOR EVERYONE!"                        }
+

@@ -1,0 +1,124 @@
+ATARI 7800(TM) Game Manual
+
+Dig Dug(TM)
+
+How Many Veggies Can Dig Dug Dig?
+
+Getting Started
+
+1. Insert the Dig Dug(TM) cartridge into your ATARI(R) 7800(TM) ProSystem
+   as explained in your Owner's Manual, and turn on your console.
+
+2. Plug a controller into the left controller jack for one player, and
+   another into the right controller jack for two players.
+
+3. Move the controller handle forward or backward, or press [Select] to
+   choose a one- or two-player game.  Move the controller handle to the left
+   or right, or press [Select] to choose one of two difficulty levels.
+
+4. Press the [Reset] button to start the game.  To start a new game at the
+   level the previous game ended on, press the fire button on the controller
+   after the game ends.  You must press the fire button before the 
+   demonstration starts or the game will begin on Level 1.
+
+5. Dig Dug will dig in the direction you move the controller.  Pressing
+   either one of the fire buttons on the controller will stun the monsters,
+   Pooka(TM) or Fygar(TM).
+
+Playing the Game
+
+        Dig Dug starts each game with five lives.  After he burrows on his
+own, use your controller to send him where you want.  When he enters a
+tunnel where Pooka is lurking, the monster begins to chase him.  Explode
+Pooka quickly by pressing and holding the controller button, or by pumping
+it repeatedly.  Pumping the button just once or twice will stun the monster
+so Dig Dug can slip past.a  Touching Pooka when he's not stunned will knock
+Dig Dug out.
+        Dig Dug can handle Fygar in almost the same way, but dragons breathe
+fire, so be careful if Dig Dug approaches him while he's looking.  It's not
+enough to be just outside his tunnel when he's looking, either, because his
+fire is so powerful that it burns a short distance through the earth.  Still,
+attacking him from the side is worth more points than attacking from above
+or below.
+        Another way to handle the monsters is to drop rocks on them.  To do
+this, make Dig Dug tunnel underneath a rock when one or more monsters are
+chasing him.  If he's tunneling upward, have Dig Dug make a sharp turn just
+before he reaches the rock so it falls on them!  If Dig Dug is tunneling
+sideways, time him so the rock falls just as the monsters run underneath!
+        After two rocks have fallen in any round, a veggie or fruit appears
+at the center of the earth for ten seconds.  If Dig Dug can gobble it up,
+he earns extra points.
+        But there's something very strange about Pooka and Fygar.  Unless
+Dig Dug destroys them quickly, they turn into ghosts and move through the
+ground directly toward him.  As soon as they enter a tunnel completely they
+become solid again, but while they're still ghosts, Dig Dug can only drop
+rocks on them.
+        The last monster left in any round gets scared of Dig Dug and turns
+to the surface, turning into a ghost if necessary to make his trip as fast
+as possible.  Once on the surface he scampers to the left of the screen.
+To catch him, Dig Dug has to race toward the surface himself.
+
+Scoring
+
+        The flowers at the top of the screen tell the number of the round
+you are playing on.  Each small flower counts as one; each large flower
+counts as ten.
+
+Dig Dug scores points in several ways:
+
+Digging Up Dirt
+Each chunk .......... 10 points
+
+Blowing Up Pooka and Fygar from Above or Below
+Surface ............. 200 points
+Top level of earth .. 200 points
+Second level down ... 300 points
+Third level down .... 400 points
+Bottom level ........ 500 points
+
+Blowing Up Fygar from the Side
+Surface ............. 400 points
+Top level of earth .. 400 points
+Second level down ... 600 points
+Third level down .... 800 points
+Bottom level ....... 1000 points
+
+Dropping Rocks on Monsters (score per rock)
+One monster ........ 1000 points
+Two monsters ....... 2500 points
+Three monsters ..... 4000 points
+Every extra monster. 2000 points
+
+Gobbling Fruits and Veggies
+ 
+Carrot .............. 400 points
+Turnip .............. 600 points
+Mushroom ............ 800 points
+Cucumber ........... 1000 points
+Eggplant ........... 2000 points
+Bell Pepper ........ 3000 points
+Tomato ............. 4000 points
+Onion .............. 5000 points
+Watermelon ......... 6000 points
+Galaxian ........... 7000 points
+Pineapple .......... 8000 points
+
+Bonus Lives
+At 20,000 points, 50,000 points, and every 50,000 points following, Dig Dug
+earns an extra life.
+
+Reproduction of this document or any portion of its contents is not allowed
+without the specific written permission of Atari Corporation.
+
+Every effort has been made to ensure the accuracy of the product
+documentation in this manual.  However, because we are constantly improving
+and updating our computer software and hardware, Atari Corporation is
+unable to guarantee the accuracy of printed material after the date of
+publication and disclaims liability for changes, errors, and omissions.
+
+ATARI is a registered trademark and 7800 is a trademark of Atari Corporation
+Dig Dug, Pooka, and Fygar are trademarks of Namco Ltd., created and designed
+by Namco Ltd., and manufactured under license by Atari Corporation
+
+Copyright (C) 1987, Atari Corporation, Sunnyvale, CA 94086 Printed in Hong
+Kong.  All Rights Reserved.  CO24857-03 Rev. B B.T.5.1988

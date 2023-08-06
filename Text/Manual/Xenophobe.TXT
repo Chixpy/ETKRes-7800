@@ -1,0 +1,302 @@
+ATARI 7800(TM) Game Manual
+XENOPHOBE(TM)
+41% ALIEN INFESTED
+
+Every effort has been made to ensure the accuracy of the product documentation
+in this manual.  However, because Atari Corporation is constantly improving
+and updating its computer hardware and software, it is unable to guarantee the
+accuracy of printed material after the date of publication and disclaims
+liability for changes, errors, or omissions.
+
+Reproduction of this document or of any portion of its contents is not
+allowed without the specific written consent of Atari Corporation.
+
+Xenophobe(TM) is a trademark of Bally Midway Mfg. Co.
+Copyright(C) 1987, Bally Midway Mfg. Co.
+
+Atari(R), the Atari logo, and 7800(TM) are trademarks or registered trademarks
+of Atari Corporation.
+
+ATARI(R)
+Copyright (C) 1989, Atari Corporation
+Sunnyvale, CA  94086
+All rights reserved.
+
+TABLE OF CONTENTS
+ALIEN ATTACK!............1
+  Getting Started........1
+    Split-Screen Play....2
+PLAYING THE GAME.........3
+  Finishing a Mission....4
+  Destroying the Aliens..5
+  Collecting Hardware....5
+  Weapons................5
+  Danger to the Player...6
+STRATEGY.................7
+SCORING..................8
+
+ALIEN ATTACK!
+
+Hostile aliens - Xenophobes - are infesting space stations vital to your
+planet's security.  These aliens threaten to overrun the stations, rendering
+the space stations useless.
+
+You are part of an elite team who is ready to speed to these endangered space
+stations.  Your mission is clear: destroy the aliens, regain control of the
+space stations, and pick up any valuable hardware you might discover as you
+sweep the stations for aliens.
+
+The aliens are a swarming band of uglies, straight out of your worst nightmare.
+You'll need to use your talent just to stay alive as you rid each space station
+of these pests.  You don't want to let them catch you.  It's them or you.
+
+The message has come.  It's up to you and your teammates to cleanse each
+space station of aliens.  Your Mother Ship brings you to the vicinity of each
+overrun space station.  You then enter the space station via a transfer disk.
+
+Team up with another member of your elite squad, or work on your own to clear
+the aliens from an infested space station.  Just be careful as you enter a
+space station.  The aliens are everywhere!
+
+Getting Started
+
+1. With your television turned on, insert the Xenophobe cartridge into your
+Atari 7800 as explained in you Owner's Manual.
+
+2. Plug a controller into the lef port for a one-player game.  Plug a second
+controller into the right port for a two-player game.
+
+Note: A second player may join the game at any time.  Just press the fire
+button of the other controller.  In a multi-player game, players may join
+forces against the aliens.  Since each player is independent, the death of
+one player does not affect game play for the other player.
+
+3. Press the console's [Power] switch to turn on the machine.  The Xenophobe
+title screen appears.
+
+4. Press [Select] or move the controller left or right to select the desired
+skill level -- Novice, Standard, Advanced, or Expert.
+
+5. Press the fire button or [Reset] to begin the game.
+
+6. Press [Pause] to pause the game.  Press [Pause] again to resume play.
+
+7. Press [Reset] at any time to start a new game with the same game options.
+Press [Select] to return to the title screen.
+
+Note: An awards ceremony occurs after a game ends.  During this ceremony the
+aliens you destroyed and valuable hardware you retrieved are shown along
+with their point values.
+
+Split-Screen Play
+
+Xenophobe's split-screen lets two players move independently.  You view each
+player's game action in a separate half of the screen.  The left controller
+corresponds to the top screen view while the right controller corresponds to
+the bottom.
+
+Note: The size of a player's viewing screen is the same whether you are
+playing a one-player or two-player game.
+
+Controlling Movement
+
+Player Movements
+[Graphic shows Joystick, I explain in text below]
+Up: Jump if Walking, Creeping, or Standing.  Stand up if Crawling or Crouching
+Down: Crouch; Pick Up Objects; Break Free or Fling Critters
+Left: Move Left
+Right: Move Right
+Left Fire Button: Shoot
+Right Fire Button: Toss Grenades When Crouched
+
+Elevator
+[Graphic shows Joystic, I explain the tough concepts below]
+Up: Up
+Down: Down
+
+PLAYING THE GAME
+
+The game begins with you leaving the Mother Ship for one of the nine 
+alien-infested space stations.  Each base has a different number of levels
+as follows:
+
+Space Station      Number of Levels
+     1                    1
+     2                    2
+     3                    3
+     4                    4
+     5                    3
+     6                    2
+     7                    3
+     8                    5
+     9                    1
+
+Each space station has eight rooms on each level.  You must open doors as you
+move from room to room.  Just step up to the door to open it.
+
+To reach a different level, you must use the elevator found on each level.
+While standing directly in front of the elevator buttons, push up on the
+controller.  The elevator door opens and you can enter.  There are no stairs
+between levels.
+
+Finishing a Mission
+
+There are three ways in which you can finish a mission to a space station.
+Each of the three mission endings offers an increasing number of points.
+
+If you take too long in clearing a space station, the aliens overrun the
+station.  The amount of time you have to clear a space station depends on
+the difficulty level and other factors.  If you wait too long, the screen
+flashes red and you are automatically transported back to the Mother Ship
+as the aliens overrun the space station and the station explodes.
+
+Destroying some alines, but finding and using the self-destruct code to
+destroy the space station, is an acceptable ending.  You earn 100 bonus
+points for each alien you destroy at that space station.  Then it's back to
+the Mother Ship and on to the next infested space station.
+
+The best ending for a mission is the destruction of all aliens on a space
+station without destroying the space station.  You receive a 300-point bonus
+for each alien you destroyed at the station and a 200-point health bonus.
+Then you return to the Mother Ship and prepare to board the next infested space
+station.
+
+Destroying the Aliens
+
+Your first objective is to destroy all aliens in a space station within the
+allowed time.  Destroying an aline isn't easy.  Unless you use the minimum
+amount of force to destroy a particular type of alien, the alien lives and
+continues to threaten you and your mission.
+
+The minimum amount of force needed to destroy a particular type of alien is
+as follows:
+
+Critter...........1 unit of force
+Pod...............2 units of force
+Tentacle..........4 units of force
+Rollerbaby........4 units of force
+Snotterpillar.....16 units of force
+
+Collecting Hardware
+
+Pick up any valuable hardware you find strewn around a station you are
+sweeping for aliens.  You can gain extra points or restore lost health points
+with what you find. (See point values in SCORING below.)
+
+Weapons
+
+You begin play with a Phaser.  In addition to hardware, you will also find
+weapons scattered throughout a space station. (See point values in SCORING
+below.)
+
+Pick up these weapons for extra points, then use the weapons to destroy
+aliens.  But remember you can only have one weapon at a time.  Switch weapons
+if the weapon you find is more powerful than the one you are carrying.
+
+When you pick up the new weapon, you drop your current weapon.  But be
+careful, sometimes the weapon you drop will explode.
+
+Each weapon has a different power level.  Plus your weapon won't run out
+of ammunition.  The weapons you can use and their strength are as follows:
+
+Fists...........1 unit
+Phaser..........1 unit/shot
+Laser Pistol....2 units/shot
+Electric Rifle..3 units/shot
+Poofer Gun......10 units/shot
+Grenade.........100 units/shot
+
+Danger to the Player
+
+While you're sweeping the aliens from your planet's space stations, those
+same aliens are after you and can destroy you.  Injuries to your player are
+measured in units, or units/second of contact with an alien.  So watch
+your health gauge in the lower left corner of your screen.  You begin with
+1000 health units.
+
+You can lose units of health through the following injuries or attacks:
+
+Jumping into a dooor......10 units
+Attack by a Critter.......2 units/second
+Attack by Tentacles.......4 units/second
+Attack by a Rollerbaby....8 units/second
+Hit by a rolling alien....50 units
+Hit by spit (phlegm)......75 units
+Hit by a grenade..........100 units
+Hit by a leaping alien....150 units
+
+STRATEGY
+
+Your primary mission is to locate and eliminate the aliens as quickly as
+possible.  Don't spend too much time searching for valuable objects.
+
+The aliens are clumsier and easier to kill at the lower levels of a space
+station.  Save your best firepower for the scariest aliens, and remember that
+your biggest challenges await at the higher levels.
+
+In a two-player game, try to join forces with the other player in fighting
+the aliens.  Split up to cover all the rooms of a space station quicker.
+
+During a two-player game, avoid fights with the other player.  A fight will
+only distract you from your mission.
+
+Be ever alert for the aliens' varied means of attack.
+
+Shoot tentacles at the bottom of their swing.
+
+Use grenades to destroy aliens rolled into balls.
+
+Set the self-destruct on the harder space stations (numbered 4 and 8).  You
+keep health damage (units lost) to a minimum and receive a bonus of 100 points
+per alien destroyed.  Concentrate on the easier bases where you can earn the
+200-point health bonus when leaving a cleared space station.
+
+If the name of a level within the space station is in red, that level has
+more aliens for you to find and destroy.  If the level name is in blue, you've
+cleared all the aliens from that level.
+
+SCORING
+
+You receive points for destroying aliens, picking up valuable hardware during
+your mission in each space station, and for finding and picking up health
+objects, which increase your life.
+
+Killing Aliens:
+Tentacle.........125 points
+Snotterpillar....100 points
+Rollerbaby.......75 points
+Critter..........50 points
+Pod..............25 points
+
+Picking Up Weapons:
+Grenade..........500 points
+Poofer Gun.......400 points
+Lightning Gun....300 points
+Laser Pistol.....200 points
+Phaser...........10 points
+
+Picking Up Valuable Hardware:
+Clipboard...........1000 points
+Self-Destruct Code..500 points
+Transmitter.........500 points
+Skull...............500 points
+Can.................500 points
+Screwdriver.........500 points
+Knife...............500 points
+Rope................250 points
+
+Health Points:
+Burger...............50 points
+Flask................50 points
+
+ATARI(R)
+Copyright(C) 1989, Atari Corporation
+Sunnyvale, CA  94086
+All rights reserved.
+
+Printed in Hong Kong.  C300018-058 Rev. A
+
+B.T. 7.1989
+
+
+

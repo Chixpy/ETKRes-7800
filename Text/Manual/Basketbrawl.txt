@@ -1,0 +1,288 @@
+ATARI(R) 7800(TM) Game Manual
+BASKETBRAWL(TM)
+
+Atari Corporation is unable to guarantee the accuracy of printed material
+after the date of publication and disclaims liability for changes, errors,
+or omissions.  Reproduction of this document or of any portion of its contents
+is not allowed without the specific written consent of Atari Corporation.
+
+Atari, the Atari logo, BasketBrawl, and 7800 are trademarks or registered
+trademarks of Atari Corporation.
+
+ATARI(R)
+Copyright(C) 1990, Atari Corporation
+Sunnyvale, CA  94089-1302
+All rights reserved
+
+TABLE OF CONTENTS
+
+BATTLE FOR THE HOOP!...........1
+GETTING STARTED................2
+   Optional Game Controls......3
+PLAYING THE GAME...............3
+   Using the Fire Buttons......4
+   Power Ups...................5
+CHARACTER PROFILES.............5
+STRATEGY.......................7
+SCORING........................8
+
+BATTLE FOR THE HOOP!
+
+In a desperate attempt to stop inner-city gang wars, the city leaders organized
+a basketball league.  The league is scheduled to play on three courts: a 
+street, a junkyard, and a rooftop.  The mayor figured that a friendly game of
+hoops would be a much more peaceful way to settle disputes.
+
+Boy, was he wrong!
+
+Nobody could have predicted games like these.  When rowdy gang members chased
+off the city-appointed officials, Scott "the Blade" Savage, a thug from a
+neutral gang, stepped in.  And what a referee he turned out to be!  He doesn't
+care about fouls.  He doesn't care about rules.  He doesn't even have a
+whistle.  But he gets his kicks from throwing knives at the players.  With
+no real referee, the players can do whatever they please.  And they do.
+
+Picture this play:  Slash gets the ball and passes to Bruiser.  Bruiser
+dribbles around a junk pile and breaks toward the basket while Slash
+mercilessly punches Vinnie.  Simon steps in to protect Vinnie and punches
+Slash.  Bruiser takes a knife in the gut as he shoots.  The ball is up, but
+no!  It hits the bent rim and bounces back.
+
+Vinnie breaks free and gets the rebound.  He runs for the basket.  A swift
+left hook from Bruiser, and Vinnie crumples to the ground.  The ball rolls
+loose.  The three remaining players scramble for the ball in a fist-flinging
+free for all.  Simon comes up with the ball.  Slash pounds on Bruiser's face
+for not moving faster as Simon dribbles downcourt unguarded and shoots for
+two.
+
+No wonder the gang members nicknamed this game BasketBrawl.  To them it's
+not a game -- it's a street fight.
+
+GETTING STARTED
+
+1. With your 7800 game system switched off, insert the BasketBrawl cartridge
+into the cartridge slot as described in your owner's manual.
+
+2. Connect a controller to the left controller port.  For two player 
+BasketBrawl, connect a controller to each controller port.
+
+3. Press the POWER button on your console and switch on your TV.  The
+BasketBrawl title screen displays.
+
+4. Press a fire button to display the Options Selection screen.  Move the
+controller up or down to select a row.  Then move the controller right or
+left to choose an option on that row.  Current selections appear in yellow.
+Unavailable options appear in gray.  After you select all desired options,
+press a fire button.
+
+5. The Character Selection screen appears.  Move the controller right or left
+to move the points to the character of your choice.  The pointers are numbered
+to show which player chose which character.
+
+If you choose to play a 2-on-2 game, you choose the captain of your team.  The
+computer selects the second player on each team.
+
+6. When you have chosen a character, press a fire button.
+
+7. The Character Status screen appears.  This screen shows the characters'
+strength ratings in three categories: Health, Speed, and Power.  The more red
+appearing in a bar, the stronger that character is in that category.  Each
+category is explained in greater detail in the Playing the Game section of this
+manual.  Press a fire button to begin the game.
+
+Optional Game Controls
+
+The following optional game controls allow you to pause and restart the game:
+
+* To call a time out and pause the game press PAUSE.  Repeat to resume play
+
+* To return to the Character Description screen and restart the game with
+the previously selected game options, press RESET.
+
+* To return to the Options Selection screen to select new game options and
+begin a new game, press SELECT.
+
+PLAYING THE GAME
+
+BasketBrawl is a fast-paced basketball simulation with a twist: the players
+on each team try to knock each other cold with punches to the face.
+Meanwhile, the referee, Scott "The Blade" Savage roams the sideline throwing
+knives at players.  You can play 1-on-1 or 2-on-2, against either the computer
+or a fried.  You and a friend can also gang up on the computer.  The object
+of the game is to outscore the opposing team.  Each time you win, you are
+assigned a new challenger.  The game ends when you lose a game or get knocked
+cold.
+
+The game begins with the players at center court.  The characters controlled
+by players 1 and 2 are marked by the words 1 UP and 2 UP.  If you are playing
+a 2-on-2 game, the 7800 controls the second player on each team.  In a 
+one-player game, the 7800 controls the opposing character or team.
+
+The action starts when the ball appears.  Use the controller to move around
+the court.  Use the fire buttons to pass, jump, shoot, or fight, as described
+in the next section.
+
+Using the Fire Buttons
+
+The fire buttons provide the following actions:
+
+Left Button
+
+If your character does not have the ball, then the left button makes the
+character jump.  Jump to block a shot or get a rebound.
+
+If your character has the ball, the left button causes the character to shoot.
+A successful shot depends on the distance to the basket and the character's
+health and shooting ability.
+
+Right Button
+
+If your character does not have th ball, then thr right button makes the
+character punch in the direction he is facing.  Punching is an ideal way to
+steal the ball or protect a teammate.  If you punch a character often enough,
+that player loses consciousness and falls to the ground.  Since there are no
+substitutions in BasketBrawl, injured players are not replaced.  Putting an
+opponent out of commission makes winning that much easier, and the referee
+couldn't care less!
+
+To pass the ball to your teammate in a 2-on-2 game, quickly press and release
+the right button when your character has the ball.  If you press and hold this
+button, you will perform a power throw.
+
+A power throw is a hard throw at another player.  In a 2-on-2 game, you can
+select your target.  Hold down the right button when your player has the ball,
+then push up on the controller until the desired target character flashes.
+Release the button to throw.  A successful power throw can easily injure an
+opponent.  While you search for the correct target, action continues around
+you.  Don't let an opponent punch you and knock the ball loose.
+
+Power Ups
+
+During the course of a game, various icons representing the following power
+ups appear on the court.  Pick up an icon by running over it.  These items
+increase a character's Strength, Speed, or Power:
+
+Milk  Everybody knows that milk makes a body strong.  Picking up a glass of
+milk raises a character's Health by one point, up to the 9 point limit.  A
+player collapses when his Health reaches zero.
+
+Lightning Bolt  Speed is one of a hoopster's most important abilities.
+Fleetness of foot allows a player to catch an opponent from behind and knock
+the ball loose by punching the other guy in the head.  The fast character can 
+then get the ball and break downcourt for a quick two points.
+
+Fist  Running over a fist increases a character's Power rating.  A high
+Power rating makes it easier to knock an opponent cold with a good punch or
+power throw.
+
+CHARACTER PROFILES
+
+BasketBrawl offers a selection of six different characters, each with his
+own strengths and weaknesses.  You can increase a character's Health, Speed,
+and Power by running over power up icons.  However, each character was born
+with a certain shooting ability.  Such things are genetic.  There is no way
+to increase a character's shooting ability.
+
+Vinnie Beatiacilli was born mean.  Vinnie's father tried to soothe the boy's
+rage by enrolling him in a gym.  While training for the Golden Gloves, Vinnie
+heard about BasketBrawl.  It was a dream come true: a chance to bust heads
+without wearing those sissy boxing gloves.  His raw power and savage meanness
+make him a natural on the court.  Vinnie's favorite pastimes are watching
+Kung Fu movies and chewing on barbed wire.  Vinnie is very fast and has
+average Power, but he is so busy bashing heads that he never takes the time
+to practice his shooting.
+
+Eric "Buster" Williams had a dream.  For as long as he could remember, Buster
+Williams planned to play professional hoops.  He practiced day and night,
+seven days a week.  And he was hot!  But his practice got in the way of his
+schoolwork.  Then came the tragic accident.  Since he never went to school,
+he couldn't read the warning label on his electric razor.  When he tried to
+shave in the shower, he got the shock of his life.  Something in that surge
+of electricity turned Buster into a blood-thirst madman and a lousy shooter.
+Now he terrorizes the BasketBrawl courts, dribbling heads instead of 
+basketballs.  Buster is an average shooter.  He's not very strong, but he is
+quick.
+
+Jerome "Slash" Gordon was raised in a high-rise uptown apartment.  His mother
+is a wealthy brain surgeon.  His father made a fortune on Wall Street.  Little
+Jerome wanted nothing to do with the world of the wealthy.  He rebelled by
+joining a punk rock band and changing his name to Slash.  One night, while
+dancing the Pogo, Slash discovered his natural jumping ability.  He soon
+learned to use that skill on the BasketBrawl court.  Slash's deepest secret:
+he owns 40% of a major computer corporation and three designer neckties.  Slash
+is the best shooter in the city, but his speed and Power are merely average.
+
+Bruce "Bruiser" Johnson was born in the heart of Brooklyn and learned to be
+tough at an early age.  His mother used to steal his dessert every night.  But
+Bruiser got even.  While his mother grew fatter by the day, Bruiser worked
+out at the local gym.  One night after dinner, Mama reached for her son's jelly
+donut.  Bruiser lifted her by the ear and threatened to throw her out the
+window.  Now she always gives him her dessert.  Bruiser's hobbies include
+breaking down doors with his head and writing love poems to his kitten.
+Bruiser is more powerful than any other BasketBrawl player and has average
+speed and shooting ability.
+
+Tommy "Biff" Torrance first surfed when he was knee high to a sea lion.
+Growing up in Southern Cal was like living in Paradise.  Then his dad got
+transferred to New York.  At first, Biff was, like, totally stoked.  He thought
+Long Island would be surrounded by gnarly waves.  When he hit the city, he
+was bummed to the max.  Where Biff thought he'd find surf, he found asphault
+and boredom.  So he joined a gang.  The other gang members put him down because
+he said "Dude" instead of "Yo."  Then they saw him play basketball.  He could
+dribble, shoot, and throw elbows with the best the city had to offer.  Now,
+thanks to BasketBrawl, Biff no longer sits at home watching old Frankie and
+Annette movies.  Even though Biff's grandma can run faster than he can (and
+she's been dead for years), he has good Power.  He is also an average shooter.
+
+Simon Smartguy grew up believing he had no athletic ability.  That is, until
+the day he tried a physics experiment.  With his slide rule, compass, pocket
+calculator, and various other school tools, he discovered that the trajectory
+of a basketball is exactly equal to its velocity times the barometric pressure,
+divided by the square root of the wind chill factor.  Now he can shoot like a
+pro.  He also enjoys measuring the amount of force a BasketBrawl player's
+face has in relation to Simon's right hook while both players run at full
+speed directly toward each other.  In his spare time, Simon is writing a book
+about the science of basketball, called The Free Throw: Fact or Friction.
+Simon's calculations paid off: he is a good shooter with average power.
+Unfortunately, Advanced Calculus doesn't help him run very fast.
+
+STRATEGY
+
+Learn to exploit each character's strenghts and weaknesses.  Knowing the
+abilities of your teammates and opponents will help you with your game plan.
+
+If you fall behind, start throwing punches.  When you are on the offense,
+note that the best defense is a dead defense.
+
+If you knock your opponent out of the game, listen for the power up sounds
+while you roll up the points.  Picking up icons will make you stronger for the
+next game.
+
+Learn to pass in 2-on-2 games.  No defense is ever prepared for a fast break.
+
+Avoid the Blade's knives.  A knife in the gut can ruin a perfectly good layup.
+
+SCORING
+
+BasketBrawl scoring is just like basketball.  A successful shot is worth
+two points.  There are no three-point shots.  In addition, players receive
+points for various BasketBrawl activities, as shown in the table below:
+
+Action                              Points
+Successful punch......................10
+Picking up fist, milk, or lightning...20
+Making a basket.......................50
+Winning a game.......................250
+
+The total score appears on the Status screen.
+
+ATARI(R)
+Copyright (C) 1990, Atari Corporation
+Sunnyvale, CA  94089-1302
+All rights reserved.
+
+Printed in Hong Kong.  G.C. 8.1990    C300018-080 Rev. A
+
+
+
+

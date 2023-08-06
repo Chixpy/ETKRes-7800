@@ -1,0 +1,382 @@
+<page 1, cover>
+                              DOUBLE DRAGON
+
+
+ <Urban setting.  Picture of Billy and Jimmy Lee, with whips and knives.   
+ Thugs in the background harrassing a lady.  The shadow of a man holding 
+                   an uzi is illuminated by the moon.>
+
+
+
+
+                                          *#1 ARCADE HIT!*
+
+                Activision      FOR THE ATARI(r) 7800(tm)
+
+
+<page 2>
+
+Double Dragon
+
+Developed by Imagineering, Inc.
+Directed by Alex DeMeo.
+Programmed by Tommy Han.
+Artwork by Jesse Kapili.
+Audio by Alex DeMeo.
+Produced by Perry Rodgers.
+Product testing by Steve Imes, Garry Barth, and Mike Norton.
+Product management by John Crompton.
+Player's Guide by Hunter Cone.
+
+For a recorded message about our newest software, call 415 329-
+7699.  For technical help, call Product Support between 9:00 a.m.
+and 4:30 p.m. Pacific time Monday through Friday:  415 329-7699.
+
+For information about our products, write to:
+
+                             Product Support
+                                Activision
+                              P.O. Box 3048
+                          Menlo Park, CA  94025
+
+For the best service, be sure to note the subject of your inquiry on
+the outside of the envelope.
+
+
+                          Copyright Notice
+
+This software product is copyrighted and all rights are reserved
+by the copyright holder.  The distribution and sale of this product 
+are intended for the use of the original purchaser only and for use
+only on the computer system specified.  Copy or duplicating 
+this product for sale or other distribution without the express
+written permission of the copyright holder are violations of U.S.
+Copyright Law and are hereby expressly forbidden.
+
+Player's Guide (c) 1989 Activision.  All rights reserved.
+
+(c) TECHNOS Japan Corp.
+
+ATARI is a registered trademark, and 2600 and 7800 are trade-
+marks of ATARI CORPORATION.
+
+
+<page 3>
+
+Table of Contents
+
+ The Ultimate Challenge..............................5
+ 
+ Loading Instructions................................5
+
+ The Battle Begins...................................5
+
+ Fighting Controls...................................6
+
+ Fighting It Out.....................................7
+
+    Watch Your Strength..............................7
+
+    Scoring..........................................8
+ 
+    Scenes of Battle.................................8
+
+ Battle Strategy.....................................9
+
+
+<page 4 is blank>
+
+
+<page 5>
+
+The Ultimate Challenge
+
+Twin brothers Billy and Jimmy Lee learned to fight the
+hard way -- for survival in the unforgiving city streets.
+Their brand of combat -- classic martial arts maneuvers
+mixed with anything-goes street brawling -- has turned
+them into walking lethal weapons.
+
+Now, the Lees must summon all their fighting abilities and
+cunning into meeting the greatest challenge of their lives
+-- rescuing Billy's girlfriend, Marion.  She's been kidnap-
+ped by the Black Warriors, the savage street gang led by
+the mysterious Shadow Boss.
+
+The twins pursue the Black Warriors through the city
+streets and its outskirts.  Finally they fight their way into
+the Secret Enemy Base.  There, Billy and Jimmy meet the
+Shadow Boss.  It's a battle to the finish, with Marion as the
+prize!
+
+
+Loading Instructions
+
+  1.  With your TV off, hook up your video game system
+      to your TV.
+
+  2.  Plug in your joystick.  If you're playing a one-
+      player game, use the jack on the left.
+
+  3.  Turn on your TV, and insert the Double Dragon car-
+      tridge with the label facing away from you.
+
+  4.  Turn on the video game system.
+
+
+The Battle Begins
+
+Either one or two players can battle it out against the
+Shadow Boss's henchmen.
+
+
+<page 6>
+
+Press the Select button on the console or move the joystick
+to choose which game you want to play.
+
+Press the Reset button or the joystick button to start the 
+game.
+
+Press the Reset button during the game to stop playing
+and start a new game.
+
+
+Fighting Controls
+
+There are several fighting moves.  Use the joystick and joys-
+tick button as described below to activate these blows.
+
+    => Punch:  Press the left button.
+
+    => Elbow Punch:  Move the joystick diagonally up
+       and to the right and press the left button to throw a
+       left elbow punch, and diagonally up and to the left
+       and press the left button to throw a right elbow 
+       punch.  You'll throw the elbow punch in the oppo-
+       site direction from the one you're facing.
+
+    => Jump:  Move the joystick up and press the right
+       button.
+
+    => Kick:  Press the right button.
+
+    => Jump Kick:  Move the joystick up and press the 
+       right button once to jump and again to kick.
+
+    => Reverse Jump Kick:  Move the joystick down 
+       diagonally toward the direction you are facing and
+       press the right button.
+
+    => Head Butt:  Tap the joystick twice toward the
+       direction you are facing
+
+You can also maneuver around the fighting area by mov-
+ing the joystick around.
+
+
+<page 7>
+
+Weapons
+
+In some battles, the Black Warriors have weapons:  bats,
+whips, and knives.
+
+To knock weapons out of an enemy's hands, punch or
+kick him.
+
+To pick up a weapon, stand over it and punch.  (Press the
+left button.)
+
+
+Fighting It Out
+
+   => Each player's score, remaining lives, and strength
+      bar are displayed above the fighting screen.  Re-
+      maining units of time and the current high score are
+      also shown.
+
+   => You get 70 units of time to make it through each of
+      the first and second missions.  You get 90 units of
+      time to make it through each of the third and fourth
+      missions.  In the middle of the third mission, the
+      timer is reset to 90 units of time.  
+
+
+Watch your Strength
+
+When you begin the fight, your strength bar is full.  As
+you fight and receive blows, your strength is reduced.
+When the strength bar is empty, that life is over.  When the
+number of lives remaining is 0 and the strength bar has 
+been drained, the game is over.
+
+After each mission you complete (and halfway through
+the third mission), your strength bar is refreshed, but you
+don't earn more lives.  You must get to the Shadow Boss's
+Enemy Base on your original 3 lives.
+
+
+<page 8>
+
+Scoring
+
+The score is based on the kicks and punches you land and
+the types of weapons you use:
+
+            Action                   Points
+            Punch                    50
+            Kick                     100
+            Elbow                    180
+            Jump Kick                200
+            Head Butt                200
+            Bat                      200
+            Whip                     200
+            Knife                    500
+
+
+Scenes of Battle
+
+Billy and Jimmy Lee clash with the Black Warriors in four
+different areas.  The going gets tougher as the tough get
+going.
+
+      Mission 1:  City Slums
+
+      Mission 2:  Industrial Areas
+  
+      Mission 3:  Outskirts of the City
+ 
+      Mission 4:  The Enemy Base of the Shadow Boss
+
+
+<page 9>
+
+Battle Strategy
+
+   => You can't drop your weapon, but it can be taken
+      away from you during the heat of battle.  Keep your
+      distance while slugging it out.
+
+   => Don't squander your lives early on!  You'll defi-
+      nitely need all your strength once you're locked in     
+      battle with the Shadow Boss.
+
+   => Keep an eye on the timer.  If your time runs out
+      before you polish off your opponent, you lose a life.
+      If it's your last life, the game is over.
+
+
+<page 10>
+
+                    ACTIVISION LIMITED 90-DAY WARRANTY
+B
+
+Activision warrants to the original consumer purchase of this computer
+software product that the recording medium on which the software
+programs are recorded will be free from defects in material and work-
+manship for 90 days from the date of purchase.  If the recording medium
+is found defective within 90 days of original purchase, Activision agrees
+to replace, free of charge, any product discovered to be defective within
+such period upon receipt at its Factory Service Center of the product,
+postage paid, with proof of date of purchase.
+
+This warranty is limited to the recording medium containing the software
+program originally provided by Activision and is not applicable to
+normal wear and tear.  This warranty shall not be applicable and shall be
+void if the defect has arisen through abuse, mistreatment, or neglect.  Any
+implied warranties applicable to this product are limited to the 90-day
+period decribed above.  EXCEPT AS SET FOR ABOVE, THIS
+WARRANTY IS IN LIEU OF ALL OTHER WARRANTIES, WHETHER
+ORAL OR WRITTEN, EXPRESS OR IMPLIED, INCLUDING ANY WAR-
+RANTY OF MERCHANT ABILITY OR FITNESS FOR A PARTICULAR
+PURPOSE, AND NO OTHER REPRESENTATION OR CLAIMS OF ANY
+NATURE SHALL BE BINDING ON OR OBLIGATE ACTIVISION.  IN
+NO EVENT WILL ACTIVISION BE LIABLE FOR SPECIAL, INCIDEN-
+TAL, OR CONSEQUENTIAL DAMAGE RESULTING FROM POSSES-
+SION, USE, OR MALFUNCTION OF THIS PRODUCT, INCLUDING
+DAMAGE TO PROPERTY AND, TO THE EXTENT PERMITTED BY
+LAW, DAMAGED FOR PERSONAL INJURY, EVEN IF ACTIVISION
+HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+SOME STATES DO NOT ALLOW LIMITATIONS ON HOW LONG AN
+IMPLIED WARRANTY LASTS AND/OR THE EXCLUSION OR
+LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO
+THE ABOVE LIMITATIONS AND/OR EXCLUSION OR LIMITATION
+OF LIABILITY MAY NOT APPLY TO YOU.  THIS WARRANTY GIVES
+YOU SPECIFIC LEGAL RIGHTS, AND YOU MAY HAVE OTHER
+RIGHTS WHICH VARY FROM STATE TO STATE.
+
+
+<page 11>
+
+                          RETURNS 
+
+Products returned must have been defective within 90 days
+of original purchase.
+
+U.P.S. or registered mail is recommended for returns.  For
+the best service, please be sure to:
+
+      1.  Send the cartridge and sales receipt only.
+
+      2.  Write the name of the product and the type of game
+          system you have on the front of the package.
+
+      3.  Enclose a note explaining the problem you've had
+          with the product, and stating your return address,
+          typed or printed clearly, inside the package.
+
+Send to:
+    
+       WARRANTY REPLACEMENTS
+       Activision
+       P.O. Box 3047
+       Menlo Park, CA  94025
+
+
+
+<back cover>
+
+
+
+
+
+
+
+
+
+
+
+                                   ACTIVISION
+                                   AM-050-03
+
+
+
+
+********END OF MANUAL**********************************
+
+<on a card, inserted with the instruction manual>
+
+                        ATTENTION!
+           CORRECTIONS TO DOUBLE DRAGON (7800)
+                  INSTRUCTION MANUAL
+
+Credits
+  Product Testing by Steve Imes and Gary Barth.
+
+Fighting Controls (Page 6)
+  Head Butt:  Move the joystick down and press the left button.
+
+Watch Your Strength (Page 7)
+  You will earn an extra life every 50,000 points.  Therefore, it
+  is not imperative that you reach the Enemy Base of the
+  Shadow Boss on your original three lives.
+
+Scoring (Page 8)
+  Jump Kick:  100 points
+  Reverse Jump Kick:  200 points                   AM-050-09
+
+
+
+

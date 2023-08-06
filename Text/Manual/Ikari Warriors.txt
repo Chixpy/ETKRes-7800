@@ -1,0 +1,229 @@
+<picture of two guys with guns blazing, fire all around them and
+helicopters overhead>
+
+                        Atari(r) 7800(tm) Game Manual
+
+
+                                    IKARI(tm)
+                                   WARRIORS
+
+
+
+Jungle Warfare!
+
+You are a member of those elite combat specialists, the Ikari Warriors.  Your 
+buddy and you are on a special mission behind enemy lines, and you've been 
+sleeping, eating, and breathing jungle combat for the last two weeks.  You're 
+tired, but that never affects your razor-sharp judgment and your will to 
+survive.  
+
+Your main weapons are machine guns, grenades, and your own cunning in the face 
+of danger.  Sometimes you'll have a tank at your disposal, which comes in 
+handy when enemy fire is particularly brutal.  
+
+You move swiftly through the jungle, wading through rivers and resting from 
+time to time within the ruins of bombed-out buildings.  You're running out of 
+ammunition and grenades, but you know the battle can't last forever.  Sooner 
+or later, one side is going to emerge victorious.  Let's just hope it's yours!
+
+
+Getting Started
+
+1.  With your TV switched on, insert the Ikari Warriors cartridge into your 
+    Atari 7800 as described in your owner's manual.
+
+2.  Connect a controller to the left controller port.  In two-player Ikari 
+    Warriors, connect a controller to each controller port.  
+
+3.  Switch on your console.  The Ikari Warriors title screen appears.
+
+4.  To select one or two-player Ikari Warriors, press SELECT or move the 
+    controller up and down to highlight the desired option.  To select the 
+    highlighted option, press the fire button or RESET.
+
+    To select the Novice, Intermediate, Advanced, or Expert difficult level, 
+    press SELECT or move the controller up and down to highlight the desired 
+    option.  The more difficult the level, the more enemies appear on the 
+    screen and the faster those enemies move to attack.  
+
+    To select the highlighted option and begin the game, press the fire button 
+    or RESET.
+
+
+Optional Game Controls
+
+The following optional game controls allow you to pause and restart the game:
+
+*   To pause the game press PAUSE.  Repeat to resume play.
+
+*   To return to the opening screen and restart the game with the currently 
+    selected options, press RESET.
+
+
+Playing the Game
+
+Ikari Warriors is a one or two player game of survival.  You and your partner 
+move behind enemy lines in hopes of wiping out the enemy.  You begin the game 
+with 50 grenades, 99 rounds of ammunition and 3 lives.  If you're lucky you 
+can capture a tank to protect you from enemy fire.
+
+Move your controller to maneuver through the jungle.  Your main weapons are 
+machine guns and grenades.  To fire bullets and tank shells, press the left 
+fire button.  To toss grenades, press the right fire button until the grenade 
+launches.
+
+Watch your bullet and grenade supplies carefully.  Pick up new supplies before 
+you run out.  To pick up new supplies, simply walk over a supply icon.  Other 
+icons upgrade your fire power.  (See Items.)
+
+The tank, which moves only on dry land, provides safety from enemy fire.  To 
+enter the tank, move your player onto the top of the tank and press the right 
+fire button.
+
+Although the tank can be destroyed by enemy grenades, you cannot be hit as 
+long as you are in the tank.  If the tank sustains damage and stops, get out 
+of there!  If the tank explodes while you are inside, you go with it.  To exit 
+the tank, press the left and right fire buttons simultaneously.  
+
+You can swivel the turrent while maintaining the tank's position and 
+orientation.  Hold down the right button while you move the controller. The 
+turrent will move, but the tank will not.  Press the left button to fire shots 
+from the tank.
+
+You must pick up fuel along the way to keep the tank moving.  The tank 
+explodes if it runs out of gas, so don't miss the energy supply icons!
+
+In your journey through the jungle, you will occasionally encounter a river or 
+the sea.  You will have to cross the water in order to continue, but your 
+movement will be slowed down while you are in the water.  You can still fire 
+while you are in the water.
+
+If you come into physical contact with an enemy soldier you lose a life.  You 
+can hide behind rocks and rubble to avoid enemy gunfire.  However, you will 
+still be vulnerable to their grenades, so watch out!
+
+Each time the enemy makes a successful hit, you lose a life.  You receive a 
+bonus life every 20,000 points.  The game is over when you lose your last 
+life.
+
+To win the game, you must rescue the colonel being held captive by the enemy.  
+You receive one million points for rescuing him.
+
+
+Screens
+
+Game play takes place on the Action screen.  The Status bar displays game 
+information.
+
+            Tank Fuel    Lives Remaining        Lives Remaining
+Status            |               |     High Score      |    Bullets        
+ | Bar            v               |         |           |      |
+ |   /        E******* F          v         v           v      v
+ |---|   |->   /----  99   1 UP-  1   HI-SCORE   2 UP-  0 99 /----
+     \   |       #    01        100      30000        300 00   #
+         |       ^         ^      ^               ^     ^      ^
+      Bullets    |         |      |               |     |      |
+              Grenades   Player   |             Player  |    Grenades
+                          1      Player 1         2   Player
+                                 Score                2 Score
+
+Bullets displays the number of rounds remaining.
+
+Grenades displays the number of grenades remaining.
+
+Lives remaining displays the number of lives you have left.
+
+High Score displays the highest score achieved during that play session.  The 
+default high score is 30,000, which appears whenever you begin a new play 
+session.
+
+
+Items
+
+Pick up Grenade Supplies, Bullet Supplies, and Energy Supplies by walking over 
+their icons.  Super Bullets, Range, Super Grenades, and Super Bomb take effect 
+when you walk over their icons.
+
+----- Super Bullets increase the strength of the bullets in your inventory.  
+| F | Super Bullets can shoot through rocks and walls, and blow up tanks and 
+----- bunkers.  If you lose a life after picking up Super Bullets, the damage 
+      caused by the bullets in your inventory returns to normal.
+
+----- Range doubles the range of your bullets and tank shells during the 
+| L | current life.  If you lose a life after picking up Range, your bullet 
+----- and tank shell range returns to normal.
+
+----- Super Grenades increase the strength of the grenades in your inventory.  
+| B | If you lose a life after picking up Super Grenades, the damage caused by 
+----- the grenades in your inventory returns to normal.
+
+----- Super Bomb destroys all enemies shown on screen.  Be sure there are 
+| K | enemies displayed on the screen before you walk over the bomb.
+-----
+
+----- Special Bonus gives you a bonus of 200 points.
+| S |
+-----
+
+----- Grenade Supply adds 50 grenades to your inventory.
+| # |
+-----
+
+----- Bullet Supply adds 50 bullets to your inventory.
+|/--|
+-----
+
+----- Energy Supply fills up your gas tank and adds 99 bullets and 50 grenades to 
+| @ | your inventory.
+-----
+
+
+Strategy
+
+Conserve bullets and grenades.
+
+Plan your attack carefully.  Dash in quickly, shoot, and back off before the 
+enemy has a chance to aim and shoot back!
+
+If you come into contact with an enemy soldier you lose a life.
+
+Learn enemy locations and anticipate enemy attacks.
+
+Tanks can be very destructive, especialy when they run out of fuel. Keep an eye
+on the fuel level, and be ready to bail out when the tank is close to empty.
+
+
+Scoring
+
+The following table shows the number of points you will receive for destroying 
+enemy units and rescuing the colonel.
+
+Enemy soldier......................................100/200
+Bunker.................................................600
+Helicopter.............................................600
+Enemy tank.............................................600
+Gate..................................................1000
+Rescuing the colonel.............................1,000,000
+
+
+
+                                     |||
+                                    / | \
+                                    ATARI(tm)
+
+Atari Corporation is unable to guarantee the accuracy of printed material 
+after the date of publication and disclaims liability for changes, errors, or 
+omissions.  Reproduction of this document or of any portion of its contents is 
+not allowed without the specific written consent of Atari Corporation.
+
+Atari, the Atari logo, and 7800 are trademarks or registered trademarks of 
+Atari Corporation.  Ikari Warriors is a trademark of SNK Corporation.
+
+Copyright (c) 1987, SNK Corporation.
+
+Copyright (c) 1990, Atari Corporation, Sunnyvale, CA  94089-1302.
+                                                       All rights reserved.
+
+Printed in Hong Kong.                     G.C.  6. 1990  C300018-062 Rev. A
+
+

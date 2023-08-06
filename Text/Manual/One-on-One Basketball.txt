@@ -1,0 +1,197 @@
+Jump! Shoot! Score!
+
+You're out on a dream court for a hot game of One-on-One. You're the Bird.
+Or you're Dr. J. And that's the last decision you'll have much time to
+make.
+
+You can play against the computer of challenge a friend. Your
+capabilities -- and your opponent's -- will be just like those of All-Stars
+Larry Bird and Julius (Dr. J) Erving. The computer knows their shooting
+percentages (guarded and unguarded) and their pet shots. Your scoring
+ability will depend on your timing, how effectively you're being guarded,
+and where you're shooting from.
+
+Like the game of basketball itself, One-on-One rewards you for playing with
+your head as well as your hands. Master the joystick moves, sharpen your
+timing, hone your reflexes until you can handle the Pro level... and don't
+let the other guy out-think you.
+
+Getting Started
+
+1.  Insert the One-on-One Basketball cartridge into your ATARI 7800
+    Pro-System as explained in your owner's manual.
+
+2.  For one player, plug your joystick into the left controller jack. For
+    two players, plug a second joystick into the right controller jack.
+
+3.  Press the [Power] button to turn on your console. In a few moments the
+    title screen appears, followed by the Game Options Menu.
+
+4.  Select your options (see Game Options). Select one of the Play Ball
+    options last; this starts the game. (To start the game immediately
+    without selecting options, press the left joystick button.)
+
+5.  Press [Select] for slow-motion play; press it again to resume normal
+    play.
+
+6.  Press [Pause] to pause a game; press it again to resume play.
+
+7.  Press [Reset] to redisplay the Options Menu. and start a new game.
+
+Game Options
+
+Each time you start a One-on-One session, the Game Options Menu appears.
+This is where you choose your game-play options. Move your joystick handle
+forward or back to move from line to line on the menu. Push the handle
+right or left to move from option to option on a line. The option you're on
+will flash; select it by pressing either joystick button.
+
+PLAY BALL -- You can choose to resume the last game, play a new game, or
+watch a demonstration game. Select an option from this line after selecting
+options from all other lines, since pressing a joystick button here starts
+the game.
+
+SELECT GAME -- Choose your game level: Park & Rec, Varsity, College, or
+Pro. Shots are easiest to block and make at the Park & Rec level, hardest
+at the Pro level.
+
+PLAY MODE -- Choose a two-player game, or choose to play against Dr. J or
+Larry Bird. The computer becomes the All-Star listed; you take on the role
+of the other Star.
+
+SELECT END OF GAME -- Choose to play for a set amount of time, or to a set
+score. If you choose "Timed game," a Timed Game screen appears. You'll then
+choose how long the quarters will be: two, four, six, or eight minutes.
+
+If you choose "Play to set score," a Play to Set Score screen appears.
+Select either a traditional 21-point game, or set your own game score. If
+you select "Play to XX points," a score will appear on the bottom of the
+screen. Push the joystick handle left to reduce the score, or right to
+increase it.
+
+POSSESSION -- "Winner's outs" means that the player who just made the
+basket will stay on offense. "Loser's outs" means that the other player
+will receive the ball.
+
+Playing the Game
+
+Move the joystick handle to move your player around the court. The player
+moves in the same direction you move the handle.
+
+When you have possession of the ball, you can press the right joystick
+button to call time out (up to three times per player per game). A time out
+lasts several seconds, then game play resumes automatically.
+
+Offense
+
+Press the left joystick button to start a jumpshot. Release it to shoot the
+ball towards the basket. A quick press on the button causes you to spin 180
+degrees.
+
+If the shot clock (upper right corner of screen) runs down before you shoot,
+a turnover results.
+
+Defense
+
+When the offensive player is dribbling, press your left joystick button to
+go for a steal.
+
+When the offensive player is shooting, press your left button to block the
+shot.
+
+When the shot is in the air, press your left button to go for the rebound.
+If you get the rebound, you must take the ball out beyond the free throw
+line before you shoot.
+
+Illegal Moves
+
+Offense loses the ball for:
+
+Travelling -- failure to release the ball during a jump.
+Charging -- running into the defensive player when he's standing still.
+Failing to shoot before the shot clock reaches zero.
+
+Defensive fouls are:
+
+Hacking -- hitting the offensive player.
+Blocking -- physically moving into the offensive player.
+Reaching in -- going for the steal but fouling instead.
+
+If the defensive player has committed fewer than five fouls, the offensive
+player gets the ball out of bounds and the shot clock is reset. If the
+defensive player has committed five fouls or more, the offensive player
+goes to the free-throw line. He shoots one free throw; if he makes it, he
+shoots another.
+
+If the defensive player fouls while the offensive player is shooting, and
+the basket is good, the offensive player goes to the free-throw line for
+one free throw. If the offensive player didn't make the basket, he gets two
+free throws.
+
+When the ball goes out of bounds, the shot clock is reset and play resumes
+at the top of the free-throw circle.
+
+Fatigue and Hot Streaks
+
+Continuous running and jumping tires out a player. Dribbling slowly and in
+place gives some energy back to both players. Calling time out gives a full
+rest to both players.
+
+Energy loss and gain are reflected in each player's Fatigue Bar (Dr. J's is
+lower left of screen; Bird's is lower right). The longer the bar, the more
+fatigued the player. Tired players don't move as quickly as fresh or rested
+players, and they don't defend or shoot as well.
+
+There's no Hot Streak bar. But the opportunity to get hot, to shoot four or
+five baskets in a row and then make a shot from anywhere, is built into the
+game. You'll have to feel when it's happening to you, and act accordingly.
+
+Instant Replays and Shattering Backboards
+
+Sometimes you'll make an especially nice play and the computer will agree
+by freezing the action and showing you a slow-motion instant replay. You'll
+also be pleased with yourself when a particularly ferocious dunk shatters
+the backboard!
+
+Scoring
+
+Just like pro ball!
+
+Basket made from behind the 3-point line        3 points
+Regular basket                                  2 points
+Free-throw basket                               1 point
+
+All-Star Strategy
+
+As Dr. J, you're a step quicker when driving to the basket. When you're in
+close, your moves are fancier; you can stretch higher and farther, you can
+hang in the air longer.
+
+As the Bird, you're bigger and stronger so you're a better rebounder. Your
+defensive game is more physically intimidating. You've also got the better
+outside shot.
+
+Dribble with your back to the other player, making it harder for him to
+steal the ball.
+
+Shoot while jumping away from the basket -- "fall-away" shots are harder to
+block.
+
+Get between the other player and the basket when going for a rebound.
+
+Atari Corporation is unable to guarantee the accuracy of printed material
+after the date of publication and disclaims liability for changes, errors,
+or omissions. Reproduction of this document or any portion of its contents
+is not allowed without the specific written permission of
+Atari Corporation.
+
+Atari and 7800 are trademarks or registered trademarks of
+Atari Corporation. One-on-One Basketball is a trademark of Electronic Arts.
+
+Copyright (C) 1983, Electronic Arts. All rights reserved.
+Copyright (C) 1987, Atari Corporation, Sunnyvale, CA 94086. All rights
+reserved.
+Printed in Hong Kong
+
+CO24857-24 Rev. A       B.T.5.1988
+

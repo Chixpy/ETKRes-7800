@@ -1,0 +1,338 @@
+
+SUPER GAME
+ATARI(R) 7800(TM) Game Manual
+SUMMER GAMES(TM)
+by Epyx(R)
+
+INTRODUCTION
+
+Experience the power, the glory, the thrill and the challenge of the world's
+greatest athletic competition: the SUMMER GAMES!
+
+The awe-inspiring OPENING CEREMONY focuses on 3,000 years of noble tradition
+as you proudly look on, ready to give your very best to honor your country.
+
+This is the moment you've worked and trained so long to achieve, to test your
+skill under pressure against the best of the world's athletes.  You will try
+to excel in a whole spectrum of sports events - in track and field, swimming
+and diving, gymnastics, and skeet shooting.
+
+Boldness.  Skill.  Strategy.  Determination.  The marks of the true champion.
+If you are victorious, you'll receive the champion's prize - the coveted GOLD
+MEDAL - before the cheering multitude.  Your triumph might even go down in
+history as the greatest personal performance ever!
+
+Seize the moment!
+Prepare for the ultimate challenge!
+Taste the fruits of hard labor.
+Give it your best and GO FOR THE GOLD!
+
+OBJECTIVES
+
+SUMMER GAMES offers a variety of sports competitions for 1 to 8 players.  It
+challenges you with six realistic events in swimming, track, gymnastics, and
+diving.
+
+Represent one of 18 countries as you compete in each event.  Try to win the
+most medals for the whole lineup of events!  SUMMER GAMES keeps score,
+provides judges, and awards medals to the winners.  As you get better, try to
+set new performance standards.
+
+So, get in shape and try to beat the best.  The whole world is watching you!
+
+GETTING STARTED
+
+1. Insert the SUMMER GAMES Cartridge into your Atari 7800 as explained in your
+owner's manual.
+
+2. Plug a controller into the left controller jack.  This is Player 1's
+controller.  For two or more players, you may plug a second controller into
+the right controller jack.
+
+3. Turn on your television, then press the POWER button to turn on your
+console.  The SUMMER GAMES Opening Ceremonies will appear.
+
+4. Press RESET or the left controller button to enter the Main Menu.
+
+STARTING PLAY
+
+A spectacular opening ceremony welcomes you to the International SUMMER GAMES.
+A runner arrives to light the traditional flame and white "peace doves" are
+released over the stadium.
+
+After the opening ceremony a menu screen offers you a choice of six options.
+To make your selection, use your joystick of the SELECT key to move the cursor
+to your choice, then press the Fire button or RESET.
+
+OPTION 1: COMPETE IN ALL THE EVENTS
+
+Players compete in the complete series of events, in this order:
+Diving, 4x400-Meter Relay, 100-Meter Dash, Gymnastics, Freestyle Relay, and
+100-Meter Freestyle.
+
+* Players will first be asked to enter their names.  Use the joystick and Fire
+button to select.  Select [END] to continue.
+
+* Push the joystick to move the cursor to one of the flags, then press the
+Firs button to pick that country.
+
+* Repeat name and country selection for each player.  When all competitors are
+finished select [END] and press the Fire button.
+
+OPTION 2: COMPETE IN SOME EVENTS
+
+Similar to OPTION 1, but you only compete in the events you pick.
+
+* Use the joystick to choose the events, then press the Fire button to select.
+An asterisk will appear by the event's name.  Select GO COMPETE to begin play.
+
+OPTION 3: COMPETE IN ONE EVENT
+
+Similar to OPTION 1, but you only compete in the event you pick.
+
+* Use the joystick to choose the event, the press the Fire button.
+
+OPTION 4: PRACTICE ONE EVENT
+
+* Use the joystick to choose the event, the press the Fire button.  NO MEDALS
+ARE AWARDED FOR PRACTICE ROUND SCORES.
+
+OPTION 5: NUMBER OF JOYSTICKS (1 or 2)
+
+* Select 1 or 2 by pressing the Fire button.
+
+* If you have only one joystick, plug in into the left port and select 1.
+
+* If you have two joysticks, plug them both in and select 2.  This will let
+two players compete head to head in the swimming and running events.
+
+OPTION 6: OPENING CEREMONIES
+
+* Repeats the opening ceremonies.
+
+THE GAMES
+
+DIVING
+
+Stand on a platform 30 feet above the water.  Feel the tension rise as the
+crownd watches your every move.  It's time to show your "best stuff" with four
+tricky dives: forward, backward, reverse and inward.  As you take the plunge,
+remember: Form is Everything!
+
+* Press the Fire button to take off from the diving board.
+
+* Use the joystick to control your body position and rotation speed.  Push the
+stick:
+   * RIGHT for a full-tuck position, and the fastest rotation.
+   * BACK for a pike position, and the second-fastest rotation
+   * LEFT for a half-pike position, and slower rotation.
+   * FORWARD for a layout position, and the slowest rotation.
+
+* After every dive, the Judges' scores appear in boxes across the center of
+the screen.  A dive is considered perfect (for a score of 10 points) if the
+body enters the water vertically and fully extended, either head- or
+feet-first.  Any deviation from this ideal entry position costs you points,
+with a minimum score of zero.
+
+* A second scoring factor is the Difficulty Rating, based on the number of 
+rotations and different positions achieved in a dive.  This Rating starts at
+1.0, and can go as high as 4.1, increasing with the complexity of the dive.
+
+* The total points for each dive are calculated by eliminating the high and
+low Judges' scores and multiplying by the Difficulty Rating.
+
+* To get a high score, attempt the most difficult dive you can successfully
+perform.  Easy dives get low Difficulty Ratings; complex dives may earn low
+scores if they are executed poorly.  Remember both of the factors used in
+scoring this event.
+
+* Three status displays give you this information:
+   * A DESCRIPTION screen names the next dive you are to perform.
+   * A DIVE RATING screen indicates the score for your performance.
+   * A CURRENT STANDINGS screen shows the total points won by all the
+   competitors in this event.
+  Press the Fire button to change screens.
+
+* The winner of this event is the competitor who scores the most points for
+the four dives.
+
+4x400-METER RELAY
+
+It takes speed, pacing, AND perfect teamwork from all four runners on your
+relay team to win this exciting race.  Be sure to watch their vital signs
+closely - a collapse could be a disaster.  And remember, don't fumble the
+baton! 
+
+* Press the Fire button to set your first runner at the starting line.
+
+* When both runners are in place, watch the countdown: "MARK...SET..."  The
+starting gun fires. "...GO!"
+
+* Move the joystick to the RIGHT to start running.
+   A false start means the countdown begins again.  Be careful - two false
+   starts disqualify you.
+
+* Move the joystick to control your runner's speed:
+   CENTER for normal running.
+   LEFT for "coasting."
+   RIGHT for "sprinting." 
+
+* Pacing is crucial in this event, so watch the gauge at the bottom of the
+screen to monitor your runner's energy reserves.  When the bar is long and
+white, your runner has plenty of energy.  As the bar disappears your energy is
+depeleted.
+   Control your runner's speed to move them as fast as possible without
+   becoming exhausted.  They lose energy while sprinting and regain it while
+   "coasting."
+   * If a runner tries to sprint with little or no energy left, his
+   performance will drop off sharply.  Make the runner coast to reduce his
+   speed and regain energy (but don't let him fall too far behind!).
+
+* Each of your runners has a different amount of stamina.  Learn their
+individual traits in order to decide how to control their pace.
+   * All runners tire more quickly in the first part of their "leg" (or turn)
+   than they do in the second part.  Runner one can't regain his energy as
+   fast as runner four can, while runner two loses energy faster than runner
+   three.
+
+* To pass the baton, press the Fire button.  Time the pass for the moment when
+both runners are close to each other, otherwise, you'll lose precious seconds
+while your progress stops.
+
+* When your fourth runner crosses the finish line, your race time will appear
+in place of your name.
+
+* The winner of this event is the team with the best time.
+
+100-METER DASH
+
+All-out SPEED is the key to winning this race!
+
+* Press the Fire buttong to set your runner at the starting line.
+
+* When the race begins, increase your running speed by jiggling the joystick
+as rapidly as you can, either side-to-side or up and down.
+
+* The winner of this event is the runner who crosses the finish line with the
+best time.
+
+GYMNASTICS
+
+This is the supreme test of grace and precision.  Strive for a performance of
+athletic artistry as you vault from a springboard to the horse, then to the
+floor.  The crowd will really appreciate your attention to form!
+
+* Press the Fire button to get set.
+
+* Release the button to start your run.
+
+* Press the button again to jump onto the springboard.
+   * You will get a more powerful vault nearer the edge of the board.  Jumping
+   too soon or too late will make you miss the board entirely, and you will
+   have to start again.  A second miss will disqualify you from the round.
+
+* Hold the joystick RIGHT or LEFT as you leave the springboard to perform a
+180 degree axial body twist.  This maneuver increases the difficulty of your
+performance and makes a higher score possible (if you successfully complete
+your attempt).
+
+* Press the Fire button to push off the horse.  The most powerful push-off
+occurs when the body is nearly vertical
+   * In the air, move the joystick to control body position and rotation
+   speed:
+      * FORWARD for a full-tuck position, at fast rotation.
+      * CENTER for a layout position, at medium rotation.
+      * BACK for a landing position, at slow rotation.  You must be in this
+      position for a correct landing.
+
+* The scoring is based on both execution and difficulty, and is displayed
+after your landing.
+   * EXECUTION is considered perfect if you land completely upright on your
+   feet.  In a near-perfect landing, you take a step.  Use the joystick to
+   straighten up, by pushing it in the opposite direction that your gymnast is
+   leaning.  By making this last-second correction, the landing will be judged
+   successsful, with only a slight penalty.  If your gymnast falls there will
+   be a greater score penalty.
+   * DIFFICULTY is judged by the number of different maneuvers performed in
+   mid-air.  Scores are lowered by poor landings, poor height off the horse
+   and valuts that involve few maneuvers.
+
+* The highest possible score is awarded for a perfect landing after a 180
+degree twist, with maximum height from the horse, followed by a triple
+somersault. 
+
+* The winner of this event is the competitor who scores the most combined
+points for two consecutive vaults.
+
+FREESTYLE RELAY
+
+Be ready to spring from your starting block when the countdown reaches "GO."
+Just a fraction of a second can decide this furious swimming race.  It takes
+power, coordination, and strategy to keep your four swimmers ahead!
+
+* Press the Fire button to position your first swimmer at the starting block.
+
+* When both swimmers are in place, watch the countdown: "MARK...SET...GO!"
+
+* Move the joystick to the RIGHT to jump into the water.  Don't jump too soon
+- an early takeoff is a false start, and the countdown will begin again.
+Three false starts disqualify you from the race.
+
+* Press the Fire button every time your swimmer's arm enters the water.  This
+gives you a "power stroke," and more speed.
+
+* When your swimmer reaches the far end of the poo, about half way through the
+section marked with smaller floats, lean the joystick LEFT for a kick-turn.
+Turning at just the right time gives you the best head start for your return
+lap. 
+
+* As your swimmer completes the return lap, lean the joystick RIGHT to start
+your next relay racer.  The new swimmer should leave the starting block just
+as his teammate reaches the end of the pool.  If you make this move too early
+or late, the action stops and you'll lose precious time!
+
+* When your fourth swimmer completes his return lap, the clock displays your
+final time for the race.
+
+* The winner of this event is the team with the best final time.
+
+100-METER FREESTYLE
+
+This race is like the Freestyle Relay, except that a single swimmer completes
+just two lengths of the pool.  To win this "swimming sprint," concentrate on
+getting a good start and keeping a strong power stroke.  Just a split second
+can be the margin of victory!
+
+* The start, kick-turn and power stroke are controlled the same way as in the
+Relay even.
+
+* This race is over when your swimmer completes his return lap.
+
+* The winner of this event is the swimmer with the best final time.
+
+SCORING
+
+After every event the names, countries, and scores of all competitors are
+listed in the order they placed.  The name of the Gold Medal winner appears at
+the top of the screen.
+
+CONTINUING PLAY
+
+To restart SUMMER GAMES from any game screen, press RESET.  The program will
+return to the main menu.
+
+Atari Corporation is unable to guarantee the accuracy of printed material
+after the date of publication and disclaims liability for changes, errors, or
+omissions.  Reproduction of this document or any portion of its contents is
+not allowed without the specific written permission of Atari Corporation.
+
+ATARI and 7800 are trademarks or registered trademarks of Atari Corporation.
+Summer Games is a trademark of Epyx Inc.  Copyright (C) 1985, Epyx, Inc.
+
+Copyright (C) 1987.  Atari Coporation, Sunnyvale, CA  94086.
+All rights reserved.  Printed in Taiwan.  C300018-026 K. I. 4 1988
+
+ATARI(R)
+
+
+

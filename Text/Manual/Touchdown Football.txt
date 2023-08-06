@@ -1,0 +1,369 @@
+ATARI(R) 7800(TM) Game Manual
+TOUCHDOWN(TM) FOOTBALL by Electronic Arts
+
+INTRODUCTION
+
+You Call the Plays
+
+It's fourth and long with less than a minute remaining in the game.  The
+winner gets a wild card berth in the playoffs.  You're down by a field goal.
+Your quarterback makes a perfect pass, your receiver is wide open, and then you
+see the referee's arms fly up signaling the touchdown.  You're going to the
+playoffs.
+
+Getting Started
+
+1. With your Atari 7800 set up, insert the Touchdown Football cartridge into
+the console and plug a controller into the left port.  For two players, plug
+another controller into the right port.
+
+2. Turn on your television and pres [Power] to turn on your Atari console.
+The Touchdown Football title screen appears.
+
+3. Press [Select] or the fire button to skip the title screen and show the
+game options screen.  Move player 1's directional control to highlight the
+game options you want.  Move the handle up or down to select player vs.
+player, player vs. computer, or a computer vs. computer game.  Then select
+the length of the quarters in the same way.  To activate the game delay
+penalty, select it as well.
+
+4. Press [Reset] to start the game.
+
+5. A game referee appears, flips a coin, and declares who receives the kick
+off.  If you are playing against the computer and are receiving the kickoff,
+the game automatically begins.  If you are kicking off to the computer or
+another player, you must press the fire button to kickoff.
+
+6. Press [Pause] to pause a game.  Press it again to resume play.
+
+7. Press [Select] to start a new game by returning to the game options screen.
+Any games in progress at the time will be cleared.  Press [Reset] to start
+the game over using the same options as the previous game.
+
+PLAYING THE GAME
+
+Offense
+
+If you are playing offense, you will be asked to select a formation for your
+team, a pass pattern for each of your receivers, and a blocking direction for
+your blockers.  Each of the nine directional control positions represents a
+formation or pass pattern.  (Remember: eight directions plus one for the
+"home" position).
+
+If you activated the game delay penalty selection when starting, then the
+offensive play must be selected within 30 seconds.  If a play is not selected
+within that time, then a penalty is declared against the offense.
+
+The box above the offensive players shows the current pattern or formation.
+Change the selections by moving the controller to any other of the nine
+positions.  To conceal your selection from your opponent, hold down the fire
+button as you move the controller.  Your choice will not show on the screen, 
+but you will know what it is by the position of the controller.  To select
+that pattern for play, keep pushing the controller in the appropriate direction
+as you release the fire button.
+
+You can also choose from three blocking directions for the lineman in the 
+same way you choose formations and patterns.  Once you have select the
+formations and patterns, your players will break huddle and take their
+positions in the formation.  To snap the ball, press the fire button.
+
+Audibles:  If you don't like the look of a defense when you reach the line
+of scrimmage, you can call an audible.  To do this, hold the controller in
+any direction and press the fire button.  You can then choose a new formation
+as well as pass patterns and blocking patterns.
+When you choose an audible your selections will not be visible to you.  The
+defense will get a chance to change its formation as well.
+
+Running the Ball:  As soon as the ball is snapped you gain control over the
+Quarterback.  To run the ball, use the controller to move the QB to where you
+want him to go.  When the QB crosses the line of scrimmage, he gets an extra
+burst of speed.
+
+Passing the Ball:  As soon as the ball is snapped, you gain control over the
+Quarterback.  If you want to pass the ball, move the QB back by using the
+controller.  Press the fire button twice to pass to the receiver closest to
+the top of the screen or once to pass to the receiver closest to the bottom
+of the screen.
+
+Once the QB has thrown the ball, control changes to the receiver you have
+thrown to.  Since the receiver probably won't be in position, be ready to move 
+him in to catch the ball.  Don't try to pass to a receiver who is assigned to
+block - a blocking reciever is ineligible to catch a pass.
+
+Defense
+
+You can choose from nine defensive formations, one for each of the nine
+positions of the controller. (Remember: eight directions plus one for the
+"home" position).  There are no patterns for individual defensive players.
+
+The box above the defensive players tells you the currently selected formation.
+You can change the current selection by moving the controller to any of the
+nine positions. (See diagrams for the formations and the corresponding 
+controller positions).
+
+If you want to conceal your selection from your opponent, hold down the fire
+button as you move the controller.  The selected formation will not be
+visible on the screen, but you will know what it is by the position of the
+controller.  To select the formation for play, keep the controller pushed
+in the appropriate direction as you release the fire button.
+
+If the offense breaks huddle before you can call a defensive formation, the
+formation will automatically default to Zone defense.  The computer will
+also select the appropriate formation for you on field goal attempts and
+punts.
+
+Audibles:  If the offense calls an audible, you will have a chance to change
+your formation, but you will not be able to see your selection.  As for the
+offensive audibles, you will be able to determine your selection by the
+controller position.
+
+The only defensive player you can control with the controller is the free
+safety.  As in pro football, he is free to move around at any time.
+
+The Kicking Game
+
+Kickoff: If you are the kicking team, press the fire button to kickoff after
+all the players have taken their positions on the field.  The receiver can
+catch the ball or pick it up on the bounce.  Touchback and safeties are both
+possible.
+
+Punt: When in doubt, punt.  You can punt the ball at any down by selecting the
+Kick formation from the offensive options, and then selecting the Punt option.
+To punt, press the fire button once to snap the ball from the center, and
+press it again when the kicker receives the ball to punt.  If you choose, the
+kicker can run with the ball instead.
+
+Field Goal: Select the Kick formation.  Then select the Field Goal option.
+Press the fire button to snap the ball to the kicker.  The kick is automatic.
+
+Extra Point: The computer auto-selects the formation.  Press the fire button
+to snap the ball, then move the kicker forward with the controller.  The kick
+is automatic.
+
+Blocking a Kick: The defense can block any field goal or extra point with a
+rushing attack.  Selecting a blocking formation for a punt will increase your
+chances of blocking a punt, but it eliminates any chance of a runback (if
+one is possible).
+
+PENALTIES
+
+There are two 5-yard penalties that can be called by the referee and cannot
+be declined:
+
+Offense: Delay of Game (the game delay penalty called only if the 30-second
+clock is active)
+
+Defens: Offsides
+
+STRATEGY TIPS
+
+When the computer is playing defense, it can remember (for a short time) any
+plays you call frequently.  If it spots a familiar pass play, chances are
+you'll be intercepted.  So keep the computer player "on its toes" and mix up
+your offensive plays.
+
+When playing the running game, follow your blockers and run to daylight.
+
+When you are playing the game for the first time, use the Shotgun formation
+and the Streak pass patterns a few times to get used to the passing game.
+
+When playing defense, play bump and run with the receivers.
+
+Try a trick play.  An effective one is the fake punt.  It's possible - and
+embarrassing to the defense when it works.
+
+PLAY SELECTION
+
+The Home team always starts from the left side of the field in the first
+quarter of a game.  At the end of each quarter, the teams automatically
+switch sides.
+
+The next three pages show the defensive plays (offense moving from left to
+right), offensive plays (offense moving from left to right) and offensive
+passing and blocking plays you can use.  When the defensive and offensive
+action shifts direction, the play formations will then be mirror images of
+the plays show.
+
+To pick the center play, do not move the controller.  To select a different
+play, move the controller inthe direction of the arrow pointing to the play
+you want to use.
+
+Select an offensive kick play by moving the controller down and pressing the
+fire button.  Then select the play you want to use by moving the controller
+in the direction of the arrow.  The defensive kick play formation is an
+automatic selection when your opponent selects an offensive kick play.
+
+Defensive Formations
+
+_____________                 _____________               _____________
+|           |                 |           |               |           |
+|     C     |                 | C         |               |     S     |
+| B         |                 | B         |               | B         |
+|*B  C      |                 |*B   S     |               |*B  C      |
+| B         |                 | B         |               | B         |
+|     S     |                 | C         |               |     C     |
+|___________|                 |___________|               |___________|
+Prevent Left \                    Blitz                  / Prevent Right
+               \                    |                  /
+                 \                  |                /
+_____________      \          ______|______        /      _____________
+|           |        \        |           |      /        | C         |
+|           |          \      |     C     |    /          |           |
+| B         |            \    | B         |  /            | B         |
+|*B  C   S  |              \  |*B    S    |/              |*B  C   S  |
+| B         |----------------\| B         |---------------| B         |
+| C         |                 |     C     |               |           |
+|___________|                 |___________|               |___________|
+ Tight Left                  /    Zone     \                Tight Right
+                           /        |        \
+                         /          |          \
+_____________          /      ______|______      \        _____________
+|           |        /        |           |        \      |      C    |
+|           |      /          | C         |          \    | B         |
+| C         |    /            | B         |            \  | B         |
+|*B   S     |  /              |*B   S     |              \|*B   S     |
+| B         |/                | B         |               | C         |
+| B         |                 | C         |               |           |
+|______C____|                 |___________|               |___________|
+Monster Left                    Goal Line                 Monster Right
+
+
+B - Blocker                   _____________
+C - Center                    |           |
+K - Kicker                    | C         |
+P - Punter                    | B         |
+Q - Quarterback               |*B        --->R   Automatic
+R - Receiver                  | B         |      Selection
+S - Free Safety               | C         |
+                              |___________|
+
+
+Offensive Formations
+
+_____________                 _____________               _____________
+|           |                 |           |               |           |
+|      R    |                 |           |               |           |
+|         B |                 | R       B |               |         B |
+| R   Q   C*|                 |     Q   C*|               | R   Q   C*|
+|         B |                 | R       B |               |         B |
+|           |                 |           |               |      R    |
+|___________|                 |___________|               |___________|
+   I-Right   \                   Split T                 /    I-Right   
+[sic: is       \                    |                  /
+ I-Left]         \                  |                /
+_____________      \          ______|______        /      _____________
+|      R    |        \        |      R    |      /        |           |
+|     R     |          \      |           |    /          |           |
+|         B |            \    |         B |  /            |         B |
+|     Q   C*|              \  |     Q   C*|/              |     Q   C*|
+|         B |----------------\|         B |---------------|   R     B |
+|           |                 |      R    |               |     R     |
+|___________|                 |___________|               |___________|
+  Slot Left                  /   Shotgun   \                 Slot Right
+                           /        |        \
+                         /          |          \
+_____________          /      ______|______      \        _____________
+|      R    |        /        |           |        \      |           |
+|         B |      /          |           |          \    |           |
+|         B |    /            |           |            \  |         R |
+|      Q  C*|  /              |           |              \|      Q  C*|
+|           |/                |           |               |         B |
+|           |                 |           |               |         B |
+|___________|                 |___________|               |________R__|
+ Strong Left                 /  Kick Plays \               Strong Right
+                           /        |        \
+                         /          |          \
+_____________          /      ______|______      \        _____________
+|           |        /        |           |        \      |           |
+|      R    |      /          |         R |          \    |           |
+|         B |    /            |         B |            \  |         R |
+|  K  Q   C*|  /              |   P     C*|              \|  K  Q   C*|
+|         R |/                |         B |               |         B |
+|           |                 |         R |               |      R    |
+|___________|                 |___________|               |___________|
+Field Goal Left                    Punt                  Field Goal Right
+
+
+Offensive Passing and Blocking
+
+                            Passing Patterns
+_____________                 _____________               _____________
+|           |                 |           |               |           |
+|          /|                 |           |               |           |
+|        /  |                 |           |               |           |
+| R----/    |                 | R-------> |               | R----\    |
+|           |                 |           |               |        \  |
+|           |                 |           |               |          \|
+|___________|                 |___________|               |___________|
+Flag Post Left                    Streak                 /Flag Post Right
+               \                    |                  /
+                 \                  |                /
+_____________      \          ______|______        /      _____________
+|    |----> |        \        |           |      /        |           |
+|    |      |          \      |           |    /          |           |
+|    |      |            \    |           |  /            |           |
+| R--|      |              \  | R_______  |/              | R--|      |
+|           |----------------\|      ___) |---------------|    |      |
+|           |                 |           |               |    |____> |
+|___________|                 |___________|               |___________|
+Side Line Left               / Buttonhook  \              Side Line Right
+                           /        |        \
+                         /          |          \
+_____________          /      ______|______      \        _____________
+|           |        /        |           |        \      |           |
+| |------>  |      /          | (Receiver |          \    |           |
+| |         |    /            |  blocks)  |            \  |           |
+| R         |  /              |           |              \| R         |
+|           |/                |           |               | |         |
+|           |                 |           |               | |------>  |
+|___________|                 |___________|               |___________|
+Safety Valve Left             Block-No-Pass              Safety Valve Right
+                                              
+
+                              Line Blocking                                    
+   
+_____________                 _____________               _____________
+|          /|                 |           |               |           |
+|        B/ |                 |       B-- |               |        B\ |
+|          /|                 |           |               |          \|
+|        C/*|                 |       C-- |               |        C\*|
+|          /|                 |           |               |          \|
+|        B/ |                 |       B-- |               |        B\ |
+|___________|                 |___________|               |__________\|
+    Left                         Straight                     Right      
+
+
+SCORING
+
+Touchdown.........................6 points
+Extra Point........................1 point
+Field Goal........................3 points
+Safety............................2 points
+
+Every effort has been made to ensure the accuracy of the product documentation
+in this manual.  However, because Atari Corporation is constantly improving
+and updating its computer hardware and software, it is unable to guarantee
+the accuracy of printed material after the date of publication and disclaims
+liability for changes, errors, or omissions.
+
+Atari(R), the Atari logo, and 7800(TM) are trademarks or registered
+trademarks of Atari Corporation.  Touchdown Football(TM) is a trademark of
+Electronic Arts.  Copyright(C) 1985, Electronic Arts.
+
+Reproduction of all or any portions of this manual is not allowed without
+the specific written consent of Atari Corporation.
+
+ATARI(R)
+Copyright(C) 1988, Atari Corporation
+Sunnyvale, CA  94086
+All rights reserved.
+
+ATARI(R)
+Copyright(C) 1988, Atari Corporation
+Sunnyvale, CA  94086
+All rights reserved.
+
+Printed in Hong Kong.  B. T. 1 . 1989    C300018-023 Rev. A
+
+
+

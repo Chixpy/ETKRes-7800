@@ -1,0 +1,118 @@
+Play Ball
+
+You smell the freshly cut grass as you walk out of the dark, cool tunnel
+into the hot afternoon sun. You hear the crack of leather on wood as the
+team's power hitter takes batting practice. Today's the day -- you're
+starting in the big leagues. After warming up in the bullpen, you're ready
+to take the mound. You get a few last-minute instructions from the pitching
+coach, and then it's time. Slowly you walk to the center of the diamond.
+The batter steps in, and you're ready to play ball!
+
+Getting Started
+
+1.  Insert the RealSports Baseball cartridge into your Atari 7800 as
+    explained in your Owner's Manual.
+
+2.  Plug a joystick into the left controller port for one player; plug a
+    second joystick into the right controller port for two players.
+
+3.  Turn on your television; then press [Power] to turn on your Atari
+    console. The RealSports Baseball title screen will appear.
+
+4.  Move either joystick handle forward or back, or press [Select], to
+    choose a one-player or two-player game. Move either joystick handle to
+    the left or right, or press [Select], to choose up first or second. If
+    no selection is made, the game will go into Demo mode.
+
+5.  Press [Reset] or any joystick button to start the game. An empty field
+    appears. The players then come out onto the field, and the batter steps
+    up to the plate. The scoreboard appears at the top of the screen, and
+    balls and strikes are tallied in the upper right corner.
+
+6.  Press [Pause] to pause the game; press it again to resume play.
+
+Playing the Game
+
+When your team is at bat, the direction the joystick is pushed determines
+the type of swing:
+
+Swing Type      Joystick Direction
+High            Up
+Normal          Middle
+Low             Down
+Bunt Left       Left
+Bunt Right      Right
+
+To swing the bat, press the left joystick button and move the joystick
+handle. The batter swings on the release of the joystick button. If the
+ball is hit, the batter automatically runs to first base.
+
+The right joystick button moves the runner along. The controllable runner
+is highlighted. Move the joystick handle up and press the right joystick
+button to advance the runner. To make the runner retreat, move the joystick
+down and press the right joystick button.
+
+When your team is in the field, use the right joystick button to set up for
+the pitch and to bring in the opposing batter. Select your pitch by moving
+the joystick handle in one of the directions indicated below. To throw the
+pitch, hold down the right joystick button and then move the joystick
+handle in the desired direction.
+
+Up              Fastball
+Up/Left         Inside Slider
+Up/Right        Outside Slider
+Left            Inside Curve
+Right           Outside Curve
+Down/Left       Inside Slow Curve
+Down/Right      Outside Slow Curve
+Down            Change-up
+
+After the ball is hit, the fielder closest to the ball makes the play. You
+control the fielder's movements by moving the joystick handle in the
+direction you want the player to move. To throw the ball to one of the
+bases, move the joystick handle in one of the directions indicated below and
+press the left joystick button.
+
+Throw Direction         Joystick Direction
+First Base              Right
+Second Base             Up
+Third Base              Left
+Home Plate              Down
+
+To return the ball to the pitcher, press the left joystick button with the
+handle in the center position. To run with the ball, use the joystick to
+move the player. Fielders automatically return to their positions when the
+ball is returned to the pitcher and the right joystick to is pressed.
+
+A team remains at bat until three outs are recorded.
+
+Playing Tips
+
+Runners automatically run to the next base when a ball is hit. The
+controllable runner is highlighted.
+
+Vary your pitches to keep opposing batters off guard.
+
+Giving your players who are on base a head start will help when you are
+playing against the computer.
+
+Scoring
+
+As in a real baseball game, the team with the highest number of runs after
+nine innings wins the game. But who knows? If the game is tied at the end
+of the ninth, it could be a long day -- or night -- at the old ball park.
+
+Atari Corporation is unable to guarantee the accuracy of printed material
+after the date of publication and disclaims liability for changes, errors,
+or omissions. Reproduction of this document or of any portion of its
+contents is not allowed without the specific written consent of
+Atari Corporation.
+
+Atari (R), the Atari logo, RealSports Baseball (TM) and 7800 (TM) are
+trademarks or registered trademarks of Atari Corporation.
+
+Copyright (C) 1988, Atari Corporation, Sunnyvale, CA 94086. All rights
+reserved.
+
+Printed in Hong Kong        C300018-034 Rev. A               B.T.11.1988
+

@@ -1,0 +1,203 @@
+/|\ Atari 7800 Game Manual
+Mat Mania Challenge
+
+After Months of practice you made it to the final round of the Atari 
+Wrestling Federation Championships. Now you stand gloriously in the ring, 
+sure to make enough dough from this title bout to retire to a farm in 
+Vermont. If you can survive.
+
+The announcer, a little man with a voice like a muffler on a halfdead 
+pickup truck, reaches for the overhead microphone. He announces the name 
+of the champion, a 394-pound mountain who hasn't lost a match since Troy 
+was sacked. The crowd roars. Then, between giggles and snickers, the 
+announcer spits out your name. Your fan cheers as the undertaker edges 
+his way toward your corner and pulls out his measuring tape.
+
+But you know you can do it. After all, you've made a science of the 
+Flying Body Press. So what if your opponent outweighs you by 286 pounds.
+
+The opening bell clangs as the bout begins. The champion lumbers toward 
+you like a freight train gone berserk. This is not going to be easy. Do 
+you have the guts and the skill to defeat the mad man of mats? Will you 
+retire to that farm or spend the rest of your life in intensive care at 
+the local hospital? It's too late to back out now, so give it your best 
+shot. Good luck! You'll need it.
+
+GETTING STARTED
+
+1. Insert the Mat Mania Challenge cartridge into your Atari 7800 system 
+as explained in your owner's manual.
+
+2. Plug a controller into the left port for a one-player game. Plug a 
+second controller into the right port for a two-player game.
+
+3. Switch on your television. Then press POWER to switch on your system. 
+The Mat Mania Challenge title screen appears.
+
+4. To begin game option selections, press a fire button. The first play 
+option displays along the bottom of the screen.
+
+5. Move the controller in any direction (right, left, forward or 
+backward) to select a one or two-player game. After you've made your 
+selection, press a fire button.
+
+6. Depending upon whether your selected a one or two-player game, the 
+following occurs:
+
+If you selected a one-player game, then the difficulty level selection 
+option displays along the bottom of the screen. Move the controller in 
+any directions to select the difficulty level (easy, medium, or hard), 
+then press a fire button again to begin the match.
+
+OR
+
+If you selected a two-player game, the match begins once you press the 
+fire button.
+
+Note: In a two-player game, you don't select the difficulty level. It's 
+only when you play against the computer that you must select the 
+computer's skill level.
+
+7. If you want to return to the selections screen to change game options, 
+press SELECT. To reset with the current game options, press RESET.
+
+8. Press PAUSE to pause the game. Press PAUSE again to return to the game.
+
+
+PLAYING THE GAME
+
+Mat Mania Challenge simulates a series of wrestling matches between 
+either two players or one player and the computer.
+
+Wrestlers compete against challengers for a score. The top of the screen 
+displays each wrestler's current score and the time remaining in the match.
+
+The object of the match is to either pin your opponent for a count of 
+three, keep him out of the ring for a twenty count, or outscore him.
+
+Each match lasts three minutes. Your point accumulate throughout the 
+match. If neither wrestler is pinned for the count by the end of the 
+match, the player with the highest number of points wins.
+
+Two-player games consist of up to three matches. If one player is pinned, 
+the game ends and the title screen appears. If no one is pinned by the 
+end of the third match, the player with the highest score wins.
+
+In a one-player game, if you pin or outscore the computer opponent, you 
+will move on to the next match. If the computer wins, the game ends and 
+the title screen appears.
+
+Use the controller to maneuver the fighters. When the wrestlers are close 
+to eachother, they go into grapple position.
+
+WRESTLING MOVES
+
+Mat Mania Challenge offers several bone-crushing moves designed to drop 
+your opponent for the count. The available moves at any given time depend 
+on the current situation. For example, if you have your opponent in a 
+head lock, press the right button to perform a pile driver. Or, while 
+running across the ring, move the controller any direction and press the 
+right button to clothesline your opponent.
+
+Below is a table listing the possible moves and how to make them.
+
+		MOVE		ACTION
+
+Basic Moves	Walk		Controller any direction
+		Run		Both Buttons
+		Punch		Left Button
+		Kick		Right Button
+		Climb Post	Controller Up
+
+While Running	Shoulder Jab	Left Button
+		Flying Kick	Right Button
+		Sidekick	Controller left/left button
+		Clothesline	Controller right/right button
+
+In Grapple	Headlock	Right or left button
+
+Opponent in	Hammer Throw	Left button
+Headlock	Pile Driver	Right button
+		Overhead Slam	Controller left/left button
+
+You are in	Knee Drop	Left button
+Headlock	Back Drop	Right button
+
+After Opponent	Flying Kick	Right Button
+is Hammer	Crouch		Left button
+Thrown off	Elbow		Controller left/left button
+Ropes		Clothesline	Controller right/right button
+
+>From Post	Knee Drop	Left Button
+		Back Drop	Right Button
+
+While Opponent	Pick Up		Left Button	
+is Down		Pin		Right Button
+
+If your opponent throws you out of the ring, you have twenty seconds to 
+get back in the ring. Move your wrestler in front of the ring and climb 
+through the ropes by moving the controller up.
+
+If one wrestler is thrown out of the ring, the other wrestler can jump 
+over the left or right side of the ring. Wrestlers can fight outside the 
+ring, but they must be back in the ring before the referee counts to twenty.
+
+
+STRATEGY
+
+It takes quick reactions and good timing to be a champion. Learn to 
+anticipate your opponent's move and react accordingly.
+
+Wear your opponent down with repeated punches.
+
+Don't try to pin your opponent every time he hits the floor. Pick him up 
+and destroy him. This increases your point total. Besides, it's more fun 
+to bash heads than to gain a quick victory.
+
+Learn to use the ropes and the post. Throw your opponent against the 
+ropes. When he bounces back, give him a quick clothesline or similar 
+move. If he hits the floor in the right place, climb the post and drop on 
+him.
+
+If your opponent has you up against the ropes and he's beating the tar 
+out of you, press both buttons to run. Of course, your opponent will be 
+in the way, but you may have a chance to escape and turn things around.
+
+Remember, pain is good - when the other guy feels is. Don't go easy on 
+your opponent. Mercy may be sportsmanlike, but who wants to be nice?
+
+
+SCORING
+
+Below is a list of the number of points awarded for each move.
+
+Pick Up			50
+Punch			50
+Clothesline		100
+Hammer Throw		100
+Kick			100
+Elbow			200
+Flying Kick		300
+Overhead Slam		300
+Running Clothesline	300
+Shoulder Jab		300
+Sidekick		300
+Crouch			400
+Back Drop from Headlock	800
+Knee Drop from Headlock	800
+Pile Driver		800
+Running Flying Kick	800
+Back Drop from Post	1000
+Knee Drop from Post	1000
+Pin			4000
+
+
+Copyright 1990, Atari Corporation, Sunnyvale CA 94089-1302. All right 
+reserved.
+
+******END******
+------------------------------------------------
+DavidT@argo.unm.edu  Davidt@dump.com  dct@dds.nl
+------------Albuquerque--NM--USA----------------
+
+

@@ -1,0 +1,173 @@
+<picture of Mario & Luigi, with a crab and a firefly in the background>
+
+
+                        Atari(r) 7800(tm) Game Manual
+
+                                 MARIO BROS.
+                                by Nintendo(r)
+
+
+
+
+Pests in the Pipes!
+
+Mario the carpenter and his brother Luigi are hopping mad!  The water pipes in 
+their house are blocked with pesky crawling creatures.  If the two brothers 
+can't get rid of them, they'll never take a bath again!
+
+
+Getting Started
+
+1.  Insert the Mario Bros. cartridge into your Atari 7800 as explained in your 
+    Owner's Manual.
+
+2.  Plug a controller into the left port on the front of the system for one 
+    player; plug a second controller into the right port for two players.
+
+3.  Turn on your television; then press [Power] to turn on your Atari console.
+
+4.  Press [Select] or move the directional lever on your controller forward or 
+    backward to choose a one-player or two-player game.
+
+5.  Press [Select] or move the directional lever on your controller left or 
+    right to choose a game level.
+
+6.  Press player 1's fire button or [Reset] to begin the game.
+
+7.  Press [Pause] to pause a game.  Press it again to resume play.
+
+8.  During a game, press [Select] to return to the title screen.  Press 
+    [Reset] to restart.
+
+
+Playing the Game
+
+     Your task is to help Mario kick the pipe pests off the floors and into a 
+bucket of water.  Press your controller button to make Mario jump up and punch 
+the floor (and the pest) above him.  Move the directional lever on your 
+controller left or right to make Mario run into stunned pests to kick them.  
+Press your controller button while Mario is running to make him jump from 
+floor to floor.
+     Mario starts the game with three lives.  Each time he kicks a pest off a 
+floor, you earn points.  If an active pest or a fireball catches Mario, he 
+loses a life.  When all the pests are knocked off, the next phase begins.
+     You earn an extra life at 20,000 points.  Scores and the number of lives 
+remaining appear at the top of the screen.  The high score appears in the top 
+center.  The phase you're playing appears in the bottom left corner of the 
+screen.
+     A coin spurts out of a waterpipe each time Mario kicks a pest off the 
+floor.  Make Mario run into the coin or punch it from below to earn 800 bonus 
+points.
+     The POW switch appears near the bottom center of the screen.  When Mario 
+hits the switch, it delivers a punch to all pests on the screen.  You can use 
+the POW switch three times before it disappears.  You receive a new POW switch 
+in rounds 8 and 13, and every fifth round after that.
+     The game ends when Mario loses all his lives.  Press [Reset] or the fire 
+button to begin a new game.
+
+Coin Phase
+
+     At certain times during the game, the pests disappear and a coin phase 
+begins.  The screen is filled with dangling coins.  Mario has only a few 
+seconds to grab as many coins as possible.  Every coin Mario gets earns 800 
+bonus points.  A timer at the top fo teh screen counts down the seconds:  20 
+seconds for each coin phase.  Extra points are awarded if Mario gets all the 
+coins before the time expires.
+
+Two-Player Game
+
+     In two-player games, one player is Mario and the other player is Luigi.  
+Luigi plays the game the same way Mario does.  You can work as a team, with 
+one player punching the pests and the other player kicking them off the floor.
+     Or you can compete with each other for the highest score.  If you do, 
+watch out for sneak attacks--your opponent may punch a pest back on its feet 
+just as you're about to kick it off the floor!
+
+
+The Pests
+
+     Knocking off a pest is a two-part maneuver.  First punch the floor 
+directly beneath a pest to flip it onto its back.  The jump up to the floor 
+and kick the stunned pest off the floor before he recovers.
+
+<turtle>  Eliminate Shellcreepers by punching them one from below and then 
+          kicking them off teh floor before they can get away.
+
+<crab>    At the first punch, Sidesteppers become enraged and start moving 
+          faster.  Punch them again to flip them over; then kick them off the 
+          floor.
+
+<firefly> Fighterflies hop from one section of the floor to another.  The only 
+          time Mario or Luigi can flip one over is when it's touching the 
+          floor.
+
+<iceblob> In higher levels Slipice appears.  He's a man iceman who freezes 
+          floors into slippery ice.  Punch him from below to keep him from 
+          chilling the floors.
+
+<fireball>Fireballs can fry Mario and Luigi to a crisp.  Avoid fireballs by 
+          jumping over them or by jumping to another level.  Punch fireballs 
+          to destroy them.
+
+
+Plumbing Tips
+
+*  Use your POW switch when more than one pest is on the screen.
+
+*  Watch out for the last pest on the screen.  It speeds up and is much harder 
+   to punch.
+
+*  Hit a Sidestepper twice quickly.  If you're fast, you can flip it over 
+   before it scurries off to a different floor.
+
+*  Punch pests near the edge of a floor so they fall to the level you are on.
+
+
+Scoring
+
+Here's how to earn points:
+
+     Kick a pest off the floor............800 points
+Kick multiple pests off the floor quickly:
+     1st pest.............................800 points
+     2nd pest............................1600 points
+     3rd pest............................2400 points
+     4th pest............................3200 points
+     Get or punch a coin..................800 points
+     Punch Slipice........................500 points
+     Punch green fireball.................200 points
+     Punch orange fireball...............1000 points
+     Punch a pest..........................10 points
+
+
+
+
+
+
+
+
+                                     |||
+                                    / | \
+                                   ATARI(r)
+
+
+Atari Corporation is unable to guarantee the accuracy of printed material after
+date of publication and disclaims liability for changes, errors, or omissions. 
+Reproduction of this document or of any portion of its contents is not allowed 
+without the specific written consent of the Atari Corporation.
+
+Atari(r), the Atari logo, and 7800(tm) are trademarks or registered trademarks 
+of Atari Corporation.  Fighterfly(tm), Luigi(tm), Mario Bros.(tm), 
+Shellcreeper(tm), Sidestepper(tm), Slipice(tm), and Nintendo(r) are trademarks 
+or registered trademarks of Nintendo of America Inc. (c) 1983 Nintendo of 
+America Inc.  Manufactured under license from Nintendo of America Inc. 7800 
+version by ITDC.
+
+Copyright (c) 1983, Nintendo of America, Inc.  All rights reserved.
+
+Copyright (c) 1988, Atari Corporation, Sunnyvale, CA  94086. 
+All rights reserved.
+
+Printed in Hong Kong, G.C. 5.1990                      C300018-050 Rev. A
+
+

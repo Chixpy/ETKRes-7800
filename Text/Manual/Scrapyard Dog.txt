@@ -1,0 +1,272 @@
+                     ATARI (R) 7800 (TM) Game Manual
+
+                            Scrapyard Dog (TM)
+
+Atari Corporation is unable to guarantee the accuracy of printed material
+after the date of publication and disclaims liability for changes, errors,
+or omissions. Reproduction of this document or any portion of its contents
+is not allowed without the specific written permission of Atari Corporation.
+
+Atari, the Atari logo, Scrapyard Dog, and 7800 are trademarks or registered
+trademarks of Atari Corporation.
+
+ATARI (R)
+Copyright (C) 1990, Atari Corporation
+Sunnyvale, CA 94089-1302
+All rights reserved.
+
+Kidnapped Canine!
+
+Louie, the junkyard guy, was just settling down to his regular Sunday
+afternoon lunch: a foot long head-cheese sandwich with tons of mustard, six
+garlic pickles, a two-pound bag of potato chips and a diet soft drink. (The
+diet soft drink was because Louie was watching his weight -- nobody likes a
+fat junkyard guy.) The phone rang and Louie picked it up, even though his
+mouth was full. He listened a few moments, and then sprayed crumbs of bread
+and head cheese all over the office. A dastardly dognapper gang kidnapped
+his best pal Scraps, the infamous Scrapyard Dog! If Louie doesn't hand over
+the deed to the junkyard, Scraps is dog-gone!
+
+Louie played along, and told the kidnappers he would bring the deed to the
+first checkpoint to receive further instructions. But it's unAmerican to
+knuckle under to kidnappers and terrorists, and Louie won't do it! He's
+going to go to the checkpoint and find out the location of the gang's
+headquarters, then he's going to rescue Scraps and rid the town of the
+puppy purloiners.
+
+With a few useful items for weapons (mostly old cans), Louie sets out to
+save his buddy Scraps. Can Louie save his cruelly captured canine, or will
+little Scraps end up dog meat? Find out, and help Louie save his Scrapyard
+Dog!
+
+Getting Started
+
+Scrapyard Dog is seventeen levels of constant jumping, running, and
+throwing action. Follow the steps listed below to start the game:
+
+1.  With your 7800 game system switched off, insert the Scrapyard Dog
+    cartridge into the cartridge slot as described in your owner's manual.
+
+2.  Connect a controller to the left controller port.
+
+3.  Press the POWER button on your console and switch on your TV. The
+    Scrapyard Dog title screen displays.
+
+4.  Press the right fire button to display the first set of instructions
+    from Mr. Big. Press the button again to begin play.
+
+Optional Game Controls
+
+The following optional game controls allow you to pause and restart the
+game:
+
+To pause the game press PAUSE. Repeat to resume play.
+
+To begin a new game, press SELECT.
+
+Playing the Game
+
+The object of the game is to defeat the gang of criminal kidnappers and
+rescue Scraps. The kidnappers leave instructions for Louie at each of
+sixteen checkpoints. Louie has a specific period of time to reach each
+checkpoint. Along the way he must dodge rats and other annoying obstacles
+like rolling tires. Louie must also collect as many weapons and other
+useful items as possible. Weapons prepare Louie for the more difficult
+higher levels of Scrapyard Dog, and will ensure his success when he comes
+face to face with the leader of the evil dognappers. Items such as shields
+will protect Louie from harm. Louie begins his quest with a single shield
+and five cans.
+
+There are six rounds in Scrapyard Dog. Each of the first five rounds
+contain three levels, Junkyard, City, and Sewer. There is no sewer in the
+final round, but the city and junkyard are more hazardous than ever. Louie
+must scrap his way through each round to answer the phone at the end of the
+round. That's where Louie receives his instructions on how to progress to
+the next level. The last round of the game takes place in Mr. Big's
+warehouse. There Louie receives a special challenge that he must overcome
+before he can rescue his pitiful pooch.
+
+Joystick Controls
+
+Use the following joystick controls to move Louie around:
+
+Left Joystick moves Louie to the left.
+
+Right Joystick moves Louie to the right.
+
+Up Joystick allows Louie to knock on doors, activate the tune in Piano
+Rooms, pick up the phone at the end of each round, and enter sewer pipes.
+
+Down Joystick plus the right fire button activates the special weapon.
+
+Left Fire Button makes Louie jump. Hold the button for a longer period of
+time to make Louie jump higher.
+
+Right Fire Button throws a can. When combined with the Down Joystick,
+throws a special weapon.
+
+Bonus Rooms
+
+Bonus Rooms contain special items which Louie will find invaluable in his
+quest to rescue poor Scraps. Doors in the city only open when Louie
+completes a special knocking sequence. If Louie stops knocking for any
+reason -- such as to avoid rats and other dangerous obstacles -- he must
+start the knocking sequence again. Needless to say, finding out what goes
+on behind closed doors is a hazardous maneuver at best.
+
+PIANO ROOM Piano rooms are found in the dumpsters on Junkyard levels.
+(Musicians never care where they play, do they?) Louie must play a tune by
+pushing up on the joystick while standing atop a "P" icon. The tune plays.
+Then Louie must jump down to the piano keys and reproduce the tune that was
+played. (Louie plays one note each time he jumps on a key.) If Louie plays
+the tune correctly, a large bonus is awarded. Smaller bonuses are awarded
+for a nearly correct tune, and no bonus is awarded if Louie has a tin ear
+and makes too many mistakes. If this happens, he can exit the room or try
+again.
+
+OFFICE ROOM This room is only found in the City. Three bonus items will
+appear among the chairs and filing cabinets. These items appear one at a
+time. Louie must hustle to get to each item. Louie can get all three if he
+moves fast enough. This is where the diet sodas pay off!
+
+SEWER ROOM Only found on sewer levels, this room contains multiple sewer
+pipes. Louie must choose the correct combination of pipes to reach the
+special sewer room bonus. If he fails to guess the right combination, he
+falls into icky sludge and is booted out of the room. Louie loses no lives
+if this occurs, just a lot of self respect!
+
+Shops
+
+Shops are found in all levels and rounds. In the Junkyard, shops are found
+in dumpsters (low rent, what the heck). In the City, shops are located
+behind some of the doors. In the sewer, shops can be found at the end of
+certain pipes.
+
+Once Louie enters a shop he can either buy an offered item (if he has the
+money of course... just like real life!), or he can recycle cans for money.
+If Louie wishes to buy the item offered, he can rudely say "Yeah" (left
+joystick) or "Nah" (right joystick). If he says Nah he exits the shop. If
+he says Yeah, then he must push the left fire button once for every item he
+wishes to buy. (For example, press the button once to buy one bomb, twice
+for two bombs, etc.)
+
+EXTRA MAN SHOP Extra lives can be purchased here... for BIG bucks!
+
+SHIELD SHOP Shields protect Louie from dying. Each shield protects Louie
+against one hit, after which the shield disappears.
+
+CAN RECYCLE SHOP Louie can do his civic duty (and earn much needed bucks!)
+by exchanging his extra cans for money. But the word extra is the key here.
+Louie has to keep some cans to ward off foes, so he shouldn't sell them
+all.
+
+SUPER CANS SHOP Super cans seek out enemies and destroy them, and Louie
+doesn't even have to aim! These cans are very valuable and are worth the
+price Louie must pay for them.
+
+BOMB SHOP Bombs destroy everything that appears on the screen when Louie
+throws them. Oh, almost everything... they don't destroy Louie!
+
+EXTRA TIME SHOP Extra time will give Louie a better chance at rescuing his
+pitiful puppy, Scraps. And each second Louie has to spare at the end of
+each round is worth fifty points! Extra time is very important when going
+for higher scores.
+
+Items
+
+Throughout every level Louie encounters different items. Some items are
+useful and Louie can pick them up to help him in is quest. Other items
+Louie will want to avoid... like enemies and obstacles.
+
+Bonus Items
+
+Bonus items appear when Louie jumps on top of and destroys an enemy, or in
+the Bonus Rooms as described in the Bonus Rooms section.
+
+Money Bag               One dollar
+Gold Money Bag          Ten dollars
+Can                     Gives Louie one can
+Clock                   Adds thirty seconds of time
+Heart                   Gives Louie an extra life
+
+Weapons and Shields
+
+Louie must collect weapons and shields to survive the dog-eat-dog world and
+save his poor pup. The following items are found in Scrapyard Dog.
+
+SHIELD protects Louie from one hit from an enemy or obstacle. After the
+shield saves Louie it disappears. Louie begins the game with one shield.
+Shields will not protect Louie from dying if the cause of death is a fall.
+
+CANS are Louie's basic weapon. He begins the game with five cans and must
+collect more on his travels through each level. When Louie throws a can it
+will bounce a few times before hitting and destroying the enemy target.
+
+SUPER CANS are great because they seek out enemies and destroy them...
+Louie doesn't need to aim! They keep on destroying enemy after enemy until
+they run out of energy. These puppies are especially effective against
+birds.
+
+BOMBS are the most powerful special weapon. When tossed, a bomb destroys
+everything on the screen except Louie.
+
+Enemies and Obstacles
+
+There are different ways to handle each of the many enemies and obstacles
+Louie will encounter.
+
+MICE, RATS, BIRDS, and GANGSTERS can be overcome with weapons. Toss a can
+or supercan or bomb and watch the fur fly! If all else fails, Louie can
+jump on his enemies. Even the diet drinks can't save flattened foes from
+Louie's fattened belly.
+
+TIRES must be avoided. They can't be destroyed by anything but a bomb.
+
+BASKETBALLS Only bombs can flatten these dangerous hazards.
+
+FIRE HYDRANTS Out of respect for Scraps, Louie tries not to destroy fire
+hydrants. However, sometimes things get too dangerous and Louie must blast
+the hydrant with a well thrown bomb.
+
+Strategy
+
+Super cans are for the birds. Flying foes are hard to hit with anything
+else.
+
+Exchange cans for cash whenever possible, but always keep a few on hand.
+
+Watch tires and basketballs carefully. Learn to time their bounces. Running
+under these hazards is much easier than jumping over them.
+
+When there are too many tires and basketballs to avoid, use a bomb.
+
+It pays to squash the bad guys.
+
+Scoring
+
+You earn points for collecting items, overpowering enemies, and overcoming
+obstacles:
+
+Cans             25 points
+Clock            25 points
+Gold Money Bag   25 points
+Money Bag        25 points
+Timer            50 points per second
+Gangsters       200 points
+Mice            100 points
+Rats            100 points
+Basketballs     500 points
+Birds           500 points
+Hydrant         500 points
+Tires           500 points
+
+Heart           1 extra life
+
+
+ATARI (R)
+Copyright (C) 1990, Atari Corporation
+Sunnyvale, CA 94089-1302
+All rights reserved.
+
+Printed in Hong Kong.          G.C.11.1990                   C300018-079
+

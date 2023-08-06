@@ -1,0 +1,138 @@
+We Have Seen the Aliens... and They Are Us!
+
+It's a nightmare, but it's true! Research shows that we are the actual
+aliens on Earth, and the ruthless Xevions are the original inhabitants.
+
+Now the Xevions want Earth back -- minus humans! Their invasion forces are
+fierce -- the land is crawling with deadly Domogram Rovers; the sky is
+black with Toroid Patrol Fleets and Zoshi Death Squads.
+
+Our puny weapons offer no defense. Earth's only hope is our powerful new
+Solvalou Fighter Plane. Its pilot will have a single mission: Penetrate the
+enemy ranks and destroy the Xevious Mother Ship.
+
+The mission is dangerous. We can't guarantee success. But at this point,
+it's do or die!
+
+One small problem. We still need a pilot. Any volunteers?
+
+Getting Started
+
+1.  Insert the Xevious (TM) cartridge into your Atari (R) 7800 (TM)
+    Pro-System as explained in your Owner's Manual, and turn on your
+    console.
+
+2.  Plug a controller into the left controller jack for one player, and
+    another into the right controller jack for two players.
+
+3.  Move the controller handle forward or backward or press [Select] to
+    choose a one- or two-player game. Move the controller handle to the left
+    or right to choose one of four skill levels: Novice, Intermediate,
+    Advanced, or Expert.
+
+4.  Press [Reset] or the controller button to begin the battle.
+
+5.  Press [Pause] to pause the game; press it again to resume play.
+
+Playing the Game
+
+Battle Plan
+As you fly your Solvalou Fighter over the scrolling landscape, you must
+defend yourself against both airborne and ground-based Xevious defenses.
+Each Xevious foe is worth points; the more dangerous the foe, the more
+points you earn for destroying it.
+
+You start the battle with five ships. Fire on the enemy to earn points and
+gain extra ships.
+
+Solvalou Weaponry
+Your Solvalou Fighter is equipped with a Zapper for destroying airborne
+enemies and a Blaster for eliminating Xevious ground forces. Fire both
+weapons by pressing the controller button. To aim the Blaster, move your
+target sight (located directly in front of your ship) over an enemy ground
+unit.
+
+Xevious Mother Ship
+If you survive the Xevious onslaught, you'll face the Andor Genesis Mother
+Ship. A direct hit to the Mother Ship's central reactor will disable it and
+earn you a short respite from Xevious attacks.
+
+But don't get cocky! More Xevious attack forces will soon appear, and a new
+Mother Ship will always be lurking somewhere ahead.
+
+Strategy
+
+Move your ship back and forth with the controller handle to strafe airborne
+enemies with the Zapper. Fire the Zapper continuously to destroy foes as
+soon as they enter the battle screen.
+
+Keep your ship away from the sides or bottom of the screen to avoid being
+trapped by enemy fire.
+
+When facing a barrage of opponents, first destroy those shooting at your
+ship, then destroy the remaining units for extra points.
+
+Enemy citadels are hidden underground. Your target sight will glow red when
+you are directly over a hidden citadel. Score points by raising the citadel
+with a Blaster hit. Score additional points by destroying it.
+
+Flags are also hidden in the ground and waterways. Score points by raising
+them with Blaster hits. Fly over the raised flags to earn extra ships.
+
+Scoring
+
+Use your Blaster and Zapper to destroy the foe and earn points. You gain
+extra ships when you score 20,000 points, 60,000 points, and every 60,000
+points following.
+
+Points are scored in the following way:
+
+Destroying Airborne Forces
+
+Brag Zakato Energy Blaster      600-1500 points
+Garu Zakato Energy Bomber       500-1000 points
+Terrazi Destructor                   700 points
+Kapi Deflector                       300 points
+Jara Spinner                         150 points
+Zakato Energy Launcher               100 points
+Zoshi Death Squad                 70-100 points
+Torkan Scout Ship                     50 points
+Toroid Fleet Ship                     30 points
+Giddo Spario Energy Blast             10 points
+
+Destroying Ground Forces
+
+Andor Genesis Mother Ship      1000-4000 points
+Sol Citadel: raised                 2000 points
+Sol Citadel: destroyed              2000 points
+Garu Derota Mega-Station            2000 points
+Derota Defense Station         1000-2000 points
+Boza Logram Dome Network        300-2000 points
+Flag: raised                        1000 points
+Flag: destroyed                      extra ship
+Grobda Tank                     200-1000 points
+Domogram Rover                       800 points
+Logram Sphere Station                300 points
+Barra Energy Station             100-300 points
+Zolbak Detector Dome                 200 points
+
+Reproduction of this document or any portion of its contents is not allowed
+without the specific written permission of Atari Corp.
+
+Every effort has been made to ensure the accuracy of the product
+documentation in this manual. However, because we are constantly improving
+and updating our computer software and hardware, Atari Corp. is unable to
+guarantee the accuracy of printed material after the date of publication and
+disclaims liability for changes, errors, and omissions.
+
+Atari is a registered trademark and 7800 is a trademark of Atari Corporation.
+Xevious is a trademark of Namco Ltd., engineered and designed by Namco Ltd.,
+and manufactured under license by Atari corporation
+
+Copyright (C) 1986, Atari Corporation Sunnyvale, Ca 94086
+All rights reserved
+
+CO24857-10 Rev. A
+
+Printed in Hong Kong    B.T.7.1988
+

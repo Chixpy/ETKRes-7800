@@ -1,0 +1,114 @@
+                     ATARI (R) 7800 (TM) Game Manual
+
+                             Choplifter! (TM)
+
+STUN THE BUNGELINGS!
+
+The evil Bungelings have kidnapped 64 of our delegates from a World Peace
+Conference. You must save them!
+
+The delegates are imprisoned in a Bungeling stronghold. But we've got a
+secret base nearby, disguised as a post office. You've already smuggled in
+a helicopter, fully armed with a machine gun and bombs. You're ready to fly
+it into enemy territory, snatch the hostages from their prison barracks,
+and speed them to safety.
+
+But be careful! The Bungeling forces are on the alert -- just waiting to
+shoot you down. You'll need speed and skill to get past them and save the
+hostages. But you can do it!
+
+GETTING STARTED
+
+1.  Insert the Choplifter! cartridge into your ATARI 7800 ProSystem as
+    explained in your Owner's Manual.
+
+2.  Plug your controller into the left controller jack.
+
+3.  Press the [Power] button to and turn on your console.
+
+4.  Press either controller button to start the game.
+
+5.  Press [Pause] to pause the game; press it again to resume play.
+
+6.  During play, you can press [Reset] to start a new game.
+
+7.  When a game is over, press [Reset] or either controller button to start
+    a new game.
+
+PLAYING THE GAME
+
+The 64 hostages are locked in four Bungeling prison barracks, 16 hostages
+per barracks. You must rescue them in your helicopter and fly them to
+safety. Your mission is divided into three Sorties, with one chopper per
+Sortie.
+
+When a Sortie begins, your helicopter is revving up on the pad. When the
+music ends, move the controller handle forward to lift off. Then move the
+handle left, right, or diagonally to fly in that direction. Release the
+handle to land.
+
+While flying, press the right controller button to change the direction
+you're facing. As you press the button, you'll alternately face right,
+forward, or left.
+
+Press the left controller button to fire your chopper's machine gun or drop
+bombs. When the chopper is facing sideways, the machine gun will fire. Use
+this on airborne targets and to shoot open the barracks. To drop bombs on
+the ground attackers, face forward, then press the left button.
+
+Once in the air, you'll have to fight off Bungeling ground and air forces
+to get close to a barracks. Shoot open the barracks to free the hostages,
+then land your helicopter so they can scramble in. You can fit up to 16
+hostages at once inside the chopper. Retreat to the post office and
+descend. You must land on the pad in order for the hostages to climb out.
+Then return to the battlezone for more action.
+
+If your chopper is shot down, another appears at the post office until all
+your choppers are lost. Choplifter! ends when you lose your third
+helicopter or when all hostages are rescued or lost.
+
+BUNGELINGS
+
+TANKS will shoot your helicopter if you've landed or are near the ground.
+Their turrets track your chopper, then fire. They'll also shoot open
+barracks, then shoot the hostages as they run.
+
+JET FIGHTERS charge at you, shooting air-to-air missiles.
+
+DRONE AIR MINES home in on your chopper. When they make contact, you crash!
+
+SURVIVAL TIPS
+
+Maneuver your chopper high to bomb tanks while avoiding their fire.
+
+You can shoot down air-to-air missiles, but it's safer and quicker to dodge
+them.
+
+Don't land on hostages -- that squashes them. Don't shoot them either.
+
+SCORING
+
+Scores are shown at the top of the screen:
+
+Left score      Hostages lost
+Middle score    Hostages inside the chopper
+Right score     Hostages rescued
+
+The highest possible score for rescued hostages is 64.
+
+
+Atari Corporation is unable to guarantee the accuracy of printed material
+after the date of publication and disclaims liability for changes, errors,
+or omissions. Reproduction of this document or any portion of its contents
+is not allowed without the specific written permission of Atari Corporation.
+
+Atari and 7800 are trademarks or registered trademarks of Atari Corporation.
+Choplifter! is a trademark of Broderbund Software, Inc.
+
+Copyright (C) 1982, Broderbund Software, Inc. All rights reserved.
+Copyright (C) 1987, Atari Corporation, Sunnyvale, CA 94086. All rights
+reserved.
+
+Printed in Hong Kong
+C024857-021 Rev. A      B.T.5.1988
+

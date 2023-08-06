@@ -1,0 +1,446 @@
+<picture of 4 ships flying in space, while a planet explodes in the background> 
+
+
+                         ATARI(r) 7800(tm) Game Manual
+
+
+                                   PLANET(tm)
+                                    SMASHERS
+
+
+
+
+Alien Invasion!
+
+While exploring a far-off region of the cosmos, your best friend's starship was 
+ambushed by hostile aliens from a remote galaxy.  These hostile aliens have 
+informed Earth that they are sending a crack intergalactic invasion force, the 
+Planet Smashers, to take over your planet.
+
+You know that with a name like the Planet Smashers these guys are not going to 
+leap at a chance to vacation in Geneva and talk peace.  These vicious aliens 
+murdered your friend, they intend to pillage your planet and enslave your fellow
+humans.  Besides, they're really ugly!
+
+You can't wait to take your starship out to meet these ill-begotten space 
+cadets.  You can't allow even one Planet Smasher to reach the Earth!
+
+
+Getting Started
+
+1.  With your TV switched on, insert the Planet Smashers cartridge into your 
+    Atari 7800 as described in your owner's manual.
+
+2.  Connect a controller to the left controller port.  In two-player Planet 
+    Smashers, connect a controller to each controller port.
+
+3.  Switch on your console.  The Planet Smashers title screen appears.  If you 
+    do not touch your controller, the High Scores screen appears, listing the 
+    ten top scores.  Press the fire button to continue.
+
+4.  To select one or two player Planet Smashers move the controller up or down 
+    to display the desired selection.
+
+To select difficulty level (Easy or Hard) move the controller left or right to 
+display the desired selection.  In easy mode the capsules drop more slowly than 
+they do in Hard mode, the enemies are slower to mode and shoot, and the Warp 
+Capsule colors needed to progress to the next level are the same every time you 
+play.  In Hard mode the enemies are faster and the Warp Capsule colors needed to
+progress to the next level are randomly generated every time you play.  In two 
+player Planet Smashers, each player can select a different difficulty level.
+
+To select the displayed options and begin play, either player can press a 
+controller fire button.
+
+
+Optional Game Controls
+
+The following optional game controls allow you to pause and restart the game:
+
+*  To pause the game press PAUSE.  Repeat to resume play.
+
+*  To return to the title screen press RESET.
+
+
+Playing the Game
+
+Planet Smashers is an exciting vertical scrolling space shooter.  You must 
+expertly maneuver your ship to avoid deadly alien fire.  Blast away with speed 
+and accuracy to destroy seven waves of mutant invaders before they get a chance 
+to destroy the Earth!  While you do battle with these vicious creatures in their
+home galaxies, the Earth will have more time to build shields against alien 
+attack.
+
+Begin by commanding the first of your four sleek starships.  You can maneuver 
+your starship within the lower half of the game screen.  Moving the controller 
+moves your craft right, left, up, or down.  Press the left fire button to shoot.
+
+Without shields, each starship will be destroyed by only one hit from enemy 
+fire, or one collision with an alien craft.  Learn to dodge quickly and to 
+protect your starship!  The game ends after your last starship is destroyed.
+
+Score points for each alien starship you destroy.  Shoot alien cargo vessels to 
+release valuable items.  Move underneath released items to pick them up and 
+upgrade your ship.  Be careful!  Some released items are destroyed if you shoot 
+them.
+
+You'll need the Warp Capsule to speed on to the end of the current galaxy in 
+your fight to keep the alien horde from reaching Earth.
+
+After surviving regular alien attacks, you must destroy the alien leader of each
+galaxy.  The leaders are tough to destroy, and have killer attack abilities.  
+Your final encounter will be with the dictator of the Planet Smashers, a nasty 
+video game alien who will put your most horrible nightmares to shame.
+
+After you have destroyed the evil dictator, the high scores screen appears.  If 
+you have managed to beat one of the high scores listed, your score will appear 
+on the high scores screen.
+
+In two player Planet Smashers, each player much successfully complete the agme 
+before the Earth can be saved.
+
+
+Screens
+
+Game play takes place on the Action screen.  The Status bar displays game 
+information.  
+
+Warp displays the colored Warp Capsules you have collected.  Empty Warp boxes 
+flash briefly when needed Warp Capsules are collected out of sequence.
+
+2 (Number of Ships) displays the number of reserved starships.
+
+Range tells how close you are to the galaxy leader.
+
+Shield displays the number of shields remaining.
+
+Cloak displays the number of cloaks remaining.
+
+Earth Shield displays the status of the Earth's protective shields.  Earth 
+Shield status will decrease with every alien ship and leader you let slip past 
+you.  If the Earth Shield status is zero, your reserve ships are destroyed.
+
+Score displays your score.
+
+
+
+                                   Status Bar
+
+
+------------------------------------------------------------------------------
+| ## | ## | ## |  /\  | %%%%    | ***   | **    | %%%%%%%%%     |   SCORE    |
+------------------------------------------------------------------------------
+      WARP         2     RANGE   SHEILD   CLOAK   EARTH SHIELD      180775
+
+
+Items
+
+The following capsules are released from destroyed alien cargo ships.  Move 
+directly underneath falling capsules to pick them up.
+ 
+ / \    Weapon Capsule increases the fire power of your ship's weapons.  There 
+| W |   are 10 levels of Weapon Capsules.  You begin the game with basic fire 
+ \ /    power, which means you must press the fire button each time you wish to 
+        fire one round.  Weapon Capsules give you automatic rapid fire.  Hold 
+        down the fire button and your weapon will fire repeatedly.  Each level 
+        will increase the rapid fire speed.
+
+ / \    Shield Capsule protects your ship from a single hit from enemy fire or 
+| S |   impact with an enemy vessel.  The impact or hit destroys the shield.  
+ \ /    You can store up to six shields.
+
+ / \    Cloaking Capsules make your starship invisible for twenty seconds.  But 
+| C |   be careful.  Just because the enemies can't see you does not make you 
+ \ /    invulnerable to stray lucky shots!  You can collect and store up to six 
+        Cloaking Capsules.  To activate the capsule, push the right controller 
+        button.
+
+ / \    Galaxy Warp Capsules drop from special cargo ships.  Each galaxy has a 
+|< >|   special three color code.  When playing Easy level Planet Smashers, each
+ \ /    level's three color code seuqnce will be the same every time you play 
+        that level.  In Hard level Planet Smashers each level's three color code
+        sequence is randomly created every time you play that level.
+
+        You must collect Galaxy Warp Capsules in the exact order of the three 
+        color code.  You can change the color of a Galaxy Warp Capsule by 
+        shooting it before picking it up.
+
+        When you collect the correct color, an empty box will be filled in the 
+        WARP section of your statistics screen.  The boxes fill from left to 
+        right.  If you collect a needed color out of sequence, the box in which 
+        the color belongs will flash briefly but not fill.  When you fill all 
+        three boxes, you will be transported directly to the end-of-galaxy 
+        encounter with the alien leader of that galaxy.
+ 
+ / \    Extra Ship Capsules can gain you an extra ship to use against the evil 
+|/^\|   Planet Smashers.  But this cargo is so precious the aliens have 
+ \ /    protected it with a dangerous trap.  When the cargo capsule containing 
+        the extra ship is release, it is sometimes charged with a deadly energy 
+        that will destroy your ship if you attempt to pick up the capsule.  When
+        the capsule is dangerous it will display a chilling death's head symbol.
+        It is safe to pick up the capsule during the period when it displays a 
+        ship symbol.
+
+
+Scoring
+
+Earn points by destroying the following alien invaders:
+
+        Enemy Bombs.............................................25
+        Cargo Ships............................................100
+        Fighters...............................................300
+        Bombers................................................500
+        Rammers................................................500
+        Bosses's Guns.........................................1000
+        Bosses........................................5000 or more
+
+
+
+
+
+
+
+
+
+                                      |||
+                                     / | \
+                                     ATARI(r)
+
+
+Atari Corporation is unable to guarantee the accuracy of printed material after
+the date of publication and disclaims liability for changes, errors, or 
+omissions.  Reproduction of this document or of any portion of its contents is 
+not allowed without the specific written consent of the Atari Corporation.
+
+Atari, the Atari logo, Planet Smashers, and 7800 are trademarks or registered 
+trademarks of Atari Corporation.
+
+Copyright (c) 1990, Atari Corporation, Sunnyvale, California  94089-1302.
+All rights reserved.
+
+Printed in Hong Kong                   G.C. 7, 1990   C300018-068 Rev.  A
+
+
+From jlodoen@shell.portal.com Thu Apr 13 20:18:34 1995
+Received: from hairball.ecst.csuchico.edu (hairball.ecst.csuchico.edu [132.241.1.108]) by steroid.ecst.csuchico.edu (8.6.11/8.6.10) with ESMTP id UAA02407 for <gchance@ecst.csuchico.edu>; Thu, 13 Apr 1995 20:18:32 -0700
+Received: from nova.unix.portal.com (nova.unix.portal.com [156.151.1.101]) by hairball.ecst.csuchico.edu (8.6.11/8.6.10) with ESMTP id UAA01504 for <gchance@ecst.csuchico.edu>; Thu, 13 Apr 1995 20:18:31 -0700
+Received: from jobe.shell.portal.com (jobe.shell.portal.com [156.151.3.4]) by nova.unix.portal.com (8.6.11/8.6.5) with ESMTP id UAA22419 for <gchance@ecst.csuchico.edu>; Thu, 13 Apr 1995 20:16:37 -0700
+Received: (jlodoen@localhost) by jobe.shell.portal.com (8.6.11/8.6.5) id UAA15771; Thu, 13 Apr 1995 20:16:35 -0700
+Date: Thu, 13 Apr 1995 20:16:34 -0700 (PDT)
+From: Jeff M Lodoen <jlodoen@shell.portal.com>
+To: gchance@ecst.csuchico.edu
+Subject: 7800 Planet Smashers docs
+Message-ID: <Pine.SUN.3.90.950413201545.15614A-100000@jobe.shell.portal.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: O
+
+                    ATARI (R) 7800 (TM) Game Manual
+
+                          Planet Smashers (TM)
+
+
+                            ALIEN INVASION!
+
+While exploring a far-off region of the cosmos, your best friend's
+starship was ambushed by hostile aliens from a remote galaxy. These
+hostile aliens have informed Earth that they are sending a crack
+intergalactic invasion force, the Planet Smashers, to take over your
+planet.
+
+You know that with a name like the Planet Smashers these guys are not
+going to leap at a chance to vacation in Geneva and talk peace. These
+vicious aliens murdered your friend, they intend to pillage your
+planet and enslave your fellow humans. Besides, they're really ugly!
+
+You can't wait to take your starship out to meet those ill-begotten
+space cadets. You can't allow even one Planet Smashers to reach the
+Earth!
+
+
+GETTING STARTED
+
+1.  With your TV switched on, insert the Planet Smashers cartridge into
+    your Atari 7800 as described in your owner's manual.
+
+2.  Connect a controller to the left controller port. In two-player
+    Planet Smashers, connect a controller to each controller port.
+
+3.  Switch on your console. The Planet Smashers title screen appears.
+    If you do not touch your controller, the High Scores screen appears,
+    listing the ten top scores. Press the fire button to continue.
+
+4.  To select one or two player Planet Smashers move the controller up
+    or down to display the desired selection.
+
+    To select difficulty (Easy or Hard) move the controller left or right
+    to display the desired selection. In easy mode the capsules drop more
+    slowly than they do in Hard mode, the enemies are slower to move and
+    shoot, and the Warp Capsule colors needed to progress to the next
+    level are the same every time you play. In Hard mode the enemies are
+    faster and the Warp Capsule colors needed to progress are randomly
+    generated every time you play. In two player Planet Smashers, each
+    player can select a different difficulty level.
+
+    To select the displayed options and begin play, either player can
+    press a controller fire button.
+
+
+OPTIONAL GAME CONTROLS
+
+The following optional game controls allow you to pause and restart the
+game:
+
+To pause the game press PAUSE. Repeat to resume play.
+
+To return to the title screen and restart the game, press RESET.
+
+
+PLAYING THE GAME
+
+Planet Smashers is an exciting vertical scrolling space shooter. You
+must expertly maneuver your ship to avoid deadly alien fire. Blast away
+with speed and accuracy to destroy seven waves of mutant invaders before
+they get a chance to destroy the Earth! While you do battle with these
+vicious creatures in their home galaxies, the Earth will have more time
+to build shields against alien attack.
+
+Begin by commanding the first of your four sleek starships. You can
+maneuver your starship within the lower half of the game screen. Moving
+the controller moves your craft right, left, up, or down. Press the left
+fire button to shoot.
+
+Without shields, each starship will be destroyed by only one hit from
+enemy fire, or one collision with an alien craft. Learn to dodge quickly
+to protect your starship! The game ends after your last starship is
+destroyed.
+
+Score points for each alien starship you destroy. Shoot alien cargo
+vessels to release valuable items. Move underneath released items to
+pick them up and upgrade your ship. Be careful! Some released items are
+destroyed if you shoot them.
+
+You'll need the Warp Capsule to speed on to the end of the current
+galaxy in your fight to keep the alien horde from reaching Earth.
+
+After surviving regular alien attacks, you must destroy the alien leader
+of each galaxy. The leaders are tough to destroy, and have killer attack
+abilities. Your final encounter will be with the dictator of the Planet
+Smashers, a nasty video game alien who will put your most horrible
+nightmares to shame.
+
+After you have destroyed the evil dictator, the high scores screen
+appears. If you have managed to beat one of the high scores listed, your
+score will appear on the high scores screen.
+
+In two player Planet Smashers, each player must successfully complete
+the game before the Earth can be saved.
+
+
+SCREENS
+
+Game play takes place on the Action screen. The Status bar displays game
+information.
+
+Warp displays the colored Warp Capsules you have collected. Empty Warp
+boxes flash briefly when needed Warp Capsules are collected out of
+sequence.
+
+2 (NUMBER OF SHIPS) displays the number of reserved starships.
+
+RANGE tells how close you are to the galaxy leader.
+
+SHIELD displays the number of shields remaining.
+
+CLOAK displays the number of cloaks remaining.
+
+EARTH SHIELD displays the status of the Earth's protective shields.
+Earth Shield status will decrease with every alien ship and leader you
+let slip past you. If the Earth Shield status is zero, your reserve
+ships are destroyed.
+
+SCORE displays your score.
+
+{picture of Status Bar}
+
+
+ITEMS
+
+The following capsules are released from destroyed alien cargo ships.
+Move directly underneath falling capsules to pick them up.
+
+WEAPON CAPSULE {W inside a hexagon} increases the fire power of your
+ship's weapons. There are 10 levels of Weapon Capsules. You begin the
+game with basic fire power, which means you must press the fire button
+each time you wish to fire one round. Weapon Capsules give you automatic
+rapid fire. Hold down the fire button and your weapon will fire
+repeatedly. Each level will increase the rapid fire speed.
+
+SHIELD CAPSULE {S inside a hexagon} protects your ship from a single hit
+from enemy fire or impact with an enemy vessel. The impact or hit
+destroys the shield. You can store up to six shields.
+
+CLOAKING CAPSULES {C inside a hexagon} make your starship invisible for
+twenty seconds. But be careful. Just because the enemies can't see you
+does not make you invulnerable to stray lucky shots! You can collect and
+store up to six Cloaking Capsules. To activate the capsule, push the
+right controller button.
+
+GALAXY WARP CAPSULES {solid, colored hexagon} drop from special cargo
+ships. Each galaxy has a special three color code. When playing Easy
+level Planet Smashers, each level's three color code sequence will be
+the same every time you play that level. In Hard level Planet Smashers
+each level's three color code sequence is randomly created every time
+you play that level.
+
+You must collect Galaxy Warp Capsules in the exact order of the three
+color code. You can change the color of a Galaxy Warp Capsule by
+shooting it before picking it up.
+
+When you collect the correct color, an empty box will be filled in the
+WARP section of your statistics screen. The boxes fill from left to
+right. If you collect a needed color out of sequence, the box in which
+the color belongs will flash briefly but not fill. When you fill all
+three boxes, you will be transported directly to the end-of-galaxy
+encounter with the alien leader of that galaxy.
+
+EXTRA SHIP CAPSULES {ship inside a hexagon} can gain you an extra ship
+to use against the evil Planet Smashers. But this cargo is so precious
+the aliens have protected it with a dangerous trap. When the cargo
+capsule containing the extra ship is released, it is sometimes charged
+with deadly energy that will destroy your ship if you attempt to pick up
+the capsule. When the capsule is dangerous it will display a chilling
+death's head symbol. It is safe to pick up the capsule during the period
+when it displays a ship symbol.
+
+
+SCORING
+
+Earn points by destroying the following alien invaders:
+
+Enemy Bomb .............. 25
+Cargo Ships ............. 100
+Fighters ................ 300
+Bombers ................. 500
+Rammers ................. 500
+Bosses's Guns ........... 1000
+Bosses .................. 5000 or more
+
+
+                             ATARI (R)
+
+Atari Corporation is unable to guarantee the accuracy of printed
+material after the date of publication and disclaims liability for
+changes, errors, or omissions. Reproduction of this document or any
+portion of its contents is not allowed without the specific written
+consent of Atari Corporation.
+
+Atari, the Atari logo, Planet Smashers, and 7800 are trademarks or
+registered trademarks of Atari Corporation.
+
+Copyright (C) 1990, Atari Corporation, Sunnyvale, CA 94089-1302.
+All rights reserved.
+
+Printed in Hong Kong.    G.C.7.1990     C300018-068 Rev. A
+
+

@@ -1,0 +1,106 @@
+Hit the Ice!
+
+What a night for a hockey game! After weeks of intensive training on the
+ice, you're finally at the face-off, waiting for the starting whistle. As
+the puck slides across the smooth, icy surface, you take it at center ice,
+managing to break over the blue line to your opponent's right. Whoooossh.
+What reflexes! What speed!
+
+The spray of the ice on your face momentarily blinds you, but you continue
+to skate furiously, weaving towards the opposing goal. You can feel your
+challenger's hot breath on the back of your neck, as the distance between
+you grows smaller and smaller. But before he can manage to steal the puck,
+you swing your stick and whack -- it's a slapshot! The point is yours!
+
+Get three goals in a game, and it's a hat trick!
+
+Getting Started
+
+1.  With your TV turned on, insert the Hat Trick cartridge into your Atari
+    7800 as explained in your Owner's Manual, and turn on your console.
+    After a few seconds, the Hat Trick title screen appears with the game
+    options displayed.
+
+2.  Plug a joystick into the left joystick port for one player and another
+    into the right joystick port for two players. The left joystick
+    controls the blue player and goalie, and the right joystick controls
+    the red player and goalie.
+
+3.  To select a one- or two-player game, press [Select] or move the
+    joystick handle. For a one-player game, continue to press [Select] or
+    move the joystick handle to select the novice or expert game level. In
+    the novice game level, your computer-opponent's reflexes are slower.
+
+4.  Press either joystick fire button or [Reset] to start the game. If you
+    wait a few moments before starting the game, a brief game demonstration
+    will appear on the screen.
+
+5.  Press [Reset] in the middle of a game to restart the game. Press
+    [Select] in the middle of a game to return to the title screen and
+    select new game options.
+
+Playing the Game
+
+The game takes place on an ice hockey rink. As in a real hockey game, you
+want to score more goals than your opponent does. To do so, you'll grab the
+puck (or steal it away from your opponent), skate until you see an opening,
+and then, using your stick, hit the puck past the goalie, into your
+opponent's goal. On the defense, your goalie must block your opponent's
+attempts to hit the puck into your goal.
+
+You control both your player and goalie with the joystick handle. Move the
+joystick handle up, down, right, or left to move your player. As your
+player skates up and down, your goalie moves in the same direction but more
+quickly.
+
+Each game lasts two minutes. At the start of the game, you and your
+opponent face off inside a large, yellow circle in the middle of the rink.
+At the sound of the serve whistle, the puck slides onto the ice from either
+the top or bottom of the rink.
+
+To steal the puck, maneuver your player until his stick touches the puck.
+To hit the puck into a goal, press either joystick fire button. The puck is
+hit in the direction the joystick handle is facing.
+
+After either player scores a point, a goal whistle sounds and all action
+freezes. Then the serve whistle will sound, and you'll face off once again
+with a new puck.
+
+Playing Tips
+
+Don't forget your goalie! If your opponent nears your goal, move the
+joystick handle up or down so your goalie can block the puck.
+
+If you bump into your opponent, you'll bounce off each other. However, if
+your sticks get locked together, you can break the lock by moving past each
+other.
+
+Whenever you let go of the joystick, you'll automatically face the opposing
+goal. That way you won't accidentally push the puck into your goal and give
+your opponent a free point!
+
+Scoring
+
+The scoreboard is at the top of the screen. The clock counts down from the
+serve whistle. You'll win points each time you successfully hit the puck
+through the opposing goal. The scoreboard also displays the number of
+"saves" (when a goalie blocks the puck), but saves don't earn you points.
+Whoever has the highest number of points at the end of two minutes wins the
+game. If the game is tied at the end of two minutes, the game goes into
+overtime, giving you another 20 seconds of game play. If the tie is broken
+during overtime, the game ends with one side declared the winner.
+
+Atari Corporation is unable to guarantee the accuracy of printed material
+after the date of publication and disclaims liability for changes, errors,
+or omissions. Reproduction of this document or any portion of its contents
+is not allowed without the specific written consent of Atari Corporation.
+
+Atari (R), the Atari logo, and 7800 (TM) are trademarks or registered
+trademarks of Atari Corporation. Hat Trick is a trademark of Bally Sente,
+Inc. (C) 1984, Bally Sente, Inc.
+
+(C) 1987, Atari Corporation, Sunnyvale, CA 94086.
+All rights reserved.
+
+Printed in Hong Kong           C300018-029                    B.T.5.1988
+

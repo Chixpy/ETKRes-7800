@@ -1,0 +1,144 @@
+                     ATARI (R) 7800 (TM) Game Manual
+
+                               Galaga (TM)
+
+You're under attack! The Galagans are reclaiming planets they lost during a
+centuries-old interstellar war -- and now they want yours! And you're ready
+to fight to the bitter end to protect it!
+
+So you join the Intergalactic Warrior Fleet. Without training, you're
+assigned to your first combat mission -- and on-the-job is the only way to
+learn. Shaking in your boots, you accept the assignment and board your
+Intergalactic Command Ship.
+
+
+GETTING STARTED
+
+1.  Insert the Galaga (TM) cartridge into your ATARI (R) 7800 Pro-
+    System (TM) as explained in your Owner's Manual, and turn on your
+    console.
+
+2.  Plug a controller into the left controller jack for one player; another
+    into the right controller jack for two players.
+
+3.  Press [Select] to choose a one- or two-player game, or move the
+    controller handle down for one player, up for two players. Move the
+    controller handle to the left or right to choose one of three
+    difficulty levels: Novice, Advanced, or Expert.
+
+4.  Press [Reset] or either controller button to start the game.
+
+5.  Press a controller button to fire intergalactic missiles. Hold down the
+    button to rapid fire.
+
+6.  Press [Pause] to pause the game; press it again to resume play.
+
+
+PLAYING THE GAME
+
+DEFENDING THE PLANET
+
+You start the game with four Command Ships: one at the line of battle and
+the others in reserve at the bottom of the screen. Slide your Command Ship
+right and left to dodge Galagan missiles. At the same time, fire
+intergalactic missiles to protect your ship. You lose a ship when it is hit
+by a Galagan missile or collides with the enemy.
+
+Galagans attack in a series of waves, each fiercer than the one before.
+Waves are identified with numbers at the lower right of the screen. The
+number of ships you have in reserve is shown at the lower left.
+
+Galagan Flagships never fly alone: they are always flanked by protective
+Escorts in colorful uniforms. Escort rank is easy to identify: Drones, the
+lowest rank, wear blue; Hornets are outfitted in red; and Flagship
+Commanders, the highest rank, wear yellow.
+
+The Galagan invasion starts off with a bang! An entire fleet of invaders
+begins flying in formation, then instantly plunges towards you, bombarding
+your ship, then rushing back to the lineup -- that is, if you don't shoot
+them first!
+
+The Galagans attack faster and faster with each wave. They swoop downward,
+firing laser cannons, or blitz in groups. The enemy's special radar lets
+them dodge your intergalactic missiles. They use tricks to divert your
+attention. Their ability to pull off unexpected maneuvers forces you to
+quickly learn caution, cunning, and skill.
+
+You thwart the initial attack, but the battle isn't over. The Galagans will
+be back, stronger than ever. And you'll be waiting. The longer you survive,
+the more  surprises you're in for!
+
+To win, use your accurate aim and quick reflexes. Plan your strategy. Think
+ahead. A foolish move could cost you the battle -- and the planet!
+
+
+STRATEGY
+
+Try a few games at the Novice level first while you're learning to play
+Galaga. This will help you develop skill and strategy.
+
+When Galagan Flagships deploy blue macro-beams that can capture your
+Command Ship. To rescue the hostage, hit the Flagship only while it's
+attacking, or you will destroy your own ship as well. Once you regain your
+ship, you will have two ships, moving annd firing in sync, to attack with.
+
+When a Galagan Flagship is destroyed in flight, the rest of the fleet stops
+firing for a few seconds of mourning. Move in quickly to blast the Escorts
+before they can retaliate.
+
+After two waves of attack, then after every third wave, you face a
+Challenging Stage. Five groups of eight ships fly in various attack
+patterns. Shoot as many ships as you can before the ships leave. Hit all 40
+ships for 10,000 bonus points.
+
+Always have a strategical escape planned to avoid patterns of enemy missile
+attacks. Scan the screen and think fast to outsmart the Galagan fleet.
+
+
+SCORING
+
+You score points when you destroy Galagans. Scores appear at the top of the
+screen: Player 1's score is on the left; Player 2's score is on the right.
+If all your Command Ships are destroyed, the game is over. At the end of a
+game, the player with the most points wins.
+
+Point values are listed below:
+
+Flagships:      first hit in line                 0 points
+                second and more hit in line     150 points
+Hornets:        lined up                         80 points
+                attacking                       160 points
+Drones:         lined up                         50 points
+                attacking                       100 points
+
+Destroying a flagship in flight earns bonus points:
+Flagship with two Escorts       1600 points
+Flagship with one Escort         800 points
+Flagship with no Escorts         400 points
+
+Challenging Stages earn bonus points:
+Bonus for destroying groups of eight ships      1000-3000 points
+Bonus for destroying all 40 ships                  10,000 points
+Bonus for destroying less than 40 ships               100 points per ship
+
+
+Reproduction of this document or any portion of its contents is not allowed
+without the specific written permission of Atari Corporation.
+
+Every effort has been made to ensure the accuracy of the product
+documentation in this manual. However, because we are constantly improving
+and updating our computer software and hardware, Atari Corporation is
+unable to guarantee the accuracy of printed material after the date of
+publication and disclaims liability for changes, errors, and omissions.
+
+Atari is a registered trademark and 7800 is a trademark of Atari Corporation
+Galaga is a trademark of Namco Ltd., manufactured under license by
+Atari Corporation
+
+Copyright (C) 1987, Atari Corporation Sunnyvale, CA 94086
+All Rights Reserved.
+
+                                                    Printed in Hong Kong
+                                                    CO24857-05 Rev. B
+                                                    B.T.5.1988
+

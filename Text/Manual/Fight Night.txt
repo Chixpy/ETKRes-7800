@@ -1,0 +1,208 @@
+	<picture of a boxing glove punching through white background>
+
+
+                        ATARI(r) 7800(tm) Game Manual
+
+
+                               FIGHT NIGHT(tm)
+                               by Accolade(tm)
+
+
+
+
+
+
+
+The Main Event!
+
+     Strap on your boxing gloves, and step into the ring.  Tonight you're 
+going to test your prowess against the world's toughest fighters.  To prepare 
+for this event, you'll train in punching skills, footwork, timing, and 
+sparring.  Then you'll enter your fighters in championship matches and 
+tournaments.
+     As the tension mounts in the smoke-filled arena, you eye your contender 
+warily.  Be careful, and good luck.  This could be your big night!
+
+
+Getting Started
+
+1.  With your Atari 7800 set up, insert the Fight Night cartridge into the 
+    console and plug a controller into the left port.  For two players, plug 
+    another controller into the right port.
+
+2.  Turn on your television and press [Power] to turn on your Atari console.  
+    The Fight Night title screen appears.
+
+3.  Wait for the game to show the information and then selection screens, or 
+    press the fire button twice to show the selection screen and select your 
+    event.
+
+4.  Use the controller to select one of the four events, then press the fire 
+    button to start the action.
+
+5.  Press [Pause] to pause a game.  Press it again to resume play.
+
+6.  Press [Reset] at any time to start a new game with the same event, or 
+    press [Select] to return to the selection screen.
+
+
+Fight Night Events
+
+     Fight night is a multi-event sports simulations.  You have your pick of 
+any one of the four events listed on the selection screen:  Main Event, 
+Training, Sparring Match, and Tournament.
+     In Main Event, you'll fight against a series of eleven contenders, each 
+one more powerful than the last.
+     In Training, you'll use the controller to train these powerhouses in 
+punching, footwork, and timing.
+     In Sparring Match, your fighters will practice what they've learned in 
+training in a match against the computer.
+     In Tournament, you and a friend can take up your best boxers to fight 
+each other's stars in round robin order.  This is a player vs. player event.
+     In each event, the controller operates the same way.  To select options 
+or contenders, move the controller handle right or left, or up or down to 
+highlight your choice.  Then press the fire button to make a selection.
+     If, while in an event, you want to return to the selection screen to 
+choose another event press [Select].  To Exit, you can select the Exit option 
+while choosing fighters.  Pressing [Reset] will reset the selected event.
+
+
+Boxing Moves
+
+     To box, you have eight different commands at your disposal.  
+
+
+<pictures of various fighters performing boxing actions>
+
+
+Command                  Controller Handle             Fire Button
+
+1.  Throw a jab               Up                         Down
+2.  Throw a body blow        Down                        Down
+3.  Fake a jab               Left                        Down
+4.  Fake a body blow         Right                       Down
+5.  Put your guard up         Up                          Up
+6.  Put your guard down      Down                         Up
+7.  Move left                Left                         Up
+8.  Move right               Right                        Up
+
+
+Training
+
+     Before your boxers fight, they'll want to train.  With Training, you can 
+practice using your controller to perfect your offensive and defensive boxing 
+strategies.  After selecting a boxer for training, you'll choose a training 
+mode:  Follow (the computer requests your moves) or Lead (you choose your own 
+moves).  You'll then pick a training speed, displayed on a speed bar.  When 
+you determine your boxer is ready, he can continue his training under Sparring 
+Match by practicing his strategy against the computer.
+
+
+In the Ring
+
+     In Main Event, Sparring Match, and Tournament, your boxer will compete 
+against other contenders for a score.  The top of the screen displays each 
+boxer's name, picture, score, and KO (Knock Out) bar, as well as the round 
+number and a clock. 
+     The object of the fight is to knock out or "KO" the contender by landing 
+blows to his face and body, while avoiding similar blows.  Each time a fighter 
+lands a blow, his score goes up and his opponent's KO bar increases.
+     There are three rounds to a match, each round lasts three minutes.  Your 
+points accumulate through each round.  If neither is KO'd by the end of the 
+match, the player with the highest number of points wins.
+
+
+                                  Contenders
+
+Contender         Rank   Strengths                Weaknesses
+
+Dip Stick         12     Light on his feet        Light in the head
+Little Moe        11     Uses his head            But not much
+Crazy Craven      10     Punch packs power        Moves slowly
+Macho Man          9     Dishes out head blows    Can't take them
+Kid Kastro         8     Throws lots of punches   Punches lack pop
+Killer Diller      7     Can resist punches       Weak punches
+Wing Ding          6     Fast on his feet         Can't take body blows
+Hu Him             5     Cement head              Backs away from body blows
+Bobby Socks        4     Takes a punch well       Can't dish out punch
+British Bulldog    3     Heavy puncher            Thick as a brick
+Mike Bison         2     Powerful head blows      A little slower than the Champ
+Bronx Bomber     Champ   Everything               None
+
+
+<picture notes:  there were two sets, one with white skin, another with dark>
+
+<picture of              <caricature of             <picture of normal-
+nerdy-looking guy>        old Fidel himself>        looking guy>
+Dip Stick                Kid Kastro                 Macho Man
+Little Moe <dark skin>   Killer Diller <dark skin>  Crazy Cavern <dark skin>
+
+<picture of               <picture of             <picture of
+large, asian man>         british pugilist>       very large scary man>
+Hu Him                    British Bulldog         Bronx Bomber
+Wing Ding <dark skin>     Bobby Socks <dark skin> Mike Bison <dark skin>
+
+
+Scoring
+
+     When you score points and how many points you score depends on the boxer 
+you're facing.  Each boxer has a different point value for each punch (jab, 
+body blow, or superblow) and resistance value for each blow.  
+
+                                Scoring Table
+
+               Bronx Bomber         Mike Bison      British Bulldog
+
+Head Blow           8                   7                  4
+Body Blow           8                   8                  8
+Resist Head         7                   8                  6
+Resist Body         7                   7                  6
+
+               Bobby Socks            Hu Him          Wing Ding
+
+Head Blow           4                   7                  5
+Body Blow           6                   4                  4
+Resist Head         7                   7                  7
+Resist Body         6                   4                  4
+
+               Killer Diller        Kid Kastro        Macho Man
+
+Head Blow           3                   3                  5
+Body Blow           5                   6                  4
+Resist Head         3                   3                  4
+Resist Body         7                   6                  5
+
+               Crazy Craven         Little Moe         Dip Stick
+
+Head Blow           5                   3                  2
+Body Blow           4                   4                  5
+Resist Head         4                   3                  2
+Resist Body         4                   4                  4
+
+
+     Your boxer's guard position determines the degree of damage.  If his 
+guard is up when his contender lands a jab, or down when he lands a body blow, 
+the amount of damage caused by a punch is zero.
+     You can win extra points by stepping into a punch, fewer points for 
+stepping out of a punch.
+
+
+
+
+Atari Corporation is unable to guarnatee the accuracy of printed material 
+after the date of publication and disclaims liability for changes, errors, or 
+omissions.  Reproduction of this document or of any portion of its contents is 
+not allowed with the specific written consent of Atari Corporation.
+
+Atari(r), the Atari logo, and 7800(tm) are trademarks or registered trademarks 
+of Atari Corporation.  Fight Night(tm) is a trademark of Sydney Development 
+Corp.  Copyright (c) 1985, 1986.  Accolade, Inc., under license from Sydney 
+Development Corp.  7800 Version by Imagineering, Inc. 
+
+Copyright (c) 1988, Atari Corporation, Sunnyvale, CA  94086.         |||
+All rights reserved.                                                / | \
+                                                                    ATARI(r)
+Printed in Hong Kong.  B.T. 6. 1989     C300018-051 Rev. A          
+
+
+

@@ -1,0 +1,123 @@
+                     ATARI (R) 7800 (TM) Game Manual
+
+                             Donkey Kong (R)
+                             by Nintendo (R)
+
+GO APE!
+
+Poor Mario. Just when things were going so well for him -- new girlfriend,
+new car, new job -- that beastly ape Donkey Kong kidnaps Mario's girlfriend
+and drags her off screaming to the top of a steel fortress. To save her,
+Mario must climb to the top of the fortress, remove dangerous rivets, and
+fend off life-threatening barrels and fireballs that the ape throws down at
+him. It's a tough fight, and Mario needs your help. Be a chum. Be a hero.
+Help Mario save his girlfriend.
+
+GETTING STARTED
+
+1.  Insert the Donkey Kong cartridge into your Atari 7800 as explained in
+    your Owner's Manual.
+
+2.  Plug a controller into the left port on the front of the system for one
+    player; plug a second controller into the right port for two players.
+
+3.  Turn on your television; then press [Power] to turn on your Atari
+    console. The title screen will appear.
+
+4.  Press [Select] or move directional lever up or down for 1 or 2 players.
+
+5.  Press [Select] or move the directional lever on your controller left or
+    right to choose a game level.
+
+6.  Press player 1's fire button to begin the game.
+
+7.  Press [Pause] to pause a game. Press it again to resume play.
+
+8.  During a game press [Reset] to restart. Press [Select] to return to
+    title screen.
+
+PLAYING THE GAME
+
+Hold the controller so that the controller fire button is in the top-left
+corner.
+
+Move the directional lever on your controller left or right to make Mario
+run on the ramps. To help him up and down ladders, first position him under
+or over the ladder, and then move the lever up or down. Mario can descend
+only unbroken ladders.
+
+Press the controller fire button to make Mario jump over rivets, barrels,
+and fireballs, or grab the hammer, Mario's only weapon against barrels and
+fireballs. It's easier for him to jump over a barrel or fireball when he's
+running towards it. If one of those nasties is heading toward him, don't
+let him be caught on a ladder or with his back turned.
+
+When Mario jumps and grabs the hammer, he can hit the barrels or fireballs
+by first facing them, and then hitting them with the hammer. Once Mario has
+the hammer, you should act quickly -- the hammer will soon disappear. If
+you miss, you'll lose Mario. Don't try to climb the ladders with the hammer.
+Mario won't make it.
+
+THE STEEL FORTRESS
+
+The steel fortress has three screens: a ramp screen, an elevator screen,
+and a rivet screen.
+
+The game begins with the ramp screen. Here Mario must climb to the top of
+the screen. Donkey Kong rolls barrels down the ramps to make the going
+tough. Mario can run away from the barrels, leap over them, or smash them
+with a hammer. When Mario makes it to the top of the ramps, he'll proceed
+to the elevator screen.
+
+Mario must use the elevators to make his way across several platforms while
+avoiding the mad springs bouncing at the top of the screen.
+
+On the rivet screen, Mario must remove all of the rivets by either running
+or jumping over them. At the same, he must avoid the fireballs that are
+chasing him.
+
+When Mario eliminates every rivet, he'll return to the ramp screen to
+continue his rescue mission at a more difficult level. From here, you can
+continue the game indefinitely until you run out of Marios.
+
+Each screen has a score/bonus points counter at the top. You'll start with
+5000 bonus points. You're racing against the clock, so if the counter
+reaches zero, you lose a Mario.
+
+As you go from screen to screen, you'll take your bonus points with you.
+
+SCORING
+
+Get purse, umbrella                800 points
+Jumping a barrel                   100 points
+Removing a rivet                   100 points
+Smashing a barrel or fireball      500 points
+ with the hammer
+Extra life at                   20,000 points
+
+You begin with three Marios: a player and two backups. If you lose a Mario,
+a backup is there to take over. Backups begin at the bottom of the screen.
+When all the Marios are used up, the game is over.
+
+
+                                ATARI (R)
+
+Atari Corporation is unable to guarantee the accuracy of printed material
+after the date of publication and disclaims liability for changes, errors,
+or omissions. Reproduction of this document or any portion of its contents
+is not allowed without the specific written consent of Atari Corporation.
+
+Atari (R), the Atari logo, and 7800 (TM) are trademarks or registered
+trademarks of Atari Corporation. Donkey Kong (R), Mario (TM) and
+Nintendo (R) are trademarks or registered trademarks of Nintendo of America
+Inc. (C) 1981, 1983 Nintendo of America Inc. Program and audiovisual
+(C) 1982, Coleco Industries, Inc. Manufactured under license by from
+Nintendo of America Inc. 7800 version by ITDC.
+
+Copyright (C) 1982, Nintendo of America Inc. All rights reserved.
+
+Copyright (C) 1988, Atari Corporation, Sunnyvale, CA 94086. All rights
+reserved.
+
+Printed in Hong Kong.   B.T.8.1988      C300018-048 Rev. A
+

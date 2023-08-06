@@ -1,0 +1,181 @@
+<picture of a guy riding on a sleek motorcycle>
+
+
+                         ATARI(r) 7800(tm) Game Manual
+
+
+                                     MOTOR 
+                                     PSYCHO
+
+
+
+
+Rev 'er Up!
+
+You finished it at last!  And now you are going crazy waiting to test your 
+sleek, hot, fast customized bike.  It absorbs your every waking moment, you 
+dream about it every night.  It has become an obsession.  And you know just the
+place to try it out.
+
+The annual MotorPsycho Competition (for deranged, psychopathic, and other 
+unusual biker types) is this weekend!  Its obstacle-laden course is legendary 
+among motorcycle maniacs.  Of course, nobody in their right mind would attempt 
+this course.  The die-hard spectators remind you that fan is short for fanatic.
+They've staked out their favorite spots to view the races, and they are waiting
+for the roar of revving engines, the squeal of tires, the crunch of metal...
+
+It's you against the clock and your bike is built for speed.  All you need to do
+is point it in the right direction and go for it!
+
+Four different tracks will separate the veterans from the rookies.  (Or the 
+schizophrenics from the psychotics.)  Weekend amateurs will eat your dust, but 
+you've got some pretty insane competition from your fellow, uh, pros.  Some of 
+these guys look hungry for the sweet taste of victory, but some of them look 
+hungry for the taste of raw meat!
+
+So rev 'er up and let 'er rip!  The winner's circle (or the guy with the clean 
+white coat) awaits.
+
+
+Getting Started
+
+1.  With your 7800 game system switched off, insert the MotorPsycho cartridge 
+    into the cartridge slot as described in your owner's manual.
+
+2.  Connect a controller to the left controller port.  Connect a controller to 
+    the right port to allow you to set your motorcycle's response time to the 
+    following commands:  going into a turn, and returning to an upright position
+    after a turn.  (See Setting Response Controls.)
+
+3.  Press the POWER button on your console and switch on your TV.  The 
+    MotorPsycho title screen displays.
+
+4.  Press SELECT to choose one of the four tracks.
+
+5.  To begin the game, press the fire button.
+
+During game play, you may start the game over by pressing RESET.
+
+
+Playing the Game
+
+MotorPsycho is a fast and frenzied motorcycle racing game.  The object of the 
+game is to race through any of four motorcycle tracks as possible while earning
+the maximum number of points.  
+
+Use the controller to maneuver your cycle and change gears.  To shift to high 
+gear, push the directional control forward.  To shift to low gear, pull the 
+control back.  Press the right fire button to jump.  You can't brake, so be very
+careful with those daredevil maneuvers!  At the end of the game, your score and
+high score are displayed at the top of the screen.
+
+Hold down the left fire button to accelerate.  Downshift from high to low gear 
+to lower your speed quickly.
+
+During play, a control panel displays the following information at the top of
+the screen:
+
+   Elapsed Time                             Straighten Response Time
+        |                                              |
+        V                                              V
+
+      3:09:25                                    STRAIGHTEN:  22
+      122 MPH          TIME:  43        Lo             TURN:  10
+
+       ^                   ^            ^                ^
+       |                   |            |                |
+     Speed          Time Remaining   Low/High      Turn Response
+                                       Gear            Time
+
+
+Setting Response Controls
+
+Follow these instructions to use the right controller to set your motorcycle's 
+response time:
+
+1.  Set the A/B switch next to the left controller port to B.  B is the position
+    to the right.  The Control Parameters Table with default settings displays 
+    in place of the Score/High Scores box.
+
+2.  Use the right joystick to set response times.  To set the Straighten 
+    response time, move the right controller up or down until the desired number
+    displays.  (1 is the slowest response time, 25 is the fastest.)  To set the 
+    Turn response time, move the right controller right or left until the 
+    desired number displays.  (1 is the slowest response time, 12 is the 
+    fastest.)
+
+    Straighten time is the length of time it takes your bike to return to an 
+    upright position after a turn.  Turn response time is the length of time it
+    takes your bike to lean into a turn.
+
+3.  Return the A/B switch to its original setting.  The Control Parameters Table
+    is replaced by the Score/High Scores box.
+
+The settings will be in effect until you change them, or until the machine is 
+switched off.
+
+
+Strategy
+
+Use down shifting to decrease speed quickly on sharp turns.
+
+Different Straighten and Return response time settings work best on different 
+tracks.
+
+To save wear and tear on your thumb, strap a rubber band around the joystick 
+button that controls acceleration for long play sessions.
+
+Quick reactions and joystick moves can help you maneuver your way through other
+bikes on the track.
+
+
+Scoring
+
+Racers receive points for each section of track completed.  Each track section 
+is about two inches long on the screen.  If the racer is on the ground, he will
+receive one point for each section of track.  Two points are awarded for each 
+section when the racer is in the air.  
+
+Hitting a ramp at a high enough speed to cause the bike to jump is worth 1000 
+points.
+
+Jumping over an object results in additional points, if the racer doesn't hit 
+the object and returns to the ground without crashing:
+
+      Object          Points
+      Enemy Bike.......3000
+      Arrow Sign.......2000
+      Cone.............1500
+      Ramp..............500
+
+When the game ends, players receive 1000 points for each enemy passed during the 
+race and 5000 points for every second of unused play time.
+
+
+
+
+
+
+
+
+                                      |||
+                                     / | \
+                                     ATARI(r)
+
+Atari Corporation is unable to guarantee the accuracy of printed material after
+the date of publication and disclaims liability for changes, errors, or 
+omissions.
+
+Reproduction of this document or of any portion of its contents is not allowed 
+without the specific written consent of the Atari Corporation.
+
+Atari, the Atari logo, MotorPsycho, and 7800 are trademarks or registered 
+trademarks of Atari Corporation.
+
+Copyright(c) 1990, Atari Corporation, Sunnyvale, California  94089-1302.
+All rights reserved.
+
+Printed in Hong Kong                   G.C. 8, 1990   C300018-052 Rev.  A
+
+
+

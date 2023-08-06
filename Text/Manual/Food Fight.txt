@@ -1,0 +1,139 @@
+Hurry! Hurry! Step Right Up! Earn Your Just Desserts!
+
+Once there was a fellow named Charley Chuck. More than anything, Charley
+loved to eat. So when he went to the carnival one hot summer day, he
+headed straight for the Food Fight contest.
+
+The Menu
+
+Loading Up for a Food Fight
+
+1.  Insert the Food Fight (TM) cartridge into your ATARI (R) 7800 (TM) 
+    ProSystem as explained in your Owner's Manual, and turn on your
+    console.
+
+2.  Plug a controller into the left controller jack for one player, and
+    another into the right controller jack for two players.
+
+3.  Move the controller handle forward or backward, or press [Select] to
+    choose a one- or two-player game. Move the controller handle to the
+    left or right to choose a difficulty level: Beginner, Intermediate,
+    Advanced, or Expert.
+
+4.  Press [Reset] or either button on the controller to show the Game 
+    Level Options screen.
+
+    Using the left controller, Player 1 chooses Game Level 1 through 16 by 
+    moving the controller handle to the left (for lower levels) or to the 
+    right (for higher levels). Player 1 presses either controller button or
+    [Reset] to begin the game. Player 2 chooses a game level after Charley
+    loses his first life. Once you've played, you can start at the highest
+    game level you've reached.
+
+5.  Press either controller button to make Charley throw food at the chefs. 
+    Charley throws in the direction the controller is pointing. Watch his
+    eyes and arms for an accurate reading.
+
+6.  Press [Pause] to pause the game; press it again to resume play.
+
+The Match
+
+How Charley Wins His Just Desserts
+
+Depending on the game level, Charley has three to eight lives and battles
+two to four chefs: Angelo, Zorba, Oscar, and Jacques. If Charley uses up
+his last life, he's cooked for good, buried under an avalanche of food.
+
+He Starts with Vanilla
+
+Each ice cream cone takes 32 seconds to melt. At the beginning of Level 1,
+Charley is poised at the right side of the screen. A vanilla ice cream cone
+beckons him from the opposite side. In between are stacks of food and three
+manholes. To win, Charley must race to the ice cream cone before it
+melts -- without falling into a manhole, touching his opponents, or being 
+walloped by flying food, compliments of the chefs.
+
+The Tomato Almost Purees Him
+
+The game begins. Suddenly, Angelo and Zorba pop out of holes and take off
+after Charley. Lickety-split, Charley runs toward the cone with the chefs
+at his heels.
+
+He can thwart them by hitting them with food or forcing them into manholes.
+The chefs can put an end to Charley, but he can stop them only temporarily.
+Within seconds, they reapper out of the manholes.
+
+When Charley reaches the cone, the chefs retreat until the next round, and
+he swallows the cone in one quick gulp.
+
+In Level 2, Oscar joins his chef buddies, and the battle continues. This
+time Charley races toward a chocolate cone.
+
+By the time Charley reaches Level 3, he also faces Jacques. Through round
+after round, Charley holds off all four chefs and the pace picks up. He
+must dodge as many as ten manholes and fight for up to eight piles of food.
+To complicate matters, the chefs and the manholes aren't always in the same
+positions. And after Level 6, neither is the cone.
+
+Strategy
+
+How Charley Avoids a Dangerous Diet
+
+Watch out for open manholes or Charley will fall in and lose a life!
+
+Keep an eye on the colors of the chefs. When the chefs are blue or yellow,
+they can't hurt Charley.
+
+In the higher levels, have Charley race to the cone immediately for the
+high cone points. You win an extra 500 points each time Charley scrambles
+to a higher level.
+
+Use leftovers as ammunition whenever possible. Remember: if Charley's
+carrying food when he reaches the cone, he takes it with him to the next
+level.
+
+Scoring
+
+Special Feature: If he plays like a champ, Charley sees an instant replay
+of his last round.
+
+Chow Time: In Levels 1 through 4, Charley and the chefs do battle with a
+random assortment of food. In Levels 5 and above, one type of food may
+dominate the match.
+
+Wallop Ten Chefs: You earn 100 points for the first chef, 200 points for
+the second chef, and so on, increasing 100 points per chef up to 1000
+points for the tenth chef and above.
+
+Force a Chef Into a Manhole: You earn 200 points per chef.
+
+Eat the Cone: You earn 500 points for the first cone, 1000 points for the
+second cone, and so on, increasing 500 points per cone up to a maximum of
+25,000 points at level 50.
+
+Leave the Leftovers on the Screen: You earn 100 bonus points per leftover.
+
+Bonus Life: Charley earns an extra life at 25,000 points and every 100,000
+points thereafter, and at every tenth game level if he begins the game at
+level 10 or above.
+
+Reproduction of this document or any portion of its contents is not allowed
+without the specific written permission of Atari Corporation.
+
+Every effort has been made to ensure the accuracy of the product
+documentation in this manual. However, because we are constantly improving
+and updating our computer software and hardware, Atari Corporation is
+unable to guarantee the accuracy of printed material after the date of
+publication and disclaims liability for changes, errors, and omissions.
+
+ATARI is a registered trademark, and Food Fight and 7800 are trademarks of
+Atari Corporation.
+
+Copyright (C) 1987, Atari Corporation Sunnyvale, CA 94086
+All rights reserved
+
+Printed in Hong Kong
+
+CO24857-04 Rev. B       B.T.5.1988
+
+

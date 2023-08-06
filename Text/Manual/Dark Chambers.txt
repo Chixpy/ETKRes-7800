@@ -1,0 +1,218 @@
+                     ATARI (R) 7800 (TM) Game Manual
+
+                            Dark Chambers (TM)
+
+The Darkness Is Upon You!
+
+You're on a dangerous treasure hunt, deep in the underground world of
+Dark Chambers. Wraiths, wizards, and moldering skeletons surround you. As
+you move through this meandering maze, you are stalked by the grim reaper.
+
+The exits you see only take you deeper into the maze. If you find the
+strategically placed weapons, you can fend off your enemies while you
+search for the hidden treasure. The secret potions you find along the way
+will renew your strength. But watch out for hidden traps and deadly
+poisons.
+
+Your strength will help you outlast the weaker ghouls, but are you a match
+for the strongest? Enter the underground world of Dark Chambers and find
+out.
+
+Getting Started
+
+1.  With your Atari 7800 set up, insert the Dark Chambers cartridge into
+    the console. Plug a controller into the left port on the front of your
+    console; for two players, plug another controller into the right port.
+
+2.  Turn on your television, and press the [Power] key to turn on your
+    Atari console. The Dark Chambers title screen will appear.
+
+3.  Press [Select] to choose a skill level and the number of players (one
+    or two). Or move the left controller right or left to select the skill
+    level; move the controller up or down to select the number of players.
+
+4.  Press the fire button or [Reset] to start the game.
+
+5.  Press [Select] at any time to return to the title screen and start a
+    new game.
+
+6.  When a game is over, press the fire button or [Reset] to start a new
+    game.
+
+
+Playing the Game
+
+You are lost in Dark Chambers. Enemies, treasures, and curses are scattered
+throughout all levels from A to Z. Your goal is to survive all 26 levels
+and maybe beyond while taking as much treasure as you can. You can descend
+from one level to the next only by finding the escape holes.
+
+Your enemies, the dangerous ghouls, are everywhere. At times, they'll chase
+you. Other times, they'll back off. Don't let this fool you, though. It's
+just a ploy to lead you farther from the escape holes.
+
+Use your controller to move through the chambers. Go through the escape
+holes on move on to the next level. (In a two-player game, you won't be
+able to walk any farther than you can see unless your partner goes with
+you.)
+
+Search each chamber for treasures and weapons. Pick them up by walking over
+them. The treasures and weapons you pick up will appear at the top of the
+screen next to your strength bar.
+
+Stay away from the curses: traps and poison. If you touch them, they'll
+take away some of your strength.
+
+Ghouls drain your strength by touching you. You shoot them by moving your
+controller in their direction and pressing the fire button. Be careful,
+though. You can't walk while you're shooting Ghouls will use that time to
+move in and touch you.
+
+Potions and food are also hidden in the chambers. When you find one, pick
+it up to renew your strength. A bar at the top of the screen shows you how
+much strength you have left.
+
+Find the hole to escape from a level and descend to the next one. As long
+as you have strength left, you can go through all 26 levels. If you lose
+all of your strength, you collapse and the game is over.
+
+In a two-player game, if one hero collapses, the other player must find a
+heart and shoot it. This will revive the hero who collapsed.
+
+Weapons and Treasures
+
+Use weapons, potions, keys, and holes to help you outsmart the ghouls while
+you search for treasure.
+
+NOTE: If you find a weapon on another level that is like one you have
+already acquired, shoot the weapon for bonus points.
+
+GUNS increase your shooting speed.
+
+DAGGERS make your shots more powerful.
+
+SHIELDS minimize the amount of strength you lose when an enemy touches you.
+
+Set off BOMBS to slay all ghouls and curses in the area you're in. Grab the
+bomb and press the right fire button. Or you can carry up to 15 bombs and
+detonate each one when the time is right.
+
+BE CAREFUL: You can also detonate a bomb by shooting it.
+
+Pick up POTIONS and FOOD to increase your strength. (When your strength bar
+is full, you don't need the potions.)
+
+The more KEYS you pick up, the more doors you can unlock to enter secret
+rooms. Each key unlocks one door and is worth 100 points. You can carry up
+to 15 keys.
+
+HOLES lead to the next level.
+
+LOCKS open secret rooms.
+
+Grab STRONGBOXES whenever you see them to earn points.
+
+Snatch the valuable jewel AMULETS to increase your score.
+
+CHALICES have been hidden throughout the chambers. Although the silver ones
+are worth a lot, the gold ones are the most valuable treasure of all.
+
+HEARTS are hidden throughout the chambers. But shoot a heart only when your
+hero friend needs it. Otherwise the heart will turn into an underground
+spawner.
+
+
+Ghouls and Curses
+
+The inhabitants of Dark Chambers drain your strength by touching you. When
+shot, they mutate to the next weaker form.
+
+ZOMBIES are the weakest form of ghoul. They explode when you slay them.
+
+Bone-shaking SKELETONS covet your skin.
+
+WRAITHS try to scare you to death.
+
+WIZARDS hate live heroes. They attack without mercy.
+
+GRIM REAPERS are the strongest form of ghoul. They'll slice you down if you
+let them get close.
+
+SPAWNERS hatch new ghouls. There are five kinds of spawners capable of
+producing different levels of ghouls. Shoot the spawners to mutate them to
+the next weaker level of spawner. Watch out, though. The underground
+spawner is indestructible.
+
+Watch out for deadly POISONS. They'll drain your strength. {look like
+potions with an X}
+
+TRAPS have been laid for you. They, too, will zap your strength. The
+glowing ones are the most dangerous! {squares with an X inside}
+
+
+Scoring
+
+Scores appear at the top of the screen, next to your strength bar.
+
+Ghouls and Curses
+
+You earn points for each ghoul and ghoul spawner you slay:
+
+Grim reaper             100 points
+Grim reaper spawner     100 points
+Wizard                   60 points
+Wizard spawner           60 points
+Wraith                   40 points
+Wraith spawner           40 points
+Skeleton                 20 points
+Skeleton spawner         20 points
+Zombie                   10 points
+Zombie spawner           10 points
+
+You lose valuable energy each time a trap, poison, or ghoul touches you.
+
+NOTE: You lose only half the number of energy units if you have a shield
+when you are touched.
+
+
+Glowing trap            -96 energy units
+Trap                    -64 energy units
+Poison                  -32 energy units
+Grim reaper             -16 energy units
+Wizard                   -8 energy units
+Wraith                   -6 energy units
+Skeleton                 -4 energy units
+Zombie                   -2 energy units
+
+You also lose 1 energy unit every 8 seconds as you walk around the maze.
+
+
+Treasures and Potions
+
+You earn points for each treasure you collect and gain energy for each
+potion you drink and food you eat:
+
+Gold chalice            3000 points
+Amulet                  1000 points
+Silver chalice           500 points
+Strongbox                100 points
+Potion                   +32 energy units
+Food                     +32 energy units
+
+
+Atari Corporation is unable to guarantee the accuracy of printed material
+after the date of publication and disclaims liability for changes, errors,
+and omissions. Reproduction of this document or of any portion of its
+contents is not allowed without the specific written consent of Atari
+Corporation.
+
+Atari (R), the Atari logo, Dark Chambers (TM), and 7800 (TM) are trademarks
+or registered trademarks of Atari Corporation.
+
+Copyright (C) 1983, John Howard Palevich. All rights reserved.
+
+Copyright (C) 1988, Atari Corporation, Sunnyvale, CA 94086. All rights
+reserved.
+
+Printed in Hong Kong. B.T.1.1989        C300018-037 Rev. A
+

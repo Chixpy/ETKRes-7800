@@ -1,0 +1,134 @@
+Knights on Birdback!
+
+There are alien worlds, and then there are Alien Worlds! Who could have
+predicted that you'd ever find yourself this far from home, astride an
+alien ostrich under attack by bird-borne avengers!
+
+Getting Started
+
+1.  Insert the Joust (TM) cartridge into your Atari (R) 7800 (TM)
+    Pro-System as explained in your Owner's Manual, and turn on your
+    console.
+
+2.  Plug a controller into the left controller jack for one player, and
+    another into the right controller jack for two players.
+
+3.  Move the controller handle forward or backward, or press [Select] to
+    choose a one- or two-player game. In a two-player game, the Knights
+    sometimes battle the opponents together, and sometimes battle both the
+    opponents and each other.
+
+4.  Move the controller handle to the left or right to choose a difficulty
+    level: Beginner, Intermediate, Advanced, or Expert.
+
+5.  Use the controller handle to move your bird left and right. The longer
+    you hold the handle to the side, the faster the bird moves. Press the
+    controller button repeatedly to make him fly.
+
+6.  Press [Pause] to pause a game; press it again to resume play.
+
+Playing the Game
+
+As a bird-borne Knight, you ride an ostrich into combat, beginning the game
+with five lives. For each 20,000 points you score, you earn an extra life.
+
+Your opponents are the Buzzard Riders. There are three types, each more
+fearsome than the one before. The Bounder (least fearsome) wears red; the
+Hunter wears gray; and the Shadow Lord (most fearsome) wears blue. The
+Buzzard Riders attack in waves.
+
+Both you and the Buzzard Riders materialize for the first time in the gray
+spaces on top of the ledges. Until a bird and rider fully materialize,
+they're protected from attack. Once moving, they become fair game for a
+joust, in which one mounted Knight attacks another. The winner of a joust
+is the rider whose mount is highest at the moment of contact. If the mounts
+are at the same level, the joust is a draw.
+
+If you lose a joust, you lose a life, and you materialize again (if you
+have lives remaining) in a gray space. If your opponent loses, his suddenly
+riderless mount lays an egg in frustration.
+
+The egg then sails through space until it comes to rest on a ledge, or
+falls into the lava and is destroyed. If it's on a ledge, pick it up
+quickly, or it will hatch another opponent at the Intermediate level, and
+an even more menacing opponents at the Advanced and Expert levels.
+
+Sometimes a fast-moving Pterodactyl tries to eat you. To save yourself, you
+must be quick and precise, lancing the opponent in the mouth.
+
+Beneath the lowest ledge lives the Troll of the Lava Pits. After the second
+wave of attacking Buzzard Riders, the Troll's fire burns away the bridges
+that kept the jousters safe from him. Any jouster who falls into the
+Lava Pits dies. If you fly too near the Pits, the Troll's hand reaches out
+and draws you toward the deadly lava (except at the Beginner level). If the
+Troll captures you, you may be able to escape by flying away fast and
+breaking his grip.
+
+When you've vanquished all your opponents and picked up all the eggs in a
+wave, a new wave with new menaces begins. The waves are:
+
+Survival Wave -- If you make it through this entire wave without losing a
+life, you earn 3000 extra points.
+
+Egg Wave -- All your opponents start as eggs. Eat the eggs quickly, before
+they hatch.
+
+Pterry Wave -- This wave starts with the marauding Pterodactyl on the
+screen.
+
+Team Wave (2 players) -- If neither player unseats the other, both earn
+3000 points.
+
+Gladiator Wave (2 players) -- The first player to unseat the other earns
+3000 points.
+
+Scoring
+
+Unseating a Buzzard Rider: Bounder               500 points
+                           Hunter                750 points
+                           Shadow Lord          1500 points
+
+Picking Up Eggs: First egg per round             250 points
+                 Second egg per round            500 points
+                 Third egg per round             750 points
+                 Fourth or more eggs per round  1000 points
+
+Egg grabbed in midair                            500 bonus points
+
+Displaying Skill
+
+Surviving Survival Wave                         3000 points
+Cooperating in Team Wave                        3000 points
+Unseating other player in Gladiator Wave        3000 points
+Unseating other player at other times           2000 points
+Destroying a Pterodactyl                        1000 points
+Losing a life                                     50 points
+
+You earn an extra life for every 20,000 points you score. Each player's
+current score and number of lives left are shown at the bottom of the
+screen, Player 1 on the left and Player 2 on the right. No more than four
+lives can be shown, even if more have been earned. Final scores remain on
+screen during the demonstration sequence that follows each game.
+
+Reproduction of this document or any portion of its contents is not allowed
+without the specific written permission of Atari Corp.
+
+Every effort has been made to ensure the accuracy of the product
+documentation in this manual. However, because we are constantly improving
+and updating our computer software and hardware, Atari Corp. is unable to
+guarantee the accuracy of printed material after the date of publication
+and disclaims liability for changes, errors, and omissions.
+
+Atari is a registered trademark and 7800 is a trademark of Atari Corp.
+Joust is a trademark of Williams Electronics, Inc., manufactured under
+license from Williams Electronics, Inc.
+
+Copyright (C) 1982, Williams Electronics, Inc.
+Copyright (C) 1988, Atari Corp. Sunnyvale, CA 94086.
+
+All rights reserved
+
+Printed in Hong Kong
+
+CO24857-06 Rev. B       B.T.7.1988
+

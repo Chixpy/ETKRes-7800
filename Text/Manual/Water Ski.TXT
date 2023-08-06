@@ -1,0 +1,252 @@
+<picture of water skier partially hidden by a large wave>
+
+
+                               FROGGO GAMES(tm)
+
+                                                     7800(tm)
+                                   Water 
+                                   Ski(tm)
+
+                                            Video Game Cartridge
+                                            For Use with ATARI (r)
+                                             Video Computer 
+                                            Systems Model 7800(tm)
+
+
+
+
+
+Water Ski
+
+     Danger lurks around every bend of the treacherous Pharonna River, and 
+you're taking it head on!  With a hunger for fatal thrills, your team of 
+bionic skiers get every chance to wipe out in shame or glory.  But you have a 
+higher purpose:  you know the dardevil's greatest challenge lies in cheating 
+death, and the greatest victory is...survival.
+     Race the clock and the scoreboard at perilous speed.  The faster you get 
+through the obstacle course, the more running points you accumulate.  Defy 
+death with a gutsy flair, hitting every ramp, and watch your scores rise!  But 
+be warned, very few cross the finish line and leave the Pharonna alive!
+     It's outrageous, complex, deadly and totally rad, and you'll still be 
+learning the game after months of intense play.
+
+
+<screenshot of boat & waterskier going through course>
+
+
+Getting Started
+
+     Set up your 7800 properly, according to the instructions.
+     Make sure the system is shut off.
+     Place the Water Ski cartridge in the game slot with its label facing away 
+from the front panel buttons.
+     Switch the system on.  The Water Ski title will appear.  To take your 
+first perilous run, press the left joystick button.  This will start the game 
+from the title screen, or restart it after the game is over.
+     The RESET button resets the game to the title screen.
+     The PAUSE button freezes the game unti you press it again.  
+     You get four boat/skier runs to start with.  Crash a speedboat or mangle 
+a skier, and you go on to the next run.
+
+
+Scoring
+
+     Your score is displayed in the upper left hand corner of the screen.
+
+Running Points      The Faster you get through the course, the higher you 
+                    score.  Speed is of the essence.
+Ramps               Every ramp you jump earns you 10,000 points.
+Levels              Reaching the next level earns 50,000 points.
+Extra Boat/Skier    Earn an extra run every 200,000 points.
+
+
+Levels
+
+     Water Ski has three levels to vex and challenge you, and you must earn 
+the right to advance to the next level.
+     The game beings at level one and, if you are clever and agile enough, 
+continues to level two and finally to level three. Once you reach level two, 
+you stay at that level until you lose your last boat/skier or advance to the 
+final level.  After a wipeout or crash, if you have skiers remaining, the next 
+run starts at the beginning of the current level.  E.g., if your third skier 
+makes it into level two and then gets chomped by a river shark, your fourth 
+run starts at the beginning of level two.
+     Reaching the next level does not earn you an extra run, but the bonus 
+50,000 points you earn will help towards the next 200,000 points you need to 
+get an extra run.
+
+Level One      Obstacle Slalom Run--This is the first level, with the greatest 
+               number of ramps and stationary obstacles.  Jump as many ramps 
+               as you can to earn bonus points, or try to avoid everything and 
+               sneak through to level two.  Watch out for rocks, piers, tree 
+               stumps, out-of-control speedboats crossing your path, and 
+               hidden rocks near the unforgiving shoreline--you'll get to know 
+               them well!
+
+Level Two      Shark & Alligator Main Course--This level is even more 
+               challenging than the first.  Watch out for the buoys, rocks and 
+               logs, if you can!  The waters of level two are infested with 
+               zig-zagging hybrid river sharks and huge alligators.  They 
+               smell fresh meat and are on the move!
+
+Level Three    High-speed Death Run--The emphasis here is speed, pure and 
+               simple.  Crank it up and wind it out!  For the high-fliers 
+               among you, there are ramps and ever-present opportunities to 
+               smash into more obstacles.  Cross the finish line and join the 
+               select few who have mastered the Pharonna.
+
+     The level indicator is located on the bottom middle of the screen.
+
+
+Goals
+
+     Water Ski has two goals:  crossing the finish line at the end of level 
+three, which ends the game, and obtaining the highest possible score.
+     The top score, located in the top right hand corner of the screen, 
+indicates the highest score since the machine was turned on.
+     You have four runs to reach your goal before the game ends.  The number 
+of boat/skiers you have left are indicated on the lower left hand side of the 
+screen.  Crash a boat or skier, and you lose that run.
+     In addition to running up the highest possible score, you want to go as 
+far as you can with the best time possible.  The elapsed time is located on 
+the lower right hand side of the screen.
+     If you ever make it to level three with extra skiers, remember:  the game 
+ends when you cross the finish line.  Some unscrupulous, heartless master 
+Water Skiers have been known to sacrifice a skier or two just before crossing 
+the line, in order to maximize their point totals.
+
+
+Controls
+
+     You have separate controls for the speedboat and the skier.  Be careful, 
+because the towrope lifeline creates a complex interaction between the two, 
+just like in real life.  Every move the boat makes affects the speed and 
+direction of the skier, and vice versa, to a lesser degree.  And often, using 
+both controls, there are cumulative effects, where a slight tap in one 
+direction can send your skier hurtling to its doom!
+     It takes weeks to master the simplest high-speed maneuvers, at a terrific 
+cost of life and limb, not to mention boat hardware.  And even then, you may 
+never see level three alive!
+
+Speedboat      Moving joystick left or right directs the boat.  Moving 
+               joystick forward steadily speeds up the boat, backward steadily 
+               decreases boat speed.
+ 
+Skier          Pressing left joystick button moves skier left, right button 
+               moves skier right.  Skier can move independently of boat 
+               direction, until the limits of the towrope are reached.  
+               Holding button down increases skier movement, faster and 
+               farther.
+
+     You are speeding upstream.  The Pharonna's current will cause you to 
+drift and affect the interaction of the skier and speedboat.
+
+
+<screenshot of boat/skier maneuvering through obstacles>
+
+
+Wipeouts
+
+     The skier will wipe out if it hits any object except a ramp.  Jumping any 
+ramp scores a bonus 10,000 points.
+     The boat will crash if it hits any object on the screen.  Boats will not 
+survive hitting a ramp.
+     If the boat or skier hits any terrain, a crash will occur and the run 
+will be over.  Caution:  don't get too fancy around the shortline, beacuse of 
+the hidden rocks and sand bars.
+
+
+Hints
+
+     Sometimes it is necessary to speed up to avoid obstacles.  Look ahead as 
+much as possible to anticipate dangers.
+     Remember, when you jump a ramp the skier can not change direction while 
+in the air.  Also, the skier can jump over obstacles if it his a ramp fast 
+enough.
+     On some obstacles, the speedboat can pass on one side and the skier pass 
+on the other.  But keep this in mind:  show-offs die!
+
+
+Game Over
+
+     The game is over when you have used up all four boat/skier runs or when 
+you cross the finish line.  Restart the game by pressing the left joystick 
+button.
+
+
+Final Words
+
+It is possible:     to hit every ramp;
+                    to score 1,000,000 points;
+                    to live to a very ripe old age without ever seeing level 
+                    three.
+
+
+Adjusting Color
+
+Since colors vary slightly from TV to TV; here are some guidelines to 
+adjusting the color for Water Ski:
+
+     1.   Water is medium blue.
+     2.   Boat is red.
+     3.   Skier is light tan or off-white.
+
+
+
+
+
+
+     Want to be the first to know when our next new Froggo video game becomes 
+available?  Just send us a card with your name and mailing address, so we can 
+put you on our Special Customer Mailing List.  Also, watch for new Froggo 
+video games wherever you buy game cartridges.
+
+FROGGO GAMES CORPORATION
+479 Macara Avenue
+Sunnyvale, CA  94086
+
+ATARI(r) is a registered trademark and
+Video Computer System(tm) is a trademark of ATARI, INC.
+
+FG2002    (c) Froggo Games Corp.
+
+<END OF MANUAL>
+
+<on a card inserted with the manual>
+
+FROGGO GAMES CORPORATION(tm)
+
+
+LIMITED NINETY DAY WARRANTY
+
+Froggo Games Corporation warrants to the original consumer purchaser that your 
+Froggo Games Corporation video game cartridge is free from any defects in 
+material or workmanship for a period of ninety days from the date of purchase. 
+If any such defect is discovered within the warranty period, Froggo Games 
+Corporation will repair or replace the cartridge free of charge on receipt of 
+the cartridge, with proof of purchase, postage paid, at:
+
+     Froggo Games Corporation
+     2685 Marine Way, Bldg. 1219
+     Mountain View, CA  94043
+
+     This warranty does not apply to defects resulting from abuse, alteration, 
+or unreasonable use of the cartridge.
+     Any applicable implied warranties, including warranties of 
+merchantability and fitness, are hereby limited to ninety days from date of 
+purchase.  Consequential or incidental damages resulting from a breach of any 
+applicable express or implied warranties are hereby excluded.  Some states do 
+not allow limiations on how long implied warranties last and do not allow 
+exclusion of incidental or consequential damages, so the above limitation and 
+exclusions may not apply to you.
+     This warranty gives you specific legal rights, and you may also have 
+other rights which vary from state to state.
+
+SERVICE AGREEMENT
+
+If after the ninety day limited warranty period, your Froggo games Corporation 
+cartridge requires service, Froggo Gams Corporation will service the cartridge 
+on receipt, postage paid, with proof of date of purchase, with your check in 
+the sum of $10.
+
+

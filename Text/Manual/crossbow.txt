@@ -1,0 +1,292 @@
+Atari(R) 7800 (TM) Game Manual
+Crossbow by Exidy (TM)
+
+Every effort has been made to ensure the accuracy of the 
+product documentation in this manual.  However, because Atari 
+Corporation is constantly improving and updating its computer 
+hardware and software, it is unable to guarantee the accuracy 
+of printed material after the date of publication and 
+disclaims liability for changes, errors, or omissions.
+
+Atari (R), the Atari logo, and 7800 (TM) are trademarks or 
+registered trademarks of Atari Corporation.
+
+Crossbow (TM) is a trademark of Exidy, Inc. Copyright (C) 
+1983, Exidy, Inc.
+
+Reproduction of all or any portions of this manual is not 
+allowed without the specific written consent of Atari 
+Corporation.
+
+Copyright (C) 1988, Atari Corporation
+Sunnyvale, CA  94086
+All rights reserved.
+
+TABLE OF CONTENTS
+
+WHICH WAY TO THE CASTLE?.....1
+
+GETTING STARTED..............1
+
+PLAYING THE GAME.............2
+Starting Your Adventure......2
+Protecting Your Friends......3
+The Danger Zones.............3
+
+SCORING......................5
+Across the Desert............5
+Through the Caverns..........5
+At the Volcano...............6
+In the Jungle................6
+In the Village...............6
+At the River.................6
+Outside the Drawbridge.......7
+Inside the Castle Hall.......7
+The Evil Master..............7
+In Every Danger Zone.........7
+
+WHICH WAY TO THE CASTLE?
+
+Over scorching deserts, through dark icy caverns, around a 
+fiery volcano, and under the leafy cover of a steamy jungle, 
+you set out with three brave friends to retrieve the treasures 
+stolen by the Evil Master.  Your goal is his castle far, far, 
+away.
+
+Your friends are lightly armed, but you carry your trusty 
+crossbow.  By shooting its swift arrows, you can save yourself 
+and your companions from the dangerous attacks of the Evil 
+Master's creatures -- scorpions, ants, pterodactyls, voracious 
+plants, bats, snakes, and other horrible beings.
+
+When you reach the castle, the Evil Master's expert archers 
+await you, ready to test their aim with deadly arrows.  Inside 
+the castle, a fierce dragon also waits, gurading the treasure 
+with its fiery breath.
+
+Few adventurers have dared to make thie trek.  No one yet has 
+come back alive.
+
+GETTING STARTED
+
+1. With your Atari 7800 set up, insert the Crossbow cartridge 
+into the console and plug a joystick or light gun into the 
+left port.
+
+2. Turn on your television and press [Power] to turn on your 
+Atari console.  The Crossbow title and selection screen appears.
+
+3. Press [Select] to change the controller option if desired
+
+4. Press the fire button or [Reset] to start the game.  The 
+Map screen comes up.
+
+5. Using your light gun, choose a path by shooting at either 
+the red or green path box at the bottom of the screen.  If you 
+are using a joystick, use it to move the cursor.  If you 
+prefer, you can wait a few moments, and a path will be chosen 
+for you.
+
+6. Holding the light gun three to five feet from the 
+television, aim and shoot at the Evil Master's creatures 
+before they attack your friends.  Your gun acts as your 
+crossbow.  If you are using a joystick, use it to move the 
+cursor.
+
+7. Press [Pause] to pause a game.  Press it again to resume 
+play.
+
+8. Press [Reset] at any time to start a new game or press 
+[Select] to return to the title screen.
+
+PLAYING THE GAME
+
+Starting Your Adventure
+
+Your adventure begins on the Map screen.  This screen shows 
+the eight Danger Zones you must pass through to reach the 
+treasures.
+
+You have to figure out which paths to take to reach the castle 
+and claim the treasures.  Begin by shooting with either the 
+gun or the joystick at either the red or green path box.  A 
+path appears that leads you to your first Danger Zone.
+
+Protecting Your Friends
+
+Once you get to a Danger Zone, the Evil Master's creatures 
+immediately begin attacking your friends.  If attacked, your 
+friends dissolve.  To stop the loathsome creatures, you must 
+shoot them with your gun or joystick.  If you are using a gun, 
+move the gun sight onto a creature to aim, and then shoot.  If 
+you are using a joystick, use it to move the cursor.
+
+If you escort your friends safely through a Danger Zone, you 
+return to the Map screen and choose a path once again.  This 
+time you choose a red, green, or blue path to arrive at a 
+Danger Zone.
+
+Once an adventurer dissolves, that friend is lost forever.  If 
+all adventurers are lost, your quest ends.  When you make it 
+safely through a Danger Zone, the survivors and, in some 
+Danger Zones, a bonus friend will appear.
+
+If you rescue the treasures, you confront the Evil Master 
+himself.  Fire at his red eyes to complete your quest, return 
+to the Map screen, and start again.
+
+The Danger Zones
+
+You start your trek with three adventuresome friends.  You 
+gain a new friend the first time you make it safely through 
+each Danger Zone, except the Village and the Castle, up to a 
+maximum of eight adventurers at one time.
+
+In the Desert, your friends are attacked by deadly scorpions, 
+vultures, snakes, and ants.  You gain another friend the first 
+time you survive this zone.
+
+While wandering through the Caverns, watch out for swooping 
+bats, falling stalactites, and a ghastly ghost.  Shoot down 
+the two hanging stalactites to fill in the crevices in the 
+path so you can get across.  Another friend joins you the 
+first time you make it safely through the Caverns.
+
+The Volcano spews burning rocks and fiery lava, so watch out.  
+Shoot the resting rock to make a bridge over the lava river.  
+Passing by the volcano safely for the first time earns you 
+another friend.
+
+In the steaming depths of the Jungle, wicked monkeys hurl 
+coconuts and toucans with deadly aim.  Voracious plants lie in 
+wait for the adventurers.  The first time you survive the 
+Jungle Zone, you are joined by a new friend.
+
+In the Village, the horrors of the night await.  From the 
+street, sinister agents appear in the windows, wolves pop up 
+out of nowhere, and even the street lights are controlled by 
+the Evil Master.  From above, chilling chosts attack, deadly 
+lightning bolts fall, and a cruel witch appears on rooftops, 
+ready to drop devastating fireballs.  In this unfriendly 
+village, no bonus friends can join you.
+
+At the River, the scenery is beautiful, but perils await you 
+every step of the way.  You are threatened on the bridge by 
+mighty bouncing boulders and swooping pterodactyls.  The Evil 
+Master has many spies here.  YOu'll find jumping fish, hungry 
+alligators, and slime monsters n the river, leaping frogs on 
+the riverbank, and a bird hidden in the tree.
+
+If you're not careful, you might just meet your match at the 
+Drawbridge, where the Evil Master's loyal archers and 
+pterodactyls try to stop you.  Hungry alligators wait in the 
+moat, snapping their jaws at you.  To enter the castle, shoot 
+through the two ropes holding up the drawbridge.
+
+At the Castle Hall, a dragon breathes fire, daggers drop from 
+the ceiling, and arrows fly from the walls.  A trapdoor is 
+your last barrier to claiming the treasures -- shoot the 
+statue's flashing staff to open it.
+
+Shoot the Evil Master's Eye that appears once on every screen 
+to gain bonus points.
+
+If you make it past the Castle Hall, you confront the Evil 
+Master himself.  Here he makes his last fearsome attempt to do 
+you in and reclaim the treasures.  Your only hope is to shoot 
+his eyes when they glow red.
+
+SCORING
+
+Score points by shooting the Evil Master's creatures.  Scores 
+appear on the Danger Zone screens in place of the creatures 
+you shoot.
+
+Across the Desert
+
+Snake...................2000 points
+Rabbit..................1500 points
+Vulture.................1000 points
+Scorpion.................500 points
+Ant......................500 points
+
+Through the Caverns
+
+Bat.....................1000 points
+Ghost...................1000 points
+Falling Stalactite.......500 points
+Hanging Stalactite.......500 points
+
+At the Volcano
+
+Burning Lava............1000 points
+Falling Rock.............500 points
+Resting Rock.............500 points
+
+In the Jungle
+
+Coconut.................1500 points
+Voracious Plant.........1500 points
+Toucan..................1500 points
+Monkey..................1000 points
+
+In the Village
+
+Lightning Bolt..........2000 points
+Fireball................2000 points
+Wolf....................1500 points
+Ghost...................1000 points
+Witch...................1000 points
+Agents in Windows.......1000 points
+Street light.............500 points
+
+At the River
+
+Alligator...............2500 points
+Frog....................2000 points
+Fish....................2000 points
+Bird....................2000 points
+Slime Monster...........1500 points
+Boulder.................1000 points
+Pterodactyl.............1000 points
+
+Outside the Drawbridge
+
+Pterodactyl.............2000 points
+Alligator...............1500 points
+Archer..................1000 points
+Arrow...................1000 points
+
+Inside the Castle Hall
+
+Statue's Staff..........2000 points
+Dagger..................1500 points
+Arrow...................1500 points
+Face in the Wall........1500 points
+Dragon's Fire...........1500 points
+Torch....................500 points
+
+The Evil Master
+
+Red Eye.................5000 points
+White Eye...............5000 points
+
+In Every Danger Zone
+
+The Evil Master's Eye...5000 points
+
+When you get all your friends past the Evil Master, you earn 
+250,000 bonus points.  Then you return to the Map screen to 
+start again.
+
+Atari(R)
+
+Copyright (C) 1988, Atari Corporation
+Sunnyvale, CA  94086
+All rights reserved.
+
+Printed in Hong Kong.
+B.T.1. 1989
+
+C300018-044 Rev. A
+

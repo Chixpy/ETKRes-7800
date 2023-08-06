@@ -1,0 +1,151 @@
+JUNE 2084
+ORIGINATOR: MOONBASE 0712Z
+CLASSIFICATION: TOP SECRET
+MISSION: OPERATION ROBOTRON
+
+At first it was a technological breakthrough. Humans created the
+Robotrons -- a species of robots so advanced they didn't need their
+inventors in order to think and act. But the Robotrons have turned on their
+creators! They're now determined to destroy humanity -- or reprogram the
+survivors, turning them into destructive mutants!
+
+Getting Started
+
+1.  Insert the Robotron: 2084 (TM) cartridge into your ATARI (R) 7800 (TM)
+    ProSystem as explained in your Owner's Manual, and turn on your
+    console.
+
+2.  Plug a controller into the left controller jack for one player, and
+    another into the right controller jack for two players.
+
+3.  Move the controller handle forward or backward, or press [Select] to
+    choose a one- or two-player game. Move the controller handle left or
+    right to choose a difficulty level: Novice, Intermediate, Advanced,
+    Expert, or Challenge.
+
+4.  Press either controller button to fire -- your anti-robot laser gun
+    will shoot in the direction you move the controller.
+
+    You can play Robotron with one or two controllers:
+
+    For a one-player game, move with left controller, and fire with left
+    controller button in the direction the player is moving. Or, move with
+    left controller, and fire by moving the right controller in the
+    direction you want to fire.
+
+    For a two-player game, Player 2 uses the left controller for moving and
+    either the left controller button or the right controller for firing.
+
+5.  Press [Pause] to pause a game; press it again to resume play.
+
+Playing the Game
+
+Alert!
+Recently intercepted Robotron communiques reveal that only a few clones of
+the last human family remain alive on Earth!
+
+Your Mission
+Prepare immediately to step up the counter-attack. Save the surviving
+humans!
+
+Extreme Danger
+The Robotrons know about you -- the only one immune to their reprogramming.
+They will stalk you relentlessly.
+
+Technical Data
+Your only weapon is your anti-robot laser gun. With it you can destroy the
+entire Robotron species except the Hulk.
+
+The Robotrons attack in waves, with different kinds of Robotrons in each
+wave. A new wave appears each time you destroy all the Robotrons on your
+screen -- except the invincible Hulk. You have five lives, and for every
+25,000 points you score, you earn another life and another chance to
+complete your mission.
+
+Strategy
+
+By saving as many remaining humans as you can, you'll rack up the most
+points. To do this, quickly get clear of the middle of the screen at the
+start of each Robotron wave, but avoid the corners. Concentrate on wiping
+out the Spheroids and Quarks first. Eliminate most of the rest of the
+Robotrons, leaving a few Grunts alive. Then pick up the remaining humans
+before you destroy the last Robotrons.
+
+You are the only hope for saving humanity. Good luck!
+
+16:32 MOONBASE
+0712Z DISCONNECT
+
+Robotrons
+
+Mindless Grunts
+The Grunts are beastly robots with one mission: to do you in.
+
+Indestructible Hulks
+Alone of all Robotrons, Hulks cannot be destroyed but can annihilate the
+human clones. Your laser gun only slows them down. Avoid the Hulks at all
+costs.
+
+Giant Brains
+Launched every fifth wave, the Giant Brains can electrocute you where you
+stand. If a Brain catches a human, it reprograms the victim, who then turns
+against you viciously as a mutant Prog. The Brain also fires deadly Cruise
+Missiles that seek you out mercilessly.
+
+Sinister Spheroids and Their Deadly Spawn
+Spheroids bring forth the Enforcer Embryos, which grow into evil Enforcers.
+Enforcers heighten the attack by launching Enforcer Sparks.
+
+Galvanizing Electrodes
+The Electrodes block your path, changing form with each new wave. You must
+vaporize them with your laser gun or they'll destroy you.
+
+Cubic Quarks and the Torturing Tanks
+Quarks swiftly produce beastly Torturing Tanks that throw off Bounce Bombs.
+
+Last Surviving Family
+
+Man, Woman, and Child
+Only a handful of human clones remain on earth. Touch as many as you can to
+place them under your protective powers.
+
+Scoring
+
+In Each Wave
+First human saved               1000 points
+Second human saved              2000 points
+Third human saved               3000 points
+Fourth human saved              4000 points
+Fifth and more humans saved     5000 points each
+
+Destroying the Robotrons
+Cubic Quark                             1000 points
+Spheroid (before it hatches Embryos)    1000 points
+Giant Brain                              500 points
+Torturing Tank                           200 points
+Enforcer                                 150 points
+Mindless Grunt                           100 points
+Prog                                     100 points
+Cruise Missile                            25 points
+Enforcer Spark                            25 points
+Bounce Bomb                               25 points
+
+Reproduction of this document or any portion of its contents is not allowed
+without the specific written permission of Atari Corporation.
+
+Every effort has been made to ensure the accuracy of the product
+documentation in this manual. However, because we are constantly improving
+and updating our computer software and hardware, Atari Corporation is
+unable to guarantee the accuracy of printed material after the date of
+publication and disclaims liability for changes, errors, and omissions.
+
+Atari is a registered trademark and 7800 is a trademark of
+Atari Corporation. Robotron: 2084 is a trademark of Williams Electronics,
+Inc., manufactured under license from Williams Electronics, Inc.
+
+Copyright (C) 1982, Williams Electronics, Inc.
+Copyright (C) 1986, Atari Corporation Sunnyvale, CA 94086.
+All rights reserved
+Printed in Hong Kong
+CO24857-09 Rev. B       B.T.5.1988
+

@@ -1,0 +1,150 @@
+                    ATARI (R) 7800 (TM) Game Manual
+
+                              Crack'ed (TM)
+
+Eggs-ercise Your Skills!
+
+As a professional ornithologist, you're thrilled to find out that some rare
+South American hornbills have nested in your "old yolk tree." But while the
+hornbills are out feeding, a group of mischievous bluebirds, owls, and
+snakes begin raiding their nests and stealing eggs.
+
+Horrified, you get out your slingshot and begin hitting the marauding
+creatures. But you have to be careful. If you hit an egg-carrying bird, it
+drops the egg and you have to act fast to catch it before it hits the
+ground and return it to a nest. At the same time, you have to watch for
+snakes that may be sneaking up to nests and gobbling eggs. If you can
+protect the eggs long enough, you can take them to another nesting site.
+But watch out, egg-stealing creatures are everywhere!
+
+Getting Started
+
+1.  Insert the Crack'ed cartridge into your Atari 7800 Video Game System as
+    explained in your Owner's Manual.
+
+2.  Plug a controller into the left controller port.
+
+3.  Switch on your television; then press [Power] on your 7800 console. The
+    Crack'ed title screen will appear.
+
+4.  Press [Reset] or either button on your controller to start play.
+
+5.  Press [Pause] to pause the game; press it again to resume play.
+
+6.  During play, you can press [Reset] to start a new game, or [Select] to
+    return to the title screen.
+
+Playing the Game
+
+The Egg Raids
+
+Your goal is to prevent eggs from being stolen.
+
+When the game starts you have five nests with five eggs in each nest. Use
+the controller to position the cross hairs on a creature and press the left
+controller button to shoot.
+
+If you shoot an egg-carrying creature, the egg drops to the ground with a
+sickening "crack!" unless you catch it by quickly positioning the cross
+hairs under the falling egg while holding down the right controller button.
+Once you catch an egg, carry it to a nest and release the right button to
+deposit it. A nest cannot hold more than five eggs.
+
+If you have at least one egg left at the end of a raid, you go on to the
+next level. Raids may take place at different nesting sites. Each nesting
+site has its own set of egg-stealing creatures, but the actions of shooting
+creatures and retrieving falling eggs are the same at each site.
+
+The game ends when all eggs are gone.
+
+Assault at the Rooster Ranch
+
+When you move on to a new nesting site you will pass by the rooster ranch.
+There you endure the indignity of being pelted with eggs unless you can hit
+the rooster first.
+
+When the rooster pops up behind a nest, use the controller to point the
+bottom and right screen arrows at the rooster's face and fire. If your aim
+is true, the egg goes "splat!" on the rooster's face and you earn bonus
+points. If you miss, you make a mess of the roost and lose points.
+
+When you arrive at the rooster ranch you are given a stash of 10 eggs. You
+earn 200 points each time you hit a rooster, and you lose 100 points and an
+egg each time you throw an egg and miss. If a rooster comes and goes and
+you don't throw an egg at it, you lose 100 points.
+
+Nesting Sites
+
+Crack'ed has five nesting sites, each with its own set of sneaky egg-
+stealing creatures.
+
+Nesting Site    Creatures
+Tree            Bluebirds, owls, and snakes
+Sewer           Dunglings, rats, and dragonflies
+Sea             Squid, anchovies, and bubbles
+Dungeon         Ghosts, skeletons, and bats
+Moon            Aliens, meteors, and spaceships
+
+Egg Protection Strategy
+
+Try to hit creatures before they get an egg. You can score more points by
+catching falling eggs and replacing them in a nest, but while you do so
+other eggs may be carried away.
+
+Shoot egg-carrying creatures as high as possible. If you hit them too close
+to the ground, you won't have time to catch the egg.
+
+Try to shoot egg-carrying creatures over a nest so the egg drops into the
+nest.
+
+Concentrate on defending the eggs in one nest.
+
+While defending the old yolk tree, concentrate on shooting birds rather
+than snakes.
+
+Crack'ed Creatures
+
+{pictures of Bluebird, Owl, Snake, Dungling, Rat, Dragonfly, Squid, Anchovy,
+ Bubble, Ghost, Skeleton, Bat, Alien, Meteor, and Spaceship}
+
+
+Scoring
+
+
+During an Egg Raid
+
+Finished a raid with a dozen or more eggs       500 points per dozen
+Returning an egg to a nest                      300 points
+Catching an egg                                 200 points
+Shooting a creature                             100 points
+Each egg remaining at the end of a raid         100 points
+
+The remaining eggs are displayed at the end of each raid. Each dozen
+appears in an egg carton.
+
+At the Rooster Ranch
+
+Pelting a rooster                               200 points
+Getting pelted by a rooster's egg              -100 points
+Failing to throw an egg at a rooster           -100 points
+
+The total at the end of the rooster ranch bonus round is added to your
+total score.
+
+
+Atari Corporation is unable to guarantee the accuracy of printed material
+after the date of publication and disclaims liability for changes, errors,
+or omissions. Reproduction of this document or any portion of its contents
+is not allowed without the specific written permission of Atari Corporation.
+
+Atari (R), the Atari logo, and 7800 (TM) are trademarks or registered
+trademarks of Atari Corporation. Crack'ed (TM) is a joint trademark of
+Atari Corporation and Robert Neve.
+
+Copyright (C) 1987, Robert Neve. All rights reserved.
+
+Copyright (C) 1988, Atari Corporation, Sunnyvale, CA 94086. All rights
+reserved.
+
+Printed in Hong Kong            B.T.1.1989            C300018-036 Rev. A
+

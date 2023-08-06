@@ -1,0 +1,96 @@
+"Jinks"
+
+
+Paddle Power!
+
+You are wandering the wondrous fields and forests of the Planet JINKS.
+Everywhere you look you see strange shapes, shadows, and apparitions. A
+magic ball bounces before you. Something tells you that your paddle ship
+could control the ball's path and unlock the secrets of this planet.
+
+You move the paddle tentatively and tap the ball. It bounces off the
+paddle's end and knocks out one of the strange-looking bricks above you.
+The hole left behind after the brick disappears and beckons you to explore
+further.
+
+Despite this planets alien beauty, some of the objects you encounter look
+rather menacing. Are they out to destroy you? Or is it merely their
+foreignness that gives you that uneasy feeling?
+
+There's only one way to find out what's in store for you: Grab your paddle
+and follow the bouncing ball!
+
+Getting Started
+
+1.  Insert the JINKS cartridge into your Atari 7800 as explained in your
+    Owner's Manual.
+
+2.  Plug a controller into the left controller port.
+
+3.  Press [Power] to turn on your console. The JINKS title screen will
+    appear.
+
+4.  Press [Reset] or a fire button to start the game.
+
+5.  Press [Pause] to pause during a game; press it again to resume play.
+
+6.  During game play, press [Reset] to restart the game.
+
+Playing the Game
+
+The object of the game is to use the paddle to maneuver the ball through
+the course on each level while hitting various objects for points.
+
+Move the controller to maneuver the paddle and hit the ball. Press the left
+fire button to invert the paddle. Press the right fire button to "shake"
+the screen in order to move the ball out of a repetitive sequence.
+
+Watch out for the objects that move up and down on the screen. If they
+touch you, the size of the paddle will decrease, making it more difficult
+to hit the ball. The second time one of these objects hits you, you lose a
+life.
+
+Use the different surfaces of the paddle to achieve various degrees and
+types of bounce for the ball. Occasionally the ball will encounter an area
+of random hyperspace and move to another place on the screen. Beware of
+chomping teeth that may appear at any level; they can eat the ball.
+
+There are four different levels in the game, each more difficult than the
+last. After you have successfully completed a level, hit the ball through
+the goal at the far right of the level to move to the interlude screen.
+
+Once you have reached the interlude screen, bounce the ball into one of the
+boxes marked 1, 2, 3, or 4, to choose the level you wish to play next. Play
+a new level or the level you just played. Each time you return to a level
+you already played, that level becomes more difficult. You will find more
+menacing objects in the level.
+
+You begin the game with one ball. You can earn bonus balls on all four
+levels, but the bonus balls can be used on the level at which they were
+earned. You can restore a damaged paddle. Hit one of the small, moving
+triangular shapes with a ball to restore the paddle.
+
+You score 5 points for each brick you hit and from 10 to 100 points for
+each bonus object. After the game ends, if your score is one of the top
+seven, you can add your score to the game's high score list. Enter your
+name or initials, then press the fire button.
+
+Atari Corporation is unable to guarantee the accuracy of printed material
+after the date of publication and disclaims liability for changes, errors,
+or omissions. Reproduction of this document or any portion of its contents
+is not allowed without the specific written permission of
+Atari Corporation.
+
+Atari (TM), the Atari logo, and 7800 (R) are trademarks or registered
+trademarks of Atari Corporation.
+
+JINKS (R) is a trademark of Softgold.
+
+Copyright (C) 1987, Softgold. All rights reserved.
+
+Copyright (C) 1989, Atari Corporation, Sunnyvale, CA 94086. All rights
+reserved.
+
+Printed in Taiwan           C300018-057 Rev. A                B.T.7.1989
+
+

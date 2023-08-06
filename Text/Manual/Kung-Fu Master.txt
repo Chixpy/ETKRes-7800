@@ -1,0 +1,275 @@
+<front cover, all black except for white "oriental" lettering>
+
+
+
+                                  KUNG-FU
+                                  MASTER
+
+
+
+
+
+                        For the Atari (r) 7800(tm)
+
+
+<page 2>
+
+                              KUNG-FU MASTER
+
+          The gorgeous Princess Victoria is imprisoned in
+          the Evil Wizard's Temple.  As Kung-Fu Master, you
+          must free her.  Unfortunately, the Temple's five     
+          tortuous levels are seething with menacing foes.     
+          Smash your way through one level and start the       
+          next with a renewed energy meter and timer.          
+          Once you free your Princess, it's back to the        
+          beginning where your foes return faster and nastier. 
+
+
+
+                              Getting Started
+
+    1.  Turn game system power switch OFF.
+
+    2.  Insert the Kung-Fu Master cartridge as directed in your game
+        system's owner's manual.
+
+    3.  Turn the power switch ON.
+
+    4.  Press the GAME RESET lever to begin a 1-player game.  Press
+        the GAME SELECT lever, then the GAME RESET lever to 
+        begin a 2-player game.
+
+
+<page 3>
+
+                             Game Status Area
+
+Watch this important information in the upper half of your screen:
+
+Score
+As you kick and punch your way to victory your score will increase
+with each successful blow.  You will also earn points for each
+enemy guarding the end of each temple level.
+
+Timer
+As time runs out this number keeps getting smaller.  When it
+reaches 0 one life is over.
+
+Your Energy Bar
+The first bar, labeled PLAYER, meters your energy level.  When it
+runs out one life is lost.
+
+Enemy Energy Bar
+The second bar, labeled ENEMY, meters the energy for your final
+foe on each level of the temple.  You must destroy all his energy to
+defeat the enemy and move on to the next level.
+
+Lives
+The head icons to the right of the energy bars represent the
+number of lives remaining.  You start with four lives at the
+beginning of the game.
+
+Floor Indicator
+The five squares at the bottom of the status area represent the
+five levels of the Evil Wizard's temple.  The level you are currently
+fighting on is represented by a flashing yellow square.  The levels
+you have conquered are represented by solid yellow squares.
+
+Note on two-player games:
+Play alternates whenever a player loses a life.  The second player's
+timer, and energy bars appear when the first player loses a life and
+vice versa.  If one player loses all his lives, the other player continues
+without interruption until the game is over.
+
+
+<page 4>
+
+                               Temple Enemys
+
+Henchmen
+One kick or punch knocks them out.  Don't let them get too close
+or hold on to you and watch out from all sides.
+
+Knife Throwers
+Two punches or kicks will take them out.  Duck or jump to avoid
+their knives.
+
+Midgets
+These tumbling trouble-makers approach from all sides.  A low kick
+or punch works best or knock them with your head by jumping up
+as they tumble over you.
+
+Dragon Balls
+These falling balls conceal dragons.  Destroy each ball with a single
+kick or punch before it hits the ground or fight the dragon when it 
+emerges.
+
+Snake Baskets
+The falling baskets hold terrible snakes.  Smash them before they
+hit the ground or jump to avoid the creatures inside.
+
+Spinning Bombs
+These bombs spin for a moment and then explode in any
+direction.  Move away from them to avoid their blast.
+
+Killer Moths
+These stingers will try to hurt you. Hurt them first with a kick or
+punch.
+
+The Five Masters
+One is waiting for you at the end of each level.  He can't kill you
+with one blow but each hit will deplete some of your energy.  If your
+energy is already low when you meet him--watch out!  Here's who 
+waits for you and where:
+     
+                  Level 1 -- Stick Fighter
+                  Level 2 -- Boomerang Thrower
+                  Level 3 -- Giant Kicker
+                  Level 4 -- Lightning Magician
+                  Level 5 -- Gang Master
+
+
+<page 5>
+
+
+           <Picture of Kung-Fu Master high-kicking at a dragon>
+
+
+                                Your Moves
+
+To move right or left:  Move joystick right or left
+
+To jump:  Push joystick forward
+
+To squat:  Pull joystick back
+
+To kick high:  Move joystick right or left and press button
+
+To kick low:  Pull joystick back and press button
+
+To punch high:  Pull joystick diagonally forward to right or left and
+press button
+
+To punch low:  Pull joystick diagonally back to right or left and 
+press button
+
+To break Henchman's hold:  Jiggle joystick from side to side
+
+
+<page 6>
+
+                      Earn More Points and More Lives
+
+                         Points              Points Per
+Enemy                    Per Kick            Punch
+Henchman                 100                 200
+Knife Thrower            500                 800
+Midgets                  200                 300
+Dragon Ball              2000                2000
+Killer Moths             500                 600
+Stick Fighter            2000                2000
+Boomerang Thrower        3000                3000
+Giant Kicker             3000                3000
+Lightning Magician       5000                5000
+Gang Master              10,000              10,000
+
+Any time left at the end of a level is multiplied by 10 and added to
+your score.  Any energy left at the end of a level is multiplied by 100
+and added to your score.
+
+You can win an extra life at 75,000 points.  Good luck!
+
+                          Final Words To The Wise
+
+Don't punch or kick without a reason.  A true Kung-Fu Master
+strikes quickly and carefully.
+
+Find your enemy's weak spot.  Learn what kind of blows hurst each
+for the most.
+
+Don't battle snakes or spinning bombs.  The best you can do is 
+stay out of their way.
+
+No single enemy blow can kill you.  (You are a Master after all.)
+Each blow, however, does deplete your energy and makes you
+weak.  The right blow at the wrong time CAN kill you.
+
+Watch your timer.  When it runs out one life is lost.
+
+
+<page 7>
+
+                                 WARRANTY
+
+Absolute Entertainment, Inc. warrants to the original retail purchaser of 
+this video game computer program product ("Program") that the game 
+cartridge in which the Program is embodies will be free from defects in 
+material and workmanship for 90 days from the day of purchase.  If your 
+game cartridge becomes defective during that period, Absolute 
+Entertainment, Inc. will replace it free of charge.
+
+To replace a defective cartridge during the warranty period, mail the 
+entire game cartridge, proof of your purchase with the purcahse date 
+circled, a brief statement describing the defect, and a large, self-
+addressed, stamped envelope to:
+
+                              Warranty Offer
+                              Absolute Entertainment, Inc.
+                              P.O. Box 116
+                              Glen Rock, N.J.  07452
+
+If your cartridge fails after the end of the 90-day warranty period, you 
+may return it to Absolute Entertainment, Inc. at the address above with a 
+check or money order for $17.50, a brief statement describing the defect, 
+and a large, self-addressed, stamped envelope.
+
+We recommend that defective cartridges be packaged carefully and sent 
+certified mail, return receipt requested.  Absolute Entertainment, Inc. 
+will not be responsible for replacing defective cartridges until they have 
+been received by us at the above address.
+
+This warranty is limited to the cartridge originally supplied by Absolute 
+Entertainment, Inc. and is not applicable to the Program embodied in the 
+catridge.  This warranty will not be honored if the defect has arisen 
+through abuse, mistreatment, improper care of the cartridge, neglect, or 
+normal wear and tear.
+
+THIS WARRANTY IS IN LIEU OF ALL OTHER WARRANTIES, WHETHER ORAL OR WRITTEN, 
+EXPRESSED OR IMPLIED, INCLUDING ANY WARRANTY OF MERCHANTABILITY OF FITNESS 
+FOR A PARTICULAR PURPOSE, AND NO OTHER REPRESENTATIONS OR CLAIMS OF ANY 
+NATURE WILL BE BINDING ON OR OBLIGATE ABSOLUTE ENTERTAINMENT, INC. IN NO 
+EVENT WILL ABSOLUTE ENTERTAINMENT, INC. BE LIABLE FOR SPECIAL, INDIRECT, 
+INCIDENTAL, OR CONSEQUENTIAL DAMAGES RESULTING FROM POSSESSION, USE, OR 
+MALFUNCTION OF THIS PRODUCT, INCLUDING DAMAGE TO PROPERTY, AND TO THE 
+EXTENT PERMITTED UNDER THE LAW, DAMAGES FOR PERSONAL INJURY, EVEN IF 
+ABSOLUTE ENTERTAINMENT, INC. HAS BEEN PREVIOUSLY ADVISED OF THE POSSIBILITY 
+OF SUCH DAMAGES.  
+
+THE PROGRAM IS SOLD "AS-IS" AND NO WARRANTIES, EXPRESSED OR IMPLIED, 
+INCLUDING WARRANTIES FOR MERCHANTABILITY OR FITNESS OF PURPOSE, WILL BE 
+APPLICABLE.
+
+SOME STATES DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS 
+AND/OR THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, 
+SO THE AVOVE LIMITATIONS AND/OR EXCLUSION OR LIMITATION OF LIABILITY MAY 
+NOT APPLY TO YOU. THIS WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS, AND YOU 
+MAY HAVE OTHER RIGHTS WHICH VARY FROM STATE TO STATE.
+
+
+<back cover, all black except for white Absolute logo & serial number>
+
+
+
+
+
+
+
+
+
+
+
+
+                                 ABSOLUTE
+   AM-039-03                 ENTERTAINMENT (r)
+

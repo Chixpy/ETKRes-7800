@@ -1,0 +1,165 @@
+<a barnyard setting, two ravens fly overhead as a bottle explodes
+where the crosshair sights are>
+
+
+                             ATARI(r) 7800(tm) Game Manual
+
+
+
+
+                                       BARNYARD 
+                                        BLASTER
+
+
+
+
+
+
+Have a Blast!
+
+     You and your grandpa just put your life savings into buying a small farm-
+-a few acres for growing vegetables and raising horses, a place to get away 
+from the battle of city life.
+     As the two of your settle in on the back porch, you notice a couple of 
+small critters scurrying across the cornfield.  Then you hear squeaks and 
+squawks coming from the barn.  Horror of horrors!  Your entire farm is 
+infested with vermin determined to drive you away!
+     It's you or them.  With your trusty gun in hand, you head for the 
+barnyard.  Gramps backs you all the way.  You'll show them you're no city 
+slouch!
+
+
+Getting Started
+
+1.  With your Atari 7800 set up, insert the Barnyard Blaster cartridge into 
+    the console.  Plug your Atari XG-1 light gun into the left controller port 
+    on the front of your console.  (In a two-player game, players share on 
+    light gun.)
+
+2.  Turn on your television, and press the [Power] key to turn on the console. 
+    The Barnyard Blaster title screen will appear.  Aim the light gun at the 
+    screen and shoot to view the game options:  bales of hay with a one-player 
+    or two-player game option.  (If you don't shoot the title screen, the game 
+    options screen will automatically appear in a few seconds.)
+
+3.  Holding the light gun three to five feet from the screen, aim and shoot 
+    at the bale for the option you choose.
+
+4.  To pause the game, press [Pause].  To return to the title screen, press 
+    [Reset].
+
+5.  To turn the music on or off, press [Select].
+
+
+Playing the Game
+
+     Your goal is to rid your farm of vermin by shooting targets in each of 
+three areas:  the barnyard, the cornfield, and the barn.  You aim and shoot 
+your light gun to hit static and moving targets on the screen.  You have up to 
+40 bullets per screen, so aim accurately to avoid wasting precious ammunition.
+     In order to advance through each area, you must achieve a certain 
+percentage of shooting accuracy in that area.  Each time you finish one area 
+of the farm, your scores are displayed:  your score for that screen, your bonus
+bullet score based on the number of spares, and your total game score.  You 
+can shoot the score screen to advance to the next screen, or you can wait for 
+it to advance automatically.
+     A fourth area of the farm--Gramps' bonus screen--gives you a chance to 
+brush up on your target shooting and earn extra points.  This screen appears 
+each time you leave other areas of the farm.
+     If you make it through all three areas, you'll make the rounds again and 
+again, with each round more challenging than the last.  At the end of the 
+game, you'll be given one of 13 possible target-shooting ranks, from Total 
+Dud, the lowest, to Blaster, the highest.
+
+Rank                          Screens Complete
+
+Total Dud.............................0
+Egg Hunter..........................1-2
+Stable Hand.........................3-5
+Hay Baler...........................6-8
+Cow Milker.........................9-11
+Red Neck..........................12-14
+Farmer............................15-17
+Harvester.........................18-20
+Husker............................21-23
+Shootist..........................24-26
+Terminator........................27-29
+Sniper............................30-32
+Blaster...........................33-36
+
+
+The Farm Layout
+
+     Barnyard Blaster provides four screens on which to practice your shooting 
+skills.
+     
+The Barnyard
+     
+     In the barnyard, bottles and cans lines up on a fence offer great 
+practice for warming up the old shootin' iron.  This is your target practice 
+area.  Watch for the gopher, who may appear in the field behind the tree.  
+He's a quick little fellow.  (The gopher can appear on all four of the 
+different screens.)
+
+The Cornfield
+
+     In the cornfield, you'll aim at static targets--watermelons and pumpkins-
+-and moving targets--crows and rabbits.  You must shoot the veggies before you 
+can get the moving critters.
+
+The Barn
+
+     As you enter the barn, all sorts of critters will skitter across the 
+floor.  Occasionally, birds will swoop down.
+
+Gramps' Bonus Screen
+
+     On the bonus screen, Gramps will throw 10 bottles into the air to help 
+you hone your shooting skills.  Shoot each bottle before it disappears.  But 
+don't shoot poor Gramps.  If you do, the bonus round will end.
+
+
+Scoring
+
+     In each area of the farm, points range from 10 to 250, depending on the 
+target and how quickly you hit it.  The smaller and faster the target, the 
+more points it's worth.
+
+Screen                        Target                   Points
+
+Barnyard                      Bottle                   10-50
+                              Can                      10-50
+                              Gopher                   50-250
+Cornfield                     Watermelon               10-50
+                              Pumpkin                  10-50
+                              Rabbit                   30-150
+                              Crow                     30-150
+                              Gopher                   50-250
+Barn                          Duck                     20-100
+                              Chicken                  20-100
+                              Small Birds              30-150
+                              Owl                      30-150
+                              Rabbit                   30-150
+                              Mouse                    50-250
+                              Gopher                   50-250
+Gramps' Bonus                 Spinning Bottle          20-100
+                              Gopher                   50-250
+
+
+
+
+
+
+Atari Corporation is unable to guarnatee the accuracy of printed material 
+after the date of publication and disclaims liability for changes, errors, or 
+omissions.  Reproduction of this document or of any portion of its contents is 
+not allowed with the specific written consent of Atari Corporation.
+
+Atari(r), the Atari logo, Barnyard Blaster(tm), XG-1(tm), and 7800(tm) are 
+trademarks or registered trademarks of Atari Corporation.
+
+Copyright (c) 1988, Atari Corporation, Sunnyvale, CA  94086.         |||
+All rights reserved.                                                / | \
+                                                                    ATARI(r)
+Printed in Hong Kong.  C300018-059 Rev. A          B.T. 7, 1989  
+

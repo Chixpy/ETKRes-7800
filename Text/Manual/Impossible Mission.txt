@@ -1,0 +1,541 @@
+                    ATARI (R) 7800 (TM) Game Manual
+
+                                SUPER GAME
+
+                               TOP SECRET!
+                          OPERATION: Atombender
+                      I.M.A. Special Terrorist Unit
+                             MISSION BRIEFING
+                         for the Atari 7800 (TM)
+
+                                IMPOSSIBLE
+                               MISSION (TM)
+                                 by Epyx
+
+TABLE OF CONTENTS
+
+TOP SECRET DOCUMENT                             1
+Mission Briefing                                2
+Dossier: Elvin Atombender                       3
+Intelligence Report                             5
+        Elvin's Stronghold                      5
+        Elvin's Robots                          6
+        Elvin's Security Systems                7
+
+GAME INSTRUCTIONS                               8
+Getting Started                                 8
+Playing the Game                                8
+        Moving through the Stronghold           9
+        Searching for Codes                     9
+        Using Security Terminals               10
+        Code Rooms                             11
+        The Pocket Computer                    12
+        Using the Glove                        13
+        Using the Phone                        14
+        Solving the Puzzles                    15
+        The Control Room                       15
+Strategy                                       16
+Scoring                                        17
+
+Every effort has been made to ensure the accuracy of the product
+documentation in this manual. However, because Atari=A0Corporation is
+constantly improving and updating its computer hardware and software, it is
+unable to guarantee the accuracy of printed material after the date of
+publication and disclaims liability for changes, errors, or omissions.
+
+Reproduction of this document or of any portion of its contents is not
+allowed without the specific written consent of Atari Corporation.
+
+Impossible Mission (TM) is a trademark of Epyx, Inc., copyright (C) 1984.
+
+Atari (R), the Atari logo, and 7800 (TM) are trademarks or registered
+trademarks of Atari Corporation.
+
+ATARI (R)
+Copyright (C) 1989, Atari Corporation
+Sunnyvale, CA 94086
+All rights reserved.
+
+
+TOP SECRET
+DOCUMENT
+
+
+
+DO NOT ACCEPT IF SEAL IS BROKEN
+
+Courier is required by law to obtain proof of identity before releasing
+this document. Unauthorized possession of these materials is a criminal
+offense punishable by law.
+
+RETURN TO I.M.A., WASHINGTON, DC 20024
+
+
+TOP SECRET
+
+Agent's Eyes Only!
+Officer Courier Only!
+
+To: Special Agent 4125
+Re: Mission Briefing
+
+Subject: Mission of vital importance to national and global security.
+Operations to begin immediately. Utmost urgency.
+
+Situation: During the past three days, key military computer installations
+of every major world power have reported security failures. In each case,
+someone gained access to a primary missile attack computer.
+
+Only one person is capable of computer tampering on this scale: Professor
+Elvin Atombender (hereafter referred to as "Elvin").
+
+We believe that Elvin is working to break the computer's launch codes. When
+he succeeds, he plans to trigger a missile attack that will destroy the
+world.
+
+Mission: You must penetrate Elvin's underground stronghold and stop him. To
+succeed, you will have to evade the scientist's robot guards, break his
+security code, and find his control center. Your predecessors Agents 4116
+and 4124 (may they rest in peace), were able to send back some information
+about Elvin's installation. It is detailed in the following pages.
+
+Your only weapons will be your keen analytical mind and your MIA9366B
+pocket computer. Good luck. The world is depending on you.
+
+DOSSIER:
+ELVIN ATOMBENDER
+
+Last Known Picture of Elvin
+
+Sex:    Male
+Age:    62
+Height: 5' 4"
+Hair:   No
+Eyes:   Yes
+Traits: Avoids people.
+        Hates animals.
+        Likes brussels sprouts.
+
+Childhood: Elvin was a nice boy. Well, his mother liked him. In school, he
+loathed sports but excelled in mathematics. He seldom caused any problems
+(at least none with any global consequences). At home, Elvin spent most of
+his time staring at his computer screen, a seemingly harmless recreation.
+
+Oh, there was the time Elvin broke into the phone company's computer system
+and changed the records. Angry at his parents for some real or imagined
+crime, the playful youngster added a long distance call to their monthly
+phone bill: a five-and-a-half-hour call to Afghanistan. His parents were
+tolerant. They were sure he would eventually outgrow his passion for
+tinkering with other people's computers.
+
+Turning point: It was during his days as a college student that Elvin was
+transformed from a promising young man into a treacherous evildoer. Elvin
+had become obsessed with a new computer game, "Giggling Penguin Invaders
+from Outer Space in the Vicinity of Ursa Minor." (Elvin had always hated
+penguins from Ursa Minor.)
+
+The game's score counter went up to 100,000,000,000, and Elvin was
+determined to "max it out." After playing the game for several days without
+sleep, he had vaporized enough penguins to pile up 99,999,999,785 points.
+One more tuxedoed avian and he'd have it.
+
+Elvin shook out his joystick hand. A 250-point penguin waddled onto the
+screen. Elvin's eyes lit up. He took aim. And then, at that precise moment,
+the power failed. Elvin's game was lost; he'd never get a score that high
+again.
+
+In that instant, something snapped in Elvin's mind. He became consumed with
+a single maniacal obsession. He would repay the world for the injustice it
+had dealt him.
+
+For many years, Elvin waited. He became a distinguished professor, a
+renowned expert in computers and robots. Then, eight years ago, he
+disappeared. His whereabouts were unknown until now.
+
+INTELLIGENCE REPORT
+
+ELVIN'S STRONGHOLD
+
+Using the fortune he amassed by raiding the computer systems of various
+financial institutions, Elvin has constructed a vast underground stronghold
+packed with computer equipment.
+
+Room Screen
+
+There are 32 rooms in Elvin's stronghold. Some of them are used as living
+quarters, and others are computer rooms. These are not ordinary rooms,
+however. Elvin has constructed them so that only he can negotiate them
+easily.
+
+Each room has a number of floors or catwalks that are connected by lifts.
+The floors and catwalks often end abruptly, dropping off into space. And
+they're guarded by Elvin's nasty, human-seeking robots.
+
+ELVIN'S ROBOTS
+
+Height: 1.57 meters
+Weight: 67 kilos
+Armor Type: Ablative (AC: -4)
+Vcc: 5 megavolts
+Weaponry: High-voltage ionic plasma generator
+Energy Reserves: 3.14 megajoules (est.)
+Maximum Angular Velocity: 1.2 megaradians/fortnight
+Longitudinal Velocity:
+Alpha Class: 2.5 x 10-8 c
+Beta Class:  1.2 x 10-8 c
+Gamma Class: 5.9 x 10-9 c
+Omega Class: 0 c
+Photovoltaic Threshold: 0.12 lumens
+Entropic Conversion Rate: 3.71828 ergs/nsec
+Thermionic Coefficient: 6.07 therms/hour
+
+Elvin's robots are equipped with sound/motion sensors. These sensors act as
+the robot's ears, allowing the robot to home in on you whether it can see
+you or not.
+
+The robots are propelled by linear induction motors embedded in the floors
+of the complex. The magnets keep the robots from leaving the floor's
+surface.
+
+The robot's high-voltage electrode projects a lethal electrical discharge
+approximately six feet.
+
+Infrared photocells act as the robot's eyes. They can detect the presence
+of human body warmth anywhere in front of the robot.
+
+{diagram of a robot}
+
+Sound/Motion Sensors
+High-Voltage Electrodes
+Infrared Photocells
+Linear Induction Magnet
+
+ELVIN'S SECURITY SYSTEM
+
+Intelligence indicates that Elvin uses three types of codes (or passwords)
+in his security system. One code deactivates the robots, another operates
+the lifts, and the third code (a password) unlocks the control room.
+
+Elvin is very tricky, not to mention a little strange. He hides the
+passwords in his furniture! Elvin frequently forgets the passwords for his
+security computer, so he scatters them around, stashing them in the
+weirdest places. You might find a password in the sofa, stereo, or candy
+machine. But you must find the passwords to stay alive.
+
+Once you find the codes, using them should be relatively easy for the most
+part. You should be able to log onto a security terminal as you enter each
+room and deactivate the robots or reset the lifts (if necessary) from
+there.
+
+The control-room password is another matter. Elvin has broken up this
+important code into dozens of pieces and scattered them throughout the
+complex. You will have to find and retrieve all the pieces of the code and
+fit them together like a puzzle to form the password.
+
+With the completed password, you can gain access to the control room where
+Elvin is preparing to launch the missiles. You have to stop him, or the
+world's going to pay an awfully high price for a 250-point penguin!
+
+GAME INSTRUCTIONS
+
+Getting Started
+
+1.  Insert the Impossible Mission cartridge into your Atari 7800 as
+    explained in your Owner's Manual. Plug a joystick into the left
+    controller port.
+
+2.  Turn on your television or monitor; then press [Power] to turn on your
+    Atari console. The Impossible Mission title screen will appear.
+
+3.  Press the joystick fire button or [Reset] to begin the game.
+
+4.  To restart the game during play, press [Reset]. The rooms and robots
+    will be rearranged, and the computer will generate a new set of
+    puzzles.
+
+Playing the Game
+
+You must penetrate the rooms and tunnels in Elvin's stronghold, avoid his
+robot defenders, and put together his secret password. You can then enter
+Elvin's control room and put a stop to his plans to destroy the world.
+
+You score points by finding puzzle pieces and putting them together and by
+reaching Elvin's control room before time runs out. As your skill at the
+game increases, you can achieve higher scores by completing the password
+and reaching the control room with more time left on the clock. However,
+each time you play, the rooms and robots will be rearranged and the puzzles
+will be different.
+
+
+MOVING THROUGH THE STRONGHOLD
+
+You can move through the stronghold in the following ways:
+
+In the elevator: Push the joystick handle forward or back to go up or down.
+                 Push the joystick handle left or right to move in either
+                 direction along the corridor. Running off the edge of the
+                 screen takes you into a room.
+
+In the rooms: Push the joystick handle left or right to move in either
+              direction. If you press the joystick fire button, your agent
+              will perform a midair forward flip that is especially useful
+              in somersaulting over persistent robots.
+
+On lifting platforms: If you're standing on a striped lifting platform in
+                      one of the rooms, you can push the joystick handle
+                      forward or back to go up or down.
+
+
+SEARCHING FOR CODES
+
+As you explore Elvin's stronghold, your pocket computer at the bottom of
+the elevator screen will display a map of the rooms and tunnels you have
+entered. In every room, you should conduct a search.
+
+Search every object or piece of furniture in the rooms for codes and
+password puzzle pieces. (Remember to be on the lookout for robots.) You can
+do this by standing directly in front of an object (such as a sofa, desk,
+or fireplace) and pushing the joystick handle forward.
+
+The word "Searching" will appear in a box near your agent's shoulder. You
+will also see a horizontal bar indicating the length of time it will take
+to search the object. You must continue holding the joystick handle forward
+until the bar disappears.
+
+If your search is interrupted for any reason, you can go back to the object
+and resume searching where you left off. If you leave the room, however,
+you'll have to start the search from the beginning if you return.
+
+When you have finished searching the object, one of four things will appear
+above your agent's shoulder:
+
+The words "Nothing here."
+
+A picture of a sleeping robot. This picture represents a SNOOZE password,
+which allows you to deactivate the robots in a room temporarily.
+
+A picture of a striped lifting platform with an arrow above it. This
+represents a LIFT INIT password, which allows you to reset all the lifting
+platforms in a room to their original positions.
+
+A puzzle piece. This is part of the password that allows entry to the
+control room. It will be entered into the memory of your pocket computer
+automatically.
+
+
+USING SECURITY TERMINALS
+
+You can use the SNOOZEs and LIFT INITs at any security terminal. These are
+terminals that are located near the entrance to each room. They look like
+television sets with darkened screens.
+
+To use a security terminal, move directly in front of it and push the
+joystick handle forward. The screen of the security terminal will enlarge
+to fill your display. You can select one of the three functions by moving
+the joystick handle forward or back; press the joystick fire button when
+the arrow points to the function you want.
+
+Reset lifting platforms: To use this option, you must have a LIFT INIT
+                         password in your possession. (Your pocket computer
+                         displays the number of LIFT INITs you have.)
+
+Temporarily disable robots: To use this option, you must have a SNOOZE
+                            password in your possession. (Your pocket
+                            computer displays the number of SNOOZEs you
+                            have.)
+
+Log off.
+
+
+CODE ROOMS
+
+Elvin's stronghold contains two code rooms where you can earn additional
+passwords. Move your agent up to the console and push the joystick handle
+forward as if you were searching it. A sequence of squares will flash on
+the wall, each with a musical note, and a white glove will appear. Use the
+white glove to touch each square in a sequence so that the notes are sorted
+in ascending order (from low to high).
+
+If you produce the proper sequence of notes, the checkerboard will flash
+and you'll get a SNOOZE or LIFT INIT password. You can do this as many
+times as you like, but the sequence gets longer each time. You can quit at
+any time by pushing the joystick handle forward to touch the purple bar
+with the glove.
+
+
+THE POCKET COMPUTER
+
+Your pocket computer allows you to play with the puzzle pieces, twisting
+them around to figure out how they go together.
+
+To activate your pocket computer, your agent must be standing in one of the
+elevators or corridors. Press the joystick fire button to turn on the
+pocket computer.
+
+Note: You can't use the pocket computer in any of the rooms. Pressing the
+fire button in a room will make your agent do a somersault.
+
+When the computer is activated, the map of Elvin's stronghold will vanish
+and a white glove will appear. Use the glove to put the puzzle pieces
+together, forming the password that will let you enter Elvin's control
+room.
+
+{diagram of pocket computer}
+
+The pocket computer consists of these components:
+
+The Selected Puzzle Piece is the piece you are working with.
+
+The Memory Window displays two of the puzzle pieces you have collected.
+
+Arrow keys move the puzzle pieces into the memory window.
+
+The Phone Key dials out for help. (See Using the Phone.)
+
+The Vertical Flip Key flips the selected puzzle piece vertically.
+
+The Horizontal Flop Key flops the selected piece horizontally.
+
+The Trash Can Key deletes the selected puzzle piece from the display (but
+not from memory).
+
+The Off Key turns off the pocket computer.
+
+If you have just deleted a puzzle piece or put two pieces together, you can
+use the Exclamation Key to "undo" it.
+
+The Paws Key pauses the game.
+
+The Color Keys change the color of the selected puzzle piece.
+
+Each time you complete a puzzle, one letter of Elvin's password will appear
+at the bottom of the pocket computer screen.
+
+
+USING THE GLOVE
+
+To move the glove, move the joystick handle in the desired direction.
+
+To activate a function key, point to it with the glove and press the
+joystick fire button.
+
+To pick up a puzzle piece in the memory window, point to it with the glove
+and press the fire button. You can then move it by moving the joystick
+handle.
+
+To drop a puzzle piece, press the fire button.
+
+To make a copy of the selected puzzle piece, point to it with the glove and
+press the fire button.
+
+To put back a copy of the selected piece, position the copy directly over
+the selected piece and press the fire button.
+
+To select a puzzle piece that isn't selected, point to it with the glove
+and press the fire button.
+
+To find out if two pieces match, position one piece directly over the other
+and press the fire button.
+
+
+USING THE PHONE
+
+When you touch the phone key on your pocket computer, it dials up the
+Agency's main computer to help you solve the puzzles. However, there is a
+charge for this service: each use of the phone costs two minutes on the
+game clock.
+
+The Agency's computer will give you three choices:
+
+Correct orientations of the leftmost pieces. The computer will flip the two
+puzzle pieces in the memory window to put them in their correct positions.
+A red mark appears to the left of each piece that has been flipped.
+
+Have we enough pieces to solve the upper left puzzle? The computer will
+look at the upper puzzle piece in the memory window and tell you whether or
+not you've found all three of the pieces that go with it to complete the
+puzzle.
+
+Hang up. This hangs up the phone.
+
+Select the phone function you want by pointing to it with the glove and
+then pressing the joystick fire button.
+
+
+SOLVING THE PUZZLES
+
+Some pieces are upside down or backwards (or both) when you find them. If a
+piece doesn't seem to match anything, try flipping it with the function
+keys.
+
+Pieces must be the same color, or they won't match. If two pieces with
+different colors look as if they might match, use the color keys to change
+them.
+
+A completed puzzle looks like a computer punch card: a solid rectangle with
+several little holes in it. A completed puzzle may be upside down or
+backwards when you finish putting it together. You may have to flip it
+around before it is recognized as a solution.
+
+There are four pieces in each completed puzzle and nine puzzles in the
+game. Once you have solved all nine puzzles, you will have the nine-letter
+password that opens the door to Elvin's control room.
+
+
+THE CONTROL ROOM
+
+The door to Elvin's control room is in one of the blue rooms. When you have
+completed the password, position your agent directly in front of the
+control-room door and push the joystick handle forward. The door will open,
+and Elvin's plot is foiled.
+
+
+Strategy
+
+Some rooms are harder to navigate than others. If a room seems too hard,
+come back to it after you have acquired enough passwords to reset the lifts
+and turn off the robots.
+
+Each robot has a different behavior program. Some robots move faster than
+others, some shoot lightning bolts, and some can't see or hear. Watch each
+robot closely. You can often figure out which program is running the robot
+before you try to get past it.
+
+Your pocket computer will let you combine any two puzzle pieces that don't
+overlap. However, puzzle pieces that don't overlap don't necessarily belong
+together. If you find that it's impossible to finish partially completed
+puzzle, you may have combined the wrong pieces.
+
+You don't need to somersault over every hole in the floor. If a gap is no
+wider than a lifting platform, try stepping across it. But don't let up on
+the joystick until you get to the other side, or you'll fall.
+
+If you have to cross a very large chasm, you can actually have one foot in
+the abyss before you press the fire button to jump. If you do this
+correctly, it will give you the extra distance you need.
+
+
+Scoring
+
+The game clock on the pocket computer display starts at 12:00. The game
+ends when the clock reaches 6:00. Each time you fall off the bottom of the
+screen or get zappedd by a robot or a floating orb, you lose ten minutes.
+Each time you use the phone, you lose two minutes. When the game ends, you
+are awarded points as follows.
+
+
+Each second remaining on the clock         1 point
+Each puzzle pieces found                 100 points
+Each SNOOZE or LIFT INIT found           100 points
+Each puzzle solved                       500 points
+Mission completed                       1000 points
+
+
+ATARI (R)
+Copyright (C) 1989, Atari Corporation
+Sunnyvale, CA 94086
+All rights reserved.
+Printed in Hong Kong
+B.T.2.1989
+C300018-032 Rev. A
+
