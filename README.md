@@ -7,7 +7,7 @@ Icons, images, texts, videos, etc. for use with [Emuteca](https://github.com/Chi
 
 Use GIT to clone the repository or download it in zip:
 
-https://github.com/Chixpy/ETKRes-7800/archive/master.zip
+https://github.com/Chixpy/ETKRes-7800/archive/main.zip
 
 ## About Images
 
